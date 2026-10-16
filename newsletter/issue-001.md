@@ -5,16 +5,16 @@
 ## The big picture
 - **193** of 300 popular packs are **Active** (commit within the last year); **102** look **stale**, and **98** haven't had a commit in over a year (stale), and **63** active packs are *Quiet* (6–12 months without a commit).
 - In the **top 50**, 9 are stale (no commit in 12+ months), including household names:
-  - **ComfyUI_essentials** (#7, 3,068,850 downloads, 1199 ★) — last commit 2025-04-14
-  - **ComfyUI Impact Subpack** (#11, 2,305,569 downloads, 387 ★) — last commit 2025-07-22
-  - **ComfyUI_IPAdapter_plus** (#18, 1,579,496 downloads, 6143 ★) — last commit 2025-04-14
-  - **ComfyUI-mxToolkit** (#21, 1,217,314 downloads, 318 ★) — last commit 2025-05-07
-  - **Derfuu_ComfyUI_ModdedNodes** (#36, 768,407 downloads, 454 ★) — last commit 2024-06-22
-  - **ControlAltAI_Nodes** (#39, 685,109 downloads, 211 ★) — last commit 2025-06-05
-  - **ComfyUI-TeaCache** (#42, 617,788 downloads, 1097 ★) — last commit 2025-07-12
-  - **ComfyUI-WD14-Tagger** (#43, 608,534 downloads, 1244 ★) — last commit 2025-07-11
+  - **ComfyUI_essentials** (#7, 3,068,854 downloads, 1199 ★) — last commit 2025-04-14
+  - **ComfyUI Impact Subpack** (#11, 2,305,581 downloads, 387 ★) — last commit 2025-07-22
+  - **ComfyUI_IPAdapter_plus** (#18, 1,579,503 downloads, 6143 ★) — last commit 2025-04-14
+  - **ComfyUI-mxToolkit** (#21, 1,217,322 downloads, 318 ★) — last commit 2025-05-07
+  - **Derfuu_ComfyUI_ModdedNodes** (#36, 768,412 downloads, 454 ★) — last commit 2024-06-22
+  - **ControlAltAI_Nodes** (#39, 685,113 downloads, 211 ★) — last commit 2025-06-05
+  - **ComfyUI-TeaCache** (#42, 617,789 downloads, 1097 ★) — last commit 2025-07-12
+  - **ComfyUI-WD14-Tagger** (#43, 608,535 downloads, 1244 ★) — last commit 2025-07-11
 - Only **12** of 300 declare a `requires-comfyui` range in pyproject.toml — so version compatibility is mostly guesswork for users.
-- **27** packs shipped commits this week; **21** published a new registry release.
+- **27** packs shipped commits this week; **22** published a new registry release.
 
 ## ⚠️ Possibly broken
 - **ComfyUI-VideoHelperSuite** — 3 error/breakage issues opened in last 60 days. Recent reports: [Load Video (upload) UI breaks, doesn't allow parameter changes](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/734); [plugin load failed TypeError: Cannot read properties of null (reading 'includes'](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/725); [VHS_LoadVideo: deleting an already-executed input video crashes prompt_worker on](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/717)
@@ -33,7 +33,7 @@
 - **DemonAlone-nodes-ComfyUI** v4.8.0 (2026-10-15)
 - **ComfyUI-KikoTools** v1.1.2 (2026-10-15)
 - **ComfyUI-Tripo** v2.0.0 (2026-10-14)
-- **ComfyUI Nvidia VFX Nodes** v0.2.1 (2026-10-13)
+- **DyPE** v2.19.1 (2026-10-14)
 
 ## 🪦 Gone missing
 - **comfyui-reactor-node** — `Gourieff/comfyui-reactor-node` no longer resolves on GitHub (still listed in the registry)
