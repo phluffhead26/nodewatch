@@ -18,7 +18,10 @@ input,select{background:#171a21;color:#eee;border:1px solid #333;padding:6px;bor
 def page(title, body, depth=0):
     up = '../' * depth
     return f"""<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width"><title>{e(title)} · NodeWatch</title><link rel=stylesheet href="{up}style.css"></head>
-<body><header><a href="{up}index.html">NodeWatch</a><a href="{up}changes.html">What changed this week</a><a href="{up}about.html">About / methodology</a></header><main><div class=card style='border-left:4px solid #c90'><b>Heads up:</b> statuses are automated heuristics from commit dates, registry metadata and issue titles. &quot;Stale&quot; can mean &quot;finished and stable&quot;; &quot;Possibly broken&quot; means users are reporting errors, not that it is confirmed broken. Always check the repo.</div>{body}</main></body></html>"""
+<body><header><a href="{up}index.html">NodeWatch</a><a href="{up}changes.html">What changed this week</a><a href="{up}about.html">About / methodology</a></header><main><div class=card style='border-left:4px solid #c90'><b>Heads up:</b> statuses are automated heuristics from commit dates, registry metadata and issue titles. &quot;Stale&quot; can mean &quot;finished and stable&quot;; &quot;Possibly broken&quot; means users are reporting errors, not that it is confirmed broken. Always check the repo.</div>{body}</main><script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></body></html>"""
+SIGNUP = """<div class=card id=signup><b>Get the weekly NodeWatch report: what broke, what went stale, what shipped.</b>
+<script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="9aeaac30-d209-476b-a30c-c48486ecf584"></script>
+<div class=muted>Form not showing? <a href="https://nodewatch-news.beehiiv.com/subscribe">Subscribe here</a>.</div></div>"""
 def badge(s): return f'<span class="b {s.split()[0]}">{e(s)}</span>'
 shutil.rmtree(S, ignore_errors=True); os.makedirs(f'{S}/node')
 open(f'{S}/style.css', 'w').write(CSS)
@@ -29,7 +32,7 @@ from collections import Counter
 c = Counter(n['status'] for n in N)
 open(f'{S}/index.html', 'w').write(page('Index', f"""<h1>NodeWatch</h1><p class=muted>Tracking the top {M['tracked']} ComfyUI custom node packs (by registry downloads) out of {M['registry_total']} in the Comfy Registry. Updated {d10(M['generated'])}. GitHub mode: {e(M['github_mode'])}; issue data for {M['issues_coverage']}/{M['tracked']} packs.</p>
 <p>{' '.join(f'{badge(k)} {v}' for k, v in c.most_common())}</p>
-<p><input id=q placeholder="Search name, repo, description…" size=40><select id=st><option value="">All statuses</option><option value="__quiet">Quiet (6–12 mo)</option>{''.join(f'<option>{k}</option>' for k in c)}</select><span id=cnt class=muted></span></p>
+{SIGNUP}<p><input id=q placeholder="Search name, repo, description…" size=40><select id=st><option value="">All statuses</option><option value="__quiet">Quiet (6–12 mo)</option>{''.join(f'<option>{k}</option>' for k in c)}</select><span id=cnt class=muted></span></p>
 <table><thead><tr><th data-k=rank>#</th><th data-k=name>Pack</th><th data-k=status>Status</th><th data-k=downloads>Downloads</th><th data-k=stars>Stars</th><th data-k=last_commit>Last commit</th><th data-k=open_issues>Open issues*</th><th data-k=err>Recent error issues</th><th data-k=req>ComfyUI req.</th></tr></thead><tbody id=tb></tbody></table>
 <p class=muted>* open issues excluding PRs, sampled from the first 100 open items; blank = not yet fetched (GitHub rate limit).</p>
 <script>
@@ -56,7 +59,7 @@ for n in N:
 <tr><th>Open issues</th><td>{e(i.get('open_issues_sample'))}{'+' if i.get('open_issues_capped') else ''} issues, {e(i.get('open_prs'))} PRs <span class=muted>(fetched {d10(i.get('fetched'))})</span></td></tr>
 <tr><th>pyproject.toml</th><td>{'present' if p.get('pyproject') is True else e(p.get('pyproject') or 'missing')} · version {e(p.get('version'))} · requires-comfyui <b>{e(p.get('requires_comfyui'))}</b> · frontend {e(p.get('frontend'))} · requires-python {e(p.get('requires_python'))} · {e(p.get('deps'))} deps</td></tr>
 <tr><th>Registry ComfyUI req.</th><td>{e(n.get('registry_comfyui_version'))}</td></tr></table></div>
-<h2>Open issues mentioning errors / breakage</h2><ul>{errs}</ul><h2>Recent commits</h2><ul>{cm or '<li class=muted>n/a</li>'}</ul>"""
+<h2>Open issues mentioning errors / breakage</h2><ul>{errs}</ul><h2>Recent commits</h2><ul>{cm or '<li class=muted>n/a</li>'}</ul>{SIGNUP}"""
     open(f'{S}/node/{n["id"]}.html', 'w').write(page(n['name'], body, 1))
 # changes
 commits = sorted([n for n in N if (dt(n.get('last_commit')) or NOW - timedelta(999)) >= WEEK], key=lambda n: n['last_commit'], reverse=True)
@@ -65,7 +68,7 @@ newerr = [(n, x) for n in N for x in n['recent_error_issues'] if (dt(x['created'
 sc = [(n, prev[n['id']]['status']) for n in N if n['id'] in prev and prev[n['id']]['status'] != n['status']]
 entered = [n for n in N if prev and n['id'] not in prev]
 L = lambda n: f'<a href="node/{e(n["id"])}.html">{e(n["name"])}</a>'
-body = f"""<h1>What changed this week</h1><p class=muted>{d10(WEEK.isoformat())} → {d10(M['generated'])}</p>
+body = f"""<h1>What changed this week</h1><p class=muted>{d10(WEEK.isoformat())} → {d10(M['generated'])}</p>{SIGNUP}
 <h2>Status changes since last run ({len(sc)})</h2><ul>{''.join(f'<li>{L(n)}: {e(o)} → {badge(n["status"])}</li>' for n, o in sc) or '<li class=muted>None (or first run — no previous snapshot)</li>'}</ul>
 <h2>New registry releases ({len(rel)})</h2><ul>{''.join(f'<li>{d10(n["latest_version_date"])} {L(n)} v{e(n["latest_version"])}</li>' for n in rel)}</ul>
 <h2>Packs with commits ({len(commits)})</h2><ul>{''.join(f'<li>{d10(n["last_commit"])} {L(n)} — {e(n["recent_commits"][0]["title"])}</li>' for n in commits)}</ul>
