@@ -1,20 +1,20 @@
 # NodeWatch Weekly — Issue #1 (2026-10-17)
 
-*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,063 registered.*
+*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,066 registered.*
 
 ## The big picture
 - **193** of 300 popular packs are **Active** (commit within the last year); **102** look **stale**, and **98** haven't had a commit in over a year (stale), and **63** active packs are *Quiet* (6–12 months without a commit).
 - In the **top 50**, 9 are stale (no commit in 12+ months), including household names:
-  - **ComfyUI_essentials** (#7, 3,069,182 downloads, 1199 ★) — last commit 2025-04-14
-  - **ComfyUI Impact Subpack** (#11, 2,305,891 downloads, 387 ★) — last commit 2025-07-22
-  - **ComfyUI_IPAdapter_plus** (#18, 1,579,662 downloads, 6143 ★) — last commit 2025-04-14
-  - **ComfyUI-mxToolkit** (#21, 1,217,477 downloads, 318 ★) — last commit 2025-05-07
-  - **Derfuu_ComfyUI_ModdedNodes** (#36, 768,485 downloads, 454 ★) — last commit 2024-06-22
-  - **ControlAltAI_Nodes** (#39, 685,212 downloads, 211 ★) — last commit 2025-06-05
-  - **ComfyUI-TeaCache** (#42, 617,804 downloads, 1097 ★) — last commit 2025-07-12
-  - **ComfyUI-WD14-Tagger** (#43, 608,610 downloads, 1244 ★) — last commit 2025-07-11
+  - **ComfyUI_essentials** (#7, 3,070,376 downloads, 1199 ★) — last commit 2025-04-14
+  - **ComfyUI Impact Subpack** (#11, 2,306,962 downloads, 387 ★) — last commit 2025-07-22
+  - **ComfyUI_IPAdapter_plus** (#18, 1,580,343 downloads, 6143 ★) — last commit 2025-04-14
+  - **ComfyUI-mxToolkit** (#21, 1,218,040 downloads, 318 ★) — last commit 2025-05-07
+  - **Derfuu_ComfyUI_ModdedNodes** (#36, 768,786 downloads, 454 ★) — last commit 2024-06-22
+  - **ControlAltAI_Nodes** (#39, 685,541 downloads, 211 ★) — last commit 2025-06-05
+  - **ComfyUI-TeaCache** (#42, 617,890 downloads, 1097 ★) — last commit 2025-07-12
+  - **ComfyUI-WD14-Tagger** (#43, 608,858 downloads, 1254 ★) — last commit 2025-07-11
 - Only **12** of 300 declare a `requires-comfyui` range in pyproject.toml — so version compatibility is mostly guesswork for users.
-- **25** packs shipped commits this week; **22** published a new registry release.
+- **23** packs shipped commits this week; **22** published a new registry release.
 
 ## ⚠️ Possibly broken
 - **ComfyUI-VideoHelperSuite** — 3 error/breakage issues opened in last 60 days. Recent reports: [Load Video (upload) UI breaks, doesn't allow parameter changes](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/734); [plugin load failed TypeError: Cannot read properties of null (reading 'includes'](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/725); [VHS_LoadVideo: deleting an already-executed input video crashes prompt_worker on](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/717)
@@ -24,16 +24,16 @@
 - **ComfyUI MCP | Agent Panel** — 12 error/breakage issues opened in last 60 days. Recent reports: [panel_add_node SaveVideo errors on getter-only widgetId after creating node](https://github.com/artokun/comfyui-mcp-panel/issues/2306); [Fix panel_save_workflow fetch failure while websocket remains connected](https://github.com/artokun/comfyui-mcp-panel/issues/2302); [panel_set_widget / panel_edit_node cannot target nodes whose id is a non-integer](https://github.com/artokun/comfyui-mcp-panel/issues/2297)
 
 ## 🚀 Fresh releases this week
-- **comfyui_AcademiaSD** v2.5.5 (2026-10-16)
+- **ComfyUI-Krea2T-Enhancer** v1.5.1 (2026-10-17)
+- **comfyui_AcademiaSD** v2.5.7 (2026-10-17)
+- **D2-nodes-ComfyUI** v40.0.1 (2026-10-17)
+- **ComfyUI-KikoTools** v1.2.0 (2026-10-17)
 - **Basic data handling** v2.2.0 (2026-10-16)
 - **ComfyUI-DaSiWa-Nodes** v0.5.28 (2026-10-16)
 - **Pixaroma** v1.4.218 (2026-10-16)
 - **ComfyUI-BFSNodes** v1.106.3 (2026-10-16)
-- **ComfyUI-Krea2T-Enhancer** v1.5.0 (2026-10-16)
 - **DemonAlone-nodes-ComfyUI** v4.8.0 (2026-10-15)
-- **ComfyUI-KikoTools** v1.1.2 (2026-10-15)
 - **ComfyUI-Tripo** v2.0.0 (2026-10-14)
-- **DyPE** v2.19.1 (2026-10-14)
 
 ## 🪦 Gone missing
 - **comfyui-reactor-node** — `Gourieff/comfyui-reactor-node` no longer resolves on GitHub (still listed in the registry)
