@@ -1,0 +1,22 @@
+{
+ "_comment": "Manual fixes for keyword-tagging misfires. Keys are registry pack ids. 'functions'/'models' replace; add_*/remove_* adjust.",
+ "rgthree-comfy": {"functions": ["Workflow utilities & UI", "LoRA management"], "models": ["Generic / any"]},
+ "comfyui-easy-use": {"models": ["Generic / any"], "add_functions": ["Workflow utilities & UI"]},
+ "comfyui-impact-pack": {"models": ["Generic / any"], "add_functions": ["Face & portrait"]},
+ "ComfyUI-Crystools": {"functions": ["Workflow utilities & UI"]},
+ "comfyui-impact-subpack": {"functions": ["Masking & segmentation"]},
+ "cg-use-everywhere": {"functions": ["Workflow utilities & UI"]},
+ "ComfyUI-GGUF": {"models": ["Generic / any"]},
+ "comfyui_ipadapter_plus": {"remove_functions": ["LoRA management"], "models": ["SD1.5", "SDXL"]},
+ "was-node-suite-comfyui": {"remove_functions": ["3D", "Animation"]},
+ "comfyui-image-saver": {"functions": ["Workflow utilities & UI"]},
+ "comfyui-rmbg": {"remove_functions": ["Workflow utilities & UI"]},
+ "comfyui-inpaint-cropandstitch": {"functions": ["Masking & segmentation", "Image editing & inpainting"], "models": ["Generic / any"]},
+ "ComfyUI-nunchaku": {"functions": ["Loaders, quantization & speed"]},
+ "comfyui-detail-daemon": {"models": ["Generic / any"]},
+ "comfyui-animatediff-evolved": {"add_functions": ["Video"], "models": ["SD1.5", "SDXL"]},
+ "comfyui_tinyterranodes": {"models": ["Generic / any"]},
+ "teacache": {"functions": ["Loaders, quantization & speed"]},
+ "comfyui-inpaint-nodes": {"models": ["SD1.5", "SDXL"]},
+ "comfyui-ollama": {"functions": ["Text, LLM & prompting"]}
+}

@@ -19,6 +19,17 @@
 ## 📈 Error spikes (worth checking recent issues)
 - No unusual error spikes this week.
 
+## 🔥 Rising this week
+- Star tracking started 2026-10-19; first numbers next week.
+
+## 🍴 Active forks of stale packs (suggestions, not endorsements)
+- **ComfyUI-GGUF** → [molbal/ComfyUI-GGUF](https://github.com/molbal/ComfyUI-GGUF): 100 commits ahead, last commit 2026-10-18
+- **ComfyUI-SaveImageWithMetaData** → [xxmjskxx/ComfyUI_SaveImageWithMetaDataUniversal](https://github.com/xxmjskxx/ComfyUI_SaveImageWithMetaDataUniversal): 679 commits ahead, last commit 2026-10-13
+- **ComfyUI-WD14-Tagger** → [nestflow/ComfyUI-Booru-Tagger](https://github.com/nestflow/ComfyUI-Booru-Tagger): 58 commits ahead, last commit 2026-10-07
+- **ComfyUI-SeedVR2_VideoUpscaler** → [ussoewwin/ComfyUI-SeedVR2-VideoUpscaler-with-TensorRT](https://github.com/ussoewwin/ComfyUI-SeedVR2-VideoUpscaler-with-TensorRT): 418 commits ahead, last commit 2026-10-12
+- **Civicomfy** → [KBYSHanahira/Civicomfy](https://github.com/KBYSHanahira/Civicomfy): 57 commits ahead, last commit 2026-10-12
+- **ComfyUI-Autocomplete-Plus** → [Aaalice233/ComfyUI-Autocomplete-Aaalice](https://github.com/Aaalice233/ComfyUI-Autocomplete-Aaalice): 60 commits ahead, last commit 2026-08-31
+
 ## 🚀 Fresh releases this week
 - **ComfyUI-DaSiWa-Nodes** v0.5.32 (2026-10-19)
 - **comfyui_AcademiaSD** v2.6.4 (2026-10-19)
