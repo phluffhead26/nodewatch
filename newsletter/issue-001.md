@@ -5,14 +5,14 @@
 ## The big picture
 - **198** of 300 popular packs are **Active** (commit within the last year); **102** look **stale**, and **98** haven't had a commit in over a year (stale), and **66** active packs are *Quiet* (6–12 months without a commit).
 - In the **top 50**, 9 are stale (no commit in 12+ months), including household names:
-  - **ComfyUI_essentials** (#7, 3,077,955 downloads, 1200 ★) — last commit 2025-04-14
-  - **ComfyUI Impact Subpack** (#11, 2,313,917 downloads, 390 ★) — last commit 2025-07-22
-  - **ComfyUI_IPAdapter_plus** (#18, 1,584,714 downloads, 6148 ★) — last commit 2025-04-14
-  - **ComfyUI-mxToolkit** (#21, 1,221,602 downloads, 319 ★) — last commit 2025-05-07
-  - **Derfuu_ComfyUI_ModdedNodes** (#36, 770,831 downloads, 454 ★) — last commit 2024-06-22
-  - **ControlAltAI_Nodes** (#39, 687,990 downloads, 211 ★) — last commit 2025-06-05
+  - **ComfyUI_essentials** (#7, 3,077,986 downloads, 1200 ★) — last commit 2025-04-14
+  - **ComfyUI Impact Subpack** (#11, 2,313,939 downloads, 390 ★) — last commit 2025-07-22
+  - **ComfyUI_IPAdapter_plus** (#18, 1,584,728 downloads, 6148 ★) — last commit 2025-04-14
+  - **ComfyUI-mxToolkit** (#21, 1,221,612 downloads, 319 ★) — last commit 2025-05-07
+  - **Derfuu_ComfyUI_ModdedNodes** (#36, 770,838 downloads, 454 ★) — last commit 2024-06-22
+  - **ControlAltAI_Nodes** (#39, 687,998 downloads, 211 ★) — last commit 2025-06-05
   - **ComfyUI-TeaCache** (#42, 618,373 downloads, 1097 ★) — last commit 2025-07-12
-  - **ComfyUI-WD14-Tagger** (#43, 610,405 downloads, 1254 ★) — last commit 2025-07-11
+  - **ComfyUI-WD14-Tagger** (#43, 610,409 downloads, 1254 ★) — last commit 2025-07-11
 - Only **12** of 300 declare a `requires-comfyui` range in pyproject.toml — so version compatibility is mostly guesswork for users.
 - **27** packs shipped commits this week; **14** published a new registry release.
 
