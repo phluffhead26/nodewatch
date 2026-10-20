@@ -2718,16 +2718,6 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI-WanVideoStartEndFrames": {
-"functions": [
-"Video"
-],
-"models": [
-"Wan"
-],
-"topics": [],
-"readme": true
-},
 "weilin-comfyui-tools": {
 "functions": [
 "Text, LLM & prompting",
@@ -2739,6 +2729,16 @@
 "topics": [
 "comfyui-nodes"
 ],
+"readme": true
+},
+"ComfyUI-WanVideoStartEndFrames": {
+"functions": [
+"Video"
+],
+"models": [
+"Wan"
+],
+"topics": [],
 "readme": true
 },
 "ComfyUI-VibeVoice": {
@@ -4021,9 +4021,9 @@
 "topics": [],
 "readme": true
 },
-"gemini-api": {
+"comfyui-textoverlay": {
 "functions": [
-"Text, LLM & prompting"
+"Workflow utilities & UI"
 ],
 "models": [
 "Generic / any"
@@ -4031,9 +4031,9 @@
 "topics": [],
 "readme": true
 },
-"comfyui-textoverlay": {
+"gemini-api": {
 "functions": [
-"Workflow utilities & UI"
+"Text, LLM & prompting"
 ],
 "models": [
 "Generic / any"
