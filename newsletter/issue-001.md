@@ -1,33 +1,33 @@
-# NodeWatch Weekly — Issue #1 (2026-10-20)
+# NodeWatch Weekly — Issue #1 (2026-10-21)
 
-*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,118 registered.*
+*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,131 registered.*
 
 ## The big picture
 - **198** of 300 popular packs are **Active** (commit within the last year); **102** look **stale**, and **98** haven't had a commit in over a year (stale), and **66** active packs are *Quiet* (6–12 months without a commit).
 - In the **top 50**, 9 are stale (no commit in 12+ months), including household names:
-  - **ComfyUI_essentials** (#7, 3,081,186 downloads, 1200 ★) — last commit 2025-04-14
-  - **ComfyUI Impact Subpack** (#11, 2,316,668 downloads, 390 ★) — last commit 2025-07-22
-  - **ComfyUI_IPAdapter_plus** (#18, 1,586,527 downloads, 6148 ★) — last commit 2025-04-14
-  - **ComfyUI-mxToolkit** (#21, 1,222,966 downloads, 319 ★) — last commit 2025-05-07
-  - **Derfuu_ComfyUI_ModdedNodes** (#36, 771,595 downloads, 454 ★) — last commit 2024-06-22
-  - **ControlAltAI_Nodes** (#39, 688,920 downloads, 211 ★) — last commit 2025-06-05
-  - **ComfyUI-TeaCache** (#42, 618,547 downloads, 1095 ★) — last commit 2025-07-12
-  - **ComfyUI-WD14-Tagger** (#43, 611,017 downloads, 1254 ★) — last commit 2025-07-11
+  - **ComfyUI_essentials** (#7, 3,084,033 downloads, 1200 ★) — last commit 2025-04-14
+  - **ComfyUI Impact Subpack** (#11, 2,319,271 downloads, 390 ★) — last commit 2025-07-22
+  - **ComfyUI_IPAdapter_plus** (#18, 1,588,070 downloads, 6148 ★) — last commit 2025-04-14
+  - **ComfyUI-mxToolkit** (#21, 1,224,227 downloads, 319 ★) — last commit 2025-05-07
+  - **Derfuu_ComfyUI_ModdedNodes** (#36, 772,292 downloads, 454 ★) — last commit 2024-06-22
+  - **ControlAltAI_Nodes** (#39, 689,810 downloads, 211 ★) — last commit 2025-06-05
+  - **ComfyUI-TeaCache** (#42, 618,718 downloads, 1095 ★) — last commit 2025-07-12
+  - **ComfyUI-WD14-Tagger** (#43, 611,579 downloads, 1254 ★) — last commit 2025-07-11
 - Only **12** of 300 declare a `requires-comfyui` range in pyproject.toml — so version compatibility is mostly guesswork for users.
-- **29** packs shipped commits this week; **27** published a new registry release.
+- **22** packs shipped commits this week; **25** published a new registry release.
 
 ## 📈 Error spikes (worth checking recent issues)
 - No unusual error spikes this week.
 
 ## 🔥 Rising this week
-- **VRGameDevGirl Custom Nodes** — +16 stars in 1 days
-- **FastVideo** — +9 stars in 1 days
-- **comfyui_AcademiaSD** — +5 stars in 1 days
-- **ComfyUI-KJNodes** — +3 stars in 1 days
-- **rgthree-comfy** — +3 stars in 1 days
-- **ComfyUI_LayerStyle** — +3 stars in 1 days
-- **ComfyUI-SeedVR2_VideoUpscaler** — +3 stars in 1 days
-- **ComfyUI-ppm** — +3 stars in 1 days
+- **FastVideo** — +42 stars in 2 days
+- **VRGameDevGirl Custom Nodes** — +29 stars in 2 days
+- **rgthree-comfy** — +9 stars in 2 days
+- **ComfyUI-RMBG** — +9 stars in 2 days
+- **ComfyUI-KJNodes** — +7 stars in 2 days
+- **ComfyUI-Easy-Use** — +6 stars in 2 days
+- **ComfyUI-SeedVR2_VideoUpscaler** — +6 stars in 2 days
+- **ComfyUI Nvidia VFX Nodes** — +6 stars in 2 days
 
 ## 🍴 Active forks of stale packs (suggestions, not endorsements)
 - **ComfyUI-GGUF** → [molbal/ComfyUI-GGUF](https://github.com/molbal/ComfyUI-GGUF): 100 commits ahead, last commit 2026-10-18
@@ -38,16 +38,16 @@
 - **ComfyUI-Autocomplete-Plus** → [Aaalice233/ComfyUI-Autocomplete-Aaalice](https://github.com/Aaalice233/ComfyUI-Autocomplete-Aaalice): 60 commits ahead, last commit 2026-08-31
 
 ## 🚀 Fresh releases this week
+- **ComfyUI-BFSNodes** v1.115.2 (2026-10-21)
+- **ComfyUI-DaSiWa-Nodes** v0.5.33 (2026-10-21)
+- **ComfyUI_MieNodes** v1.4.3 (2026-10-21)
 - **DemonAlone-nodes-ComfyUI** v5.3.0 (2026-10-20)
-- **ComfyUI_MieNodes** v1.4.2 (2026-10-20)
 - **ComfyUI-ppm** v1.1.15 (2026-10-19)
-- **ComfyUI-DaSiWa-Nodes** v0.5.32 (2026-10-19)
 - **ComfyUI-Lora-Manager** v1.2.6 (2026-10-19)
 - **comfyui_AcademiaSD** v2.6.4 (2026-10-19)
 - **WAS Node Suite v3** v3.5.8 (2026-10-19)
 - **Prompt Stash** v1.8.0 (2026-10-18)
 - **ComfyUI-Inpaint-CropAndStitch** v3.0.18 (2026-10-18)
-- **ComfyUI-BFSNodes** v1.115.1 (2026-10-18)
 
 ## 🪦 Gone missing
 - **comfyui-reactor-node** — `Gourieff/comfyui-reactor-node` no longer resolves on GitHub (still listed in the registry)
