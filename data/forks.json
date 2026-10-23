@@ -4222,5 +4222,56 @@
 "last_title": "fix import long time"
 }
 ]
+},
+"yawiii/ComfyUI-Prompt-Assistant": {
+"scanned": "2026-10-23T11:45:53.035035+00:00",
+"forks_listed": 137,
+"candidates": 17,
+"active": [
+{
+"repo": "wysl/ComfyUI-Prompt-Assistant",
+"url": "https://github.com/wysl/ComfyUI-Prompt-Assistant",
+"branch": "main",
+"ahead": 35,
+"behind": 0,
+"last_commit": "2026-09-13T16:26:18Z",
+"stars": 3,
+"score": 83.8,
+"last_title": "chore: update Google web translation user agent"
+},
+{
+"repo": "MUJUN-2025/ComfyUI-Prompt-Assistant",
+"url": "https://github.com/MUJUN-2025/ComfyUI-Prompt-Assistant",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-09-19T11:19:39Z",
+"stars": 21,
+"score": 23.5,
+"last_title": "\u56fe\u50cf\u53cd\u63a8\u8282\u70b9\u652f\u6301\u591a\u56fe\u5408\u5e76\u53cd\u63a8\uff08\u52a8\u6001\u8f93\u5165\u53e3\uff0c\u6700\u591a9\u56fe\uff09"
+},
+{
+"repo": "mr-grixa/ComfyUI-Prompt-Assistant",
+"url": "https://github.com/mr-grixa/ComfyUI-Prompt-Assistant",
+"branch": "main",
+"ahead": 6,
+"behind": 0,
+"last_commit": "2026-10-23T00:14:23Z",
+"stars": 0,
+"score": 22.0,
+"last_title": "Merge pull request #3 from mr-grixa/arena/7f08351d-comfyui-prompt-assistant"
+},
+{
+"repo": "justasuka/ComfyUI-Prompt-Assistant",
+"url": "https://github.com/justasuka/ComfyUI-Prompt-Assistant",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-10-08T03:07:05Z",
+"stars": 0,
+"score": 11.2,
+"last_title": "\u65b0\u589eDeepSeek\u9884\u7f6e\u670d\u52a1\u5546\uff0c\u652f\u6301\u63a5\u5165Command Code"
+}
+]
 }
 }
