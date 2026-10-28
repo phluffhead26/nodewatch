@@ -200,8 +200,8 @@
     "url": "https://github.com/kijai/ComfyUI-KJNodes/issues/779"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 76,
   "open_issues_capped": true,
   "open_prs": 24,
@@ -373,8 +373,8 @@
     "url": "https://github.com/rgthree/rgthree-comfy/issues/726"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 82,
   "open_issues_capped": true,
   "open_prs": 18,
@@ -492,8 +492,8 @@
     "url": "https://github.com/yolain/ComfyUI-Easy-Use/issues/1006"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 92,
   "open_issues_capped": true,
   "open_prs": 8,
@@ -623,8 +623,8 @@
     "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/issues/677"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 74,
   "open_issues_capped": true,
   "open_prs": 26,
@@ -736,8 +736,8 @@
     "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack/issues/1229"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 76,
   "open_issues_capped": true,
   "open_prs": 24,
@@ -813,8 +813,8 @@
     "url": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts/issues/541"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 85,
   "open_issues_capped": true,
   "open_prs": 15,
@@ -907,8 +907,8 @@
  },
  "cubiq/ComfyUI_essentials": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 10,
@@ -923,8 +923,8 @@
     "url": "https://github.com/Fannovel16/comfyui_controlnet_aux/issues/624"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 93,
   "open_issues_capped": true,
   "open_prs": 7,
@@ -1060,11 +1060,11 @@
     "url": "https://github.com/city96/ComfyUI-GGUF/issues/443"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 64,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 63,
   "open_issues_capped": true,
-  "open_prs": 36,
+  "open_prs": 37,
   "error_issues": [
    {
     "n": 487,
@@ -1167,11 +1167,11 @@
     "url": "https://github.com/crystian/ComfyUI-Crystools/issues/279"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 41,
   "open_issues_capped": false,
-  "open_prs": 9,
+  "open_prs": 10,
   "error_issues": [
    {
     "n": 279,
@@ -1219,8 +1219,8 @@
  },
  "ltdrdata/ComfyUI-Impact-Subpack": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 20,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -1266,8 +1266,8 @@
     "url": "https://github.com/chflame163/ComfyUI_LayerStyle/issues/602"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 94,
   "open_issues_capped": true,
   "open_prs": 6,
@@ -1379,8 +1379,8 @@
     "url": "https://github.com/chrisgoringe/cg-use-everywhere/issues/467"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -1443,8 +1443,8 @@
     "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper/issues/1990"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 82,
   "open_issues_capped": true,
   "open_prs": 18,
@@ -1532,8 +1532,8 @@
     "url": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation/issues/139"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 65,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -1645,8 +1645,8 @@
     "url": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale/issues/184"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 65,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -1752,8 +1752,8 @@
     "url": "https://github.com/kijai/ComfyUI-Florence2/issues/202"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 92,
   "open_issues_capped": true,
   "open_prs": 8,
@@ -1883,8 +1883,8 @@
     "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus/issues/856"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 89,
   "open_issues_capped": true,
   "open_prs": 11,
@@ -1990,8 +1990,8 @@
     "url": "https://github.com/ltdrdata/was-node-suite-comfyui/issues/20"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 15,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -2079,8 +2079,8 @@
     "url": "https://github.com/Deno2026/comfyui-deno-custom-nodes/issues/95"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -2095,8 +2095,8 @@
  },
  "Smirnov75/ComfyUI-mxToolkit": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 23,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -2122,19 +2122,32 @@
     "title": "ERROR WAS Node Suite",
     "state": "closed",
     "url": "https://github.com/WASasquatch/was-node-suite-comfyui/issues/593"
+   },
+   "603": {
+    "created": "2026-10-27T16:22:14Z",
+    "title": "Update breaking everything not just itself",
+    "state": "open",
+    "url": "https://github.com/WASasquatch/was-node-suite-comfyui/issues/603"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 1,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
-  "error_issues": []
+  "error_issues": [
+   {
+    "n": 603,
+    "title": "Update breaking everything not just itself",
+    "created": "2026-10-27T16:22:14Z",
+    "url": "https://github.com/WASasquatch/was-node-suite-comfyui/issues/603"
+   }
+  ]
  },
  "jags111/efficiency-nodes-comfyui": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 81,
   "open_issues_capped": true,
   "open_prs": 19,
@@ -2288,8 +2301,8 @@
     "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler/issues/564"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 76,
   "open_issues_capped": true,
   "open_prs": 24,
@@ -2419,8 +2432,8 @@
     "url": "https://github.com/calcuis/gguf/issues/67"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 17,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -2465,8 +2478,8 @@
  },
  "alexopus/ComfyUI-Image-Saver": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -2474,8 +2487,8 @@
  },
  "melMass/comfy_mtb": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 36,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -2551,8 +2564,8 @@
     "url": "https://github.com/1038lab/ComfyUI-RMBG/issues/199"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -2573,8 +2586,8 @@
     "url": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack/issues/269"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 62,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -2686,8 +2699,8 @@
     "url": "https://github.com/Gourieff/ComfyUI-ReActor/issues/252"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 54,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -2799,8 +2812,8 @@
     "url": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch/issues/165"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -2808,8 +2821,8 @@
  },
  "sipherxyz/comfyui-art-venture": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -2987,8 +3000,8 @@
     "url": "https://github.com/willmiao/ComfyUI-Lora-Manager/issues/1165"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 89,
   "open_issues_capped": true,
   "open_prs": 11,
@@ -3076,8 +3089,8 @@
     "url": "https://github.com/nunchux-ai/ComfyUI-nunchaku/issues/819"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 22,
@@ -3104,8 +3117,8 @@
  },
  "Jonseed/ComfyUI-Detail-Daemon": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -3113,8 +3126,8 @@
  },
  "Derfuu/Derfuu_ComfyUI_ModdedNodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 12,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -3135,8 +3148,8 @@
  },
  "Kosinkadink/ComfyUI-Advanced-ControlNet": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 38,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -3175,8 +3188,8 @@
  },
  "aria1th/ComfyUI-LogicUtils": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -3197,8 +3210,8 @@
  },
  "gseth/ControlAltAI-Nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -3213,8 +3226,8 @@
  },
  "Kosinkadink/ComfyUI-AnimateDiff-Evolved": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 63,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -3284,8 +3297,8 @@
     "url": "https://github.com/TinyTerra/ComfyUI_tinyterraNodes/issues/223"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 48,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -3330,8 +3343,8 @@
  },
  "welltop-cn/ComfyUI-TeaCache": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 51,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -3382,8 +3395,8 @@
  },
  "pythongosssss/ComfyUI-WD14-Tagger": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 53,
   "open_issues_capped": false,
   "open_prs": 14,
@@ -3489,8 +3502,8 @@
     "url": "https://github.com/MixLabPro/comfyui-mixlab-nodes/issues/463"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 96,
   "open_issues_capped": true,
   "open_prs": 4,
@@ -3578,19 +3591,13 @@
     "title": "subprocess-exited-with-error",
     "created": "2024-10-18T01:38:36Z",
     "url": "https://github.com/MixLabPro/comfyui-mixlab-nodes/issues/356"
-   },
-   {
-    "n": 344,
-    "title": "RembgNode_Mix Error: \"...CUDA_PATH is set but CUDA wasn't able to be loaded...\"",
-    "created": "2024-10-09T18:00:10Z",
-    "url": "https://github.com/MixLabPro/comfyui-mixlab-nodes/issues/344"
    }
   ]
  },
  "AlekPet/ComfyUI_Custom_Nodes_AlekPet": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 70,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -3688,13 +3695,13 @@
   ]
  },
  "Gourieff/comfyui-reactor-node": {
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "error": 403
  },
  "LAOGOU-666/Comfyui-Memory_Cleanup": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -3709,8 +3716,8 @@
     "url": "https://github.com/filliptm/ComfyUI_Fill-Nodes/issues/117"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -3718,8 +3725,8 @@
  },
  "Acly/comfyui-inpaint-nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 12,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -3746,8 +3753,8 @@
  },
  "stavsap/comfyui-ollama": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 49,
   "open_issues_capped": false,
   "open_prs": 9,
@@ -3786,8 +3793,8 @@
  },
  "PowerHouseMan/ComfyUI-AdvancedLivePortrait": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 79,
   "open_issues_capped": false,
   "open_prs": 9,
@@ -3905,8 +3912,8 @@
     "url": "https://github.com/1038lab/ComfyUI-QwenVL/issues/176"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -3914,8 +3921,8 @@
  },
  "kijai/ComfyUI-segment-anything-2": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 57,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -3979,8 +3986,8 @@
     "url": "https://github.com/kijai/ComfyUI-MelBandRoFormer/issues/11"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -4050,8 +4057,8 @@
     "url": "https://github.com/PGCRT/CRT-Nodes/issues/24"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -4066,8 +4073,8 @@
  },
  "TTPlanetPig/Comfyui_TTP_Toolset": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 40,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4106,8 +4113,8 @@
  },
  "lldacing/ComfyUI_PuLID_Flux_ll": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 53,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4182,8 +4189,8 @@
  },
  "orssorbit/ComfyUI-wanBlockswap": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -4210,8 +4217,8 @@
     "url": "https://github.com/kijai/ComfyUI-SUPIR/issues/213"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 94,
   "open_issues_capped": true,
   "open_prs": 6,
@@ -4310,8 +4317,8 @@
  },
  "jakechai/ComfyUI-JakeUpgrade": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -4319,8 +4326,8 @@
  },
  "cubiq/ComfyUI_InstantID": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -4347,8 +4354,8 @@
     "url": "https://github.com/Comfy-Org/ComfyUI_Nvidia_VFX_Nodes/issues/30"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 28,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4405,8 +4412,8 @@
  },
  "christian-byrne/audio-separation-nodes-comfyui": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4414,8 +4421,8 @@
  },
  "lrzjason/Comfyui-QwenEditUtils": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 14,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -4423,8 +4430,8 @@
  },
  "bash-j/mikey_nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 28,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -4476,8 +4483,8 @@
     "url": "https://github.com/kijai/ComfyUI-DepthAnythingV2/issues/33"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 18,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -4516,8 +4523,8 @@
  },
  "theUpsider/ComfyUI-Logic": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -4525,8 +4532,8 @@
  },
  "Azornes/Comfyui-Resolution-Master": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -4534,8 +4541,8 @@
  },
  "EllangoK/ComfyUI-post-processing-nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4543,8 +4550,8 @@
  },
  "SeanScripts/ComfyUI-Unload-Model": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4559,8 +4566,8 @@
     "url": "https://github.com/chengzeyi/Comfy-WaveSpeed/issues/147"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 92,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -4659,8 +4666,8 @@
  },
  "john-mnz/ComfyUI-Inspyrenet-Rembg": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 20,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -4723,8 +4730,8 @@
  },
  "justUmen/Bjornulf_custom_nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 34,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -4775,8 +4782,8 @@
  },
  "kijai/ComfyUI-WanAnimatePreprocess": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 18,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -4815,8 +4822,8 @@
  },
  "jtydhr88/ComfyUI-Workflow-Encrypt": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -4824,8 +4831,8 @@
  },
  "StableLlama/ComfyUI-basic_data_handling": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -4833,8 +4840,8 @@
  },
  "kijai/ComfyUI-IC-Light": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 44,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -4880,8 +4887,8 @@
     "url": "https://github.com/geroldmeisinger/ComfyUI-outputlists-combiner/issues/49"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -4889,8 +4896,8 @@
  },
  "kijai/ComfyUI-MMAudio": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 44,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -4935,8 +4942,8 @@
  },
  "cubiq/PuLID_ComfyUI": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -4944,11 +4951,11 @@
  },
  "scraed/LanPaint": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 21,
   "open_issues_capped": false,
-  "open_prs": 2,
+  "open_prs": 3,
   "error_issues": []
  },
  "Acly/comfyui-tooling-nodes": {
@@ -4966,8 +4973,8 @@
     "url": "https://github.com/Acly/comfyui-tooling-nodes/issues/66"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 7,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -4988,8 +4995,8 @@
  },
  "AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 25,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5004,8 +5011,8 @@
  },
  "lldacing/ComfyUI_Patches_ll": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 12,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5027,8 +5034,8 @@
     "url": "https://github.com/chflame163/ComfyUI_LayerStyle_Advance/issues/149"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 93,
   "open_issues_capped": true,
   "open_prs": 7,
@@ -5121,8 +5128,8 @@
  },
  "alt-key-project/comfyui-dream-project": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5130,8 +5137,8 @@
  },
  "kijai/ComfyUI-FluxTrainer": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 92,
   "open_issues_capped": true,
   "open_prs": 8,
@@ -5237,8 +5244,8 @@
     "url": "https://github.com/cdanielp/COMFYUI_PROMPTMODELS/issues/9"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5278,8 +5285,8 @@
     "url": "https://github.com/pamparamm/ComfyUI-ppm/issues/51"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 15,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5307,8 +5314,8 @@
     "url": "https://github.com/FizzleDorf/ComfyUI_FizzNodes/issues/139"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 32,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -5371,8 +5378,8 @@
  },
  "neverbiasu/ComfyUI-SAM2": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5380,8 +5387,8 @@
  },
  "lldacing/ComfyUI_BiRefNet_ll": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5389,8 +5396,8 @@
  },
  "edelvarden/comfyui_image_metadata_extension": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 16,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -5411,8 +5418,8 @@
  },
  "digitaljohn/comfyui-propost": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -5420,8 +5427,8 @@
  },
  "Artificial-Sweetener/WhiteRabbit": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5429,8 +5436,8 @@
  },
  "nullquant/ComfyUI-BrushNet": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 61,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -5529,8 +5536,8 @@
  },
  "zhangp365/ComfyUI-utils-nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5551,8 +5558,8 @@
  },
  "ChangeTheConstants/SeedVarianceEnhancer": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5673,14 +5680,26 @@
     "title": "[Bug] RVC Model Training: numba.core.errors.TypingError: Failed in nopython mode pipeline",
     "state": "closed",
     "url": "https://github.com/diodiogod/TTS-Audio-Suite/issues/284"
+   },
+   "378": {
+    "created": "2026-10-27T19:24:51Z",
+    "title": "Execution fails on latest 5.10.5 and 5.8.3 versions TTs text node throws exeptions",
+    "state": "open",
+    "url": "https://github.com/diodiogod/TTS-Audio-Suite/issues/378"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 55,
   "open_issues_capped": false,
   "open_prs": 5,
   "error_issues": [
+   {
+    "n": 378,
+    "title": "Execution fails on latest 5.10.5 and 5.8.3 versions TTs text node throws exeptions",
+    "created": "2026-10-27T19:24:51Z",
+    "url": "https://github.com/diodiogod/TTS-Audio-Suite/issues/378"
+   },
    {
     "n": 366,
     "title": "[Bug] Step Audio EditX pollutes PYTHONPATH and intermittently crashes Qwen3-TTS worker ('utils' is not a package)",
@@ -5740,8 +5759,8 @@
     "url": "https://github.com/Windecay/ComfyUI-ReservedVRAM/issues/6"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5756,8 +5775,8 @@
  },
  "yawiii/ComfyUI-Prompt-Assistant": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 25,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -5765,8 +5784,8 @@
  },
  "idrirap/ComfyUI-Lora-Auto-Trigger-Words": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 10,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -5806,8 +5825,8 @@
     "url": "https://github.com/erosDiffusion/ComfyUI-enricos-nodes/issues/119"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 24,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5853,8 +5872,8 @@
     "url": "https://github.com/ATH-MaaS/ComfyUI-Copilot/issues/146"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 46,
   "open_issues_capped": false,
   "open_prs": 9,
@@ -5893,8 +5912,8 @@
  },
  "Extraltodeus/ComfyUI-AutomaticCFG": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 12,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5915,8 +5934,8 @@
  },
  "SLAPaper/ComfyUI-Image-Selector": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5937,8 +5956,8 @@
     "url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle/issues/32"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -5946,8 +5965,8 @@
  },
  "kk8bit/KayTool": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5962,8 +5981,8 @@
     "url": "https://github.com/LAOGOU-666/Comfyui_LG_Tools/issues/33"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 10,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -5984,8 +6003,8 @@
     "url": "https://github.com/heshengtao/comfyui_LLM_party/issues/248"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 78,
   "open_issues_capped": false,
   "open_prs": 8,
@@ -6072,8 +6091,8 @@
  },
  "audioscavenger/save-image-extended-comfyui": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 11,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -6113,8 +6132,8 @@
     "url": "https://github.com/huanngzh/ComfyUI-MVAdapter/issues/106"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 58,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -6165,8 +6184,8 @@
  },
  "Miosp/ComfyUI-FBCNN": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6174,8 +6193,8 @@
  },
  "fearnworks/ComfyUI_FearnworksNodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6190,8 +6209,8 @@
     "url": "https://github.com/xhiroga/ComfyUI-FramePackWrapper_PlusOne/issues/13"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6261,8 +6280,8 @@
     "url": "https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/86"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6309,8 +6328,8 @@
     "url": "https://github.com/1038lab/ComfyUI-JoyCaption/issues/55"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 28,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -6367,8 +6386,8 @@
  },
  "MinorBoy/ComfyUI_essentials_mb": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6383,8 +6402,8 @@
  },
  "CY-CHENYUE/ComfyUI-Janus-Pro": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 24,
   "open_issues_capped": false,
   "open_prs": 8,
@@ -6423,8 +6442,8 @@
  },
  "pamparamm/sd-perturbed-attention": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 13,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -6457,8 +6476,8 @@
  },
  "LevelPixel/ComfyUI-LevelPixel": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6466,8 +6485,8 @@
  },
  "receyuki/comfyui-prompt-reader-node": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 44,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -6536,8 +6555,8 @@
  },
  "r-vage/ComfyUI-RvTools_v2": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6552,8 +6571,8 @@
     "url": "https://github.com/ussoewwin/ComfyUI-QwenImageLoraLoader/issues/51"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 38,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6731,8 +6750,8 @@
     "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI/issues/18"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 90,
   "open_issues_capped": true,
   "open_prs": 10,
@@ -6801,8 +6820,8 @@
  },
  "pixaroma/ComfyUI-Pixaroma": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6817,8 +6836,8 @@
  },
  "erosDiffusion/ComfyUI-EulerDiscreteScheduler": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6833,8 +6852,8 @@
  },
  "madtunebk/ComfyUI-ControlnetAux": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -6848,16 +6867,9 @@
   ]
  },
  "vslinx/ComfyUI-vslinx-nodes": {
-  "hist": {
-   "15": {
-    "created": "2026-04-01T00:25:34Z",
-    "title": "Forward bypass on boolean doesn't work on external boolean",
-    "state": "closed",
-    "url": "https://github.com/vslinx/ComfyUI-vslinx-nodes/issues/15"
-   }
-  },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist": {},
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -6878,8 +6890,8 @@
     "url": "https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData/issues/102"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 48,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -6997,9 +7009,9 @@
     "url": "https://github.com/lbouaraba/comfyui-krea2edit/issues/5"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 20,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 21,
   "open_issues_capped": false,
   "open_prs": 4,
   "error_issues": [
@@ -7019,8 +7031,8 @@
  },
  "wywywywy/ComfyUI-pause": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7028,8 +7040,8 @@
  },
  "kijai/ComfyUI-SCAIL-Pose": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 15,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -7056,8 +7068,8 @@
  },
  "Ryuukeisyou/comfyui_face_parsing": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 19,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -7115,8 +7127,8 @@
     "url": "https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside/issues/96"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 22,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -7149,8 +7161,8 @@
  },
  "comfyanonymous/ComfyUI_TensorRT": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 66,
   "open_issues_capped": false,
   "open_prs": 7,
@@ -7262,8 +7274,8 @@
     "url": "https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes/issues/3"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -7285,8 +7297,8 @@
     "url": "https://github.com/alisson-anjos/ComfyUI-Ollama-Describer/issues/23"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7326,8 +7338,8 @@
     "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3/issues/145"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 28,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -7378,21 +7390,21 @@
  },
  "asagi4/comfyui-prompt-control": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 13,
   "open_issues_capped": false,
-  "open_prs": 2,
+  "open_prs": 3,
   "error_issues": []
  },
  "dorpxam/ComfyUI-LTXVideoLoRA": {
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "error": 404
  },
  "BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7419,8 +7431,8 @@
     "url": "https://github.com/AHEKOT/ComfyUI_VNCCS/issues/55"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7428,8 +7440,8 @@
  },
  "huchenlei/ComfyUI-openpose-editor": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -7450,8 +7462,8 @@
     "url": "https://github.com/TenStrip/10S-Comfy-nodes/issues/12"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 14,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -7472,8 +7484,8 @@
  },
  "weilin9999/WeiLin-Comfyui-Tools": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 34,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7494,8 +7506,8 @@
  },
  "newtextdoc1111/ComfyUI-Autocomplete-Plus": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 16,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -7517,8 +7529,8 @@
     "url": "https://github.com/MieMieeeee/ComfyUI-MieNodes/issues/20"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7545,8 +7557,8 @@
     "url": "https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes/issues/14"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 16,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -7592,8 +7604,8 @@
     "url": "https://github.com/mattjohnpowell/comfyui-lmstudio-image-to-text-node/issues/24"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -7614,8 +7626,8 @@
  },
  "ussoewwin/ComfyUI-DistorchMemoryManager": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -7623,8 +7635,8 @@
  },
  "ComfyAssets/ComfyUI-KikoTools": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7687,8 +7699,8 @@
     "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo/issues/3"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 13,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -7721,8 +7733,8 @@
  },
  "TheLustriVA/ComfyUI-Image-Size-Tools": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7737,9 +7749,9 @@
     "url": "https://github.com/alisson-anjos/ComfyUI-BFSNodes/issues/12"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 3,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
   "error_issues": []
@@ -7759,8 +7771,8 @@
     "url": "https://github.com/yolain/ComfyUI-Easy-Sam3/issues/34"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 28,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7824,8 +7836,8 @@
     "url": "https://github.com/nova452/Rebalance-Pack/issues/7"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 13,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -7907,8 +7919,8 @@
     "url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3/issues/8"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 10,
   "open_issues_capped": false,
   "open_prs": 7,
@@ -7916,8 +7928,8 @@
  },
  "ussoewwin/ComfyUI-NunchakuFluxLoraStacker": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7945,8 +7957,8 @@
     "url": "https://github.com/Starnodes2024/ComfyUI_StarNodes/issues/22"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -7954,8 +7966,8 @@
  },
  "pydn/ComfyUI-to-Python-Extension": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 18,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -7983,8 +7995,8 @@
     "url": "https://github.com/mickmumpitz/ComfyUI-Mickmumpitz-Nodes/issues/1"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8006,8 +8018,8 @@
     "url": "https://github.com/phazei/ComfyUI-Prompt-Stash/issues/17"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8034,8 +8046,8 @@
     "url": "https://github.com/AHEKOT/ComfyUI_VNCCS_Utils/issues/107"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -8056,8 +8068,8 @@
  },
  "fairy-root/Flux-Prompt-Generator": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8072,8 +8084,8 @@
     "url": "https://github.com/sonnybox/ComfyUI-SuperNodes/issues/6"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8081,8 +8093,8 @@
  },
  "Fannovel16/ComfyUI-Video-Matting": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -8103,8 +8115,8 @@
  },
  "fairy-root/ComfyUI-Show-Text": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8112,8 +8124,8 @@
  },
  "crystian/ComfyUI-Crystools-save": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8128,8 +8140,8 @@
  },
  "TheMistoAI/ComfyUI-Anyline": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 16,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8156,8 +8168,8 @@
  },
  "huwhitememes/comfyui-krea2-conditioning": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8165,8 +8177,8 @@
  },
  "VrchStudio/comfyui-web-viewer": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -8174,8 +8186,8 @@
  },
  "malkuthro/ComfyUI-Koolook": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 27,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -8183,8 +8195,8 @@
  },
  "Mattabyte/ComfyUI-LTXVideo-Registry_Mattabyte": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8192,8 +8204,8 @@
  },
  "tritant/ComfyUI_Custom_Switch": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8201,8 +8213,8 @@
  },
  "AcademiaSD/comfyui_AcademiaSD": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8217,8 +8229,8 @@
     "url": "https://github.com/filliptm/ComfyUI_FL-CosyVoice3/issues/17"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 7,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -8226,8 +8238,8 @@
  },
  "mobcat40/ComfyUI-PromptChain": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -8290,11 +8302,11 @@
     "url": "https://github.com/vrgamegirl19/comfyui-vrgamedevgirl/issues/51"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
-  "open_prs": 2,
+  "open_prs": 5,
   "error_issues": []
  },
  "artokun/comfyui-mcp-panel": {
@@ -8972,8 +8984,8 @@
     "url": "https://github.com/artokun/comfyui-mcp-panel/issues/289"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 64,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -9066,8 +9078,8 @@
  },
  "glibsonoran/Plush-for-ComfyUI": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -9075,8 +9087,8 @@
  },
  "axces2000/comfyui-axces2000": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -10593,8 +10605,8 @@
  },
  "kijai/ComfyUI-HunyuanVideoWrapper": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 98,
   "open_issues_capped": true,
   "open_prs": 2,
@@ -10693,8 +10705,8 @@
  },
  "cubiq/ComfyUI_FaceAnalysis": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -10702,8 +10714,8 @@
  },
  "shinich39/comfyui-get-meta": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -10724,8 +10736,8 @@
     "url": "https://github.com/chrisgoringe/cg-image-filter/issues/141"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 11,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -10733,8 +10745,8 @@
  },
  "kijai/ComfyUI-LivePortraitKJ": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 93,
   "open_issues_capped": true,
   "open_prs": 7,
@@ -10832,16 +10844,9 @@
   ]
  },
  "MrForExample/ComfyUI-3D-Pack": {
-  "hist": {
-   "565": {
-    "created": "2026-04-01T02:32:12Z",
-    "title": "comfyui-3d-pack still failed import ? please help",
-    "state": "open",
-    "url": "https://github.com/MrForExample/ComfyUI-3D-Pack/issues/565"
-   }
-  },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist": {},
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 21,
   "open_issues_capped": false,
   "open_prs": 4,
@@ -10880,8 +10885,8 @@
  },
  "EvilBT/ComfyUI_SLK_joy_caption_two": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 95,
   "open_issues_capped": true,
   "open_prs": 5,
@@ -10980,8 +10985,8 @@
  },
  "wallen0322/ComfyUI-Wan22FMLF": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 28,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -10996,8 +11001,8 @@
  },
  "mcmonkeyprojects/sd-dynamic-thresholding": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11012,8 +11017,8 @@
  },
  "alt-key-project/comfyui-dream-video-batches": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11041,8 +11046,8 @@
     "url": "https://github.com/shiimizu/ComfyUI_smZNodes/issues/138"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 44,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11123,8 +11128,8 @@
  },
  "kijai/ComfyUI-CogVideoXWrapper": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 98,
   "open_issues_capped": true,
   "open_prs": 2,
@@ -11223,8 +11228,8 @@
  },
  "traugdor/ComfyUI-UltimateSDUpscale-GGUF": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11232,8 +11237,8 @@
  },
  "vuongminh1907/ComfyUI_ZenID": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 17,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11241,8 +11246,8 @@
  },
  "MohammadAboulEla/ComfyUI-iTools": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11250,8 +11255,8 @@
  },
  "siliconflow/BizyAir": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 36,
   "open_issues_capped": false,
   "open_prs": 7,
@@ -11272,8 +11277,8 @@
  },
  "AIrjen/OneButtonPrompt": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11281,8 +11286,8 @@
  },
  "cardenluo/ComfyUI-Apt_Preset": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -11290,8 +11295,8 @@
  },
  "traugdor/ComfyUI-quadMoons-nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11306,8 +11311,8 @@
  },
  "Flow-two/ComfyUI-WanStartEndFramesNative": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11335,8 +11340,8 @@
     "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI/issues/218"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 33,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -11411,8 +11416,8 @@
  },
  "Extraltodeus/Skimmed_CFG": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11420,8 +11425,8 @@
  },
  "Layer-norm/comfyui-lama-remover": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11442,8 +11447,8 @@
  },
  "theUpsider/ComfyUI-Styles_CSV_Loader": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11458,8 +11463,8 @@
  },
  "11cafe/comfyui-workspace-manager": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 95,
   "open_issues_capped": true,
   "open_prs": 5,
@@ -11541,8 +11546,8 @@
     "url": "https://github.com/wildminder/ComfyUI-DyPE/issues/40"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 7,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11568,16 +11573,9 @@
   ]
  },
  "Conor-Collins/ComfyUI-CoCoTools_IO": {
-  "hist": {
-   "17": {
-    "created": "2026-04-01T10:08:08Z",
-    "title": "Error in Comfy frontend",
-    "state": "open",
-    "url": "https://github.com/Conor-Collins/ComfyUI-CoCoTools_IO/issues/17"
-   }
-  },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist": {},
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11592,17 +11590,17 @@
  },
  "MNeMoNiCuZ/ComfyUI-mnemic-nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 10,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 0,
   "error_issues": []
  },
  "glifxyz/ComfyUI-GlifNodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11610,8 +11608,8 @@
  },
  "CY-CHENYUE/ComfyUI-InpaintEasy": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11619,8 +11617,8 @@
  },
  "huchenlei/ComfyUI-layerdiffuse": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 66,
   "open_issues_capped": false,
   "open_prs": 6,
@@ -11719,8 +11717,8 @@
  },
  "hayden-cn/ComfyUI-Model-Manager": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 23,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11735,8 +11733,8 @@
  },
  "jitcoder/lora-info": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11744,8 +11742,8 @@
  },
  "Steudio/ComfyUI_Steudio": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11753,8 +11751,8 @@
  },
  "djbielejeski/a-person-mask-generator": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 9,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11775,8 +11773,8 @@
  },
  "chflame163/ComfyUI_IPAdapter_plus_V2": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -11784,8 +11782,8 @@
  },
  "akatz-ai/ComfyUI-DepthCrafter-Nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11807,8 +11805,8 @@
     "url": "https://github.com/gokayfem/ComfyUI_VLM_nodes/issues/157"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11823,8 +11821,8 @@
     "url": "https://github.com/niknah/ComfyUI-F5-TTS/issues/72"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 10,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -11857,8 +11855,8 @@
  },
  "zombieyang/sd-ppp": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 65,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11866,8 +11864,8 @@
  },
  "VraethrDalkr/ComfyUI-TripleKSampler": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11875,8 +11873,8 @@
  },
  "facok/ComfyUI-TeaCacheHunyuanVideo": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11884,8 +11882,8 @@
  },
  "MoonGoblinDev/Civicomfy": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11893,8 +11891,8 @@
  },
  "daxcay/ComfyUI-JDCN": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11902,8 +11900,8 @@
  },
  "al-swaiti/ComfyUI-OllamaGemini": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -11911,8 +11909,8 @@
  },
  "lihaoyun6/ComfyUI-llama-cpp_vlm": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 7,
@@ -11939,8 +11937,8 @@
     "url": "https://github.com/PozzettiAndrea/ComfyUI-DepthAnythingV3/issues/72"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 14,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -11985,8 +11983,8 @@
  },
  "lrzjason/Comfyui-In-Context-Lora-Utils": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -11994,8 +11992,8 @@
  },
  "asagi4/ComfyUI-Adaptive-Guidance": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12003,8 +12001,8 @@
  },
  "tritant/ComfyUI_CreaPrompt": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12012,8 +12010,8 @@
  },
  "da2el-ai/D2-nodes-ComfyUI": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12021,8 +12019,8 @@
  },
  "silveroxides/ComfyUI_bitsandbytes_NF4": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -12049,8 +12047,8 @@
  },
  "Limitex/ComfyUI-Diffusers": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 12,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -12077,8 +12075,8 @@
  },
  "raindrop313/ComfyUI-WanVideoStartEndFrames": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 19,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -12117,8 +12115,8 @@
  },
  "wildminder/ComfyUI-VibeVoice": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 22,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12157,8 +12155,8 @@
  },
  "cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12166,8 +12164,8 @@
  },
  "jiandanplus/Comfyui-GLM_Prompt": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12175,8 +12173,8 @@
  },
  "MieMieeeee/ComfyUI-CaptionThis": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12191,8 +12189,8 @@
     "url": "https://github.com/PozzettiAndrea/ComfyUI-GeometryPack/issues/54"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 10,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12207,8 +12205,8 @@
  },
  "huchenlei/ComfyUI-IC-Light-Native": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 21,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12235,8 +12233,8 @@
  },
  "ciri/comfyui-model-downloader": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12244,8 +12242,8 @@
  },
  "nkchocoai/ComfyUI-TextOnSegs": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12297,8 +12295,8 @@
     "url": "https://github.com/flybirdxx/ComfyUI-Qwen-TTS/issues/87"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 61,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12404,8 +12402,8 @@
     "url": "https://github.com/regiellis/ComfyUI-EasyColorCorrector/issues/14"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12420,8 +12418,8 @@
  },
  "aistudynow/ComfyUI-QwenVL": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12436,8 +12434,8 @@
  },
  "spinagon/ComfyUI-seamless-tiling": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12452,8 +12450,8 @@
  },
  "kijai/ComfyUI-Marigold": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 21,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -12492,8 +12490,8 @@
  },
  "lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 53,
   "open_issues_capped": false,
   "open_prs": 5,
@@ -12526,8 +12524,8 @@
  },
  "NyaamZ/efficiency-nodes-ED": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 10,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12535,8 +12533,8 @@
  },
  "nosiu/comfyui-instantId-faceswap": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 5,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -12544,8 +12542,8 @@
  },
  "jojkaart/ComfyUI-sampler-lcm-alternative": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12553,8 +12551,8 @@
  },
  "upseem/comfyui_sunxAI_facetools": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12562,8 +12560,8 @@
  },
  "kijai/ComfyUI-MimicMotionWrapper": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 67,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -12662,8 +12660,8 @@
  },
  "SuperBeastsAI/ComfyUI-SuperBeasts": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12671,8 +12669,8 @@
  },
  "hgabha/WWAA-CustomNodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12680,8 +12678,8 @@
  },
  "if-ai/ComfyUI-IF_LLM": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 11,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12702,8 +12700,8 @@
  },
  "LEv145/images-grid-comfy-plugin": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12711,8 +12709,8 @@
  },
  "ty0x2333/ComfyUI-Dev-Utils": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 15,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -12720,8 +12718,8 @@
  },
  "agilly1989/ComfyUI_agilly1989_motorway": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12729,8 +12727,8 @@
  },
  "yvann-ba/ComfyUI_Yvann-Nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12751,8 +12749,8 @@
  },
  "WarpedAnimation/ComfyUI-WarpedToolset": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12760,11 +12758,11 @@
  },
  "wildminder/ComfyUI-Chatterbox": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 7,
   "open_issues_capped": false,
-  "open_prs": 1,
+  "open_prs": 2,
   "error_issues": [
    {
     "n": 14,
@@ -12782,8 +12780,8 @@
  },
  "VAST-AI-Research/ComfyUI-Tripo": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12791,8 +12789,8 @@
  },
  "DemonAlone/DemonAlone-nodes-ComfyUI": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12909,11 +12907,11 @@
     "url": "https://github.com/hao-ai-lab/FastVideo/issues/1987"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 26,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 24,
   "open_issues_capped": true,
-  "open_prs": 74,
+  "open_prs": 76,
   "error_issues": [
    {
     "n": 1987,
@@ -12949,8 +12947,8 @@
  },
  "SozeInc/ComfyUI_Soze": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12958,8 +12956,8 @@
  },
  "robertvoy/ComfyUI-Flux-Continuum": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 18,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -12991,13 +12989,13 @@
   ]
  },
  "fredconex/ComfyUI-SoundFlow": {
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "error": 404
  },
  "billwuhao/ComfyUI_IndexTTS": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 52,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -13018,8 +13016,8 @@
  },
  "akatz-ai/ComfyUI-Depthflow-Nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 16,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13064,8 +13062,8 @@
  },
  "Extraltodeus/sigmas_tools_and_the_golden_scheduler": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13087,8 +13085,8 @@
     "url": "https://github.com/aigc-apps/EasyAnimate/issues/223"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 96,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -13187,8 +13185,8 @@
  },
  "LAOGOU-666/ComfyUI-LG_SamplingUtils": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13196,8 +13194,8 @@
  },
  "billwuhao/ComfyUI_ACE-Step": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 53,
   "open_issues_capped": false,
   "open_prs": 3,
@@ -13230,8 +13228,8 @@
  },
  "akatz-ai/ComfyUI-Basic-Math": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13239,8 +13237,8 @@
  },
  "Visionatrix/ComfyUI-Gemini": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 2,
@@ -13248,8 +13246,8 @@
  },
  "niknah/quick-connections": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 7,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13264,8 +13262,8 @@
  },
  "MushroomFleet/DJZ-Nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 6,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13287,8 +13285,8 @@
     "url": "https://github.com/robertvoy/ComfyUI-Distributed/issues/85"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 62,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13332,13 +13330,13 @@
   ]
  },
  "TheBill2001/comfyui-upscale-by-model": {
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "error": 404
  },
  "ycyy/ComfyUI-YCYY-LoraInfo": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13346,8 +13344,8 @@
  },
  "alexcong/ComfyUI_QwenVL": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 11,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13368,8 +13366,8 @@
  },
  "whmc76/ComfyUI-UniversalToolkit": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13390,11 +13388,11 @@
     "url": "https://github.com/aigc-apps/VideoX-Fun/issues/501"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
-  "open_issues_sample": 83,
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
+  "open_issues_sample": 86,
   "open_issues_capped": true,
-  "open_prs": 17,
+  "open_prs": 14,
   "error_issues": [
    {
     "n": 293,
@@ -13436,8 +13434,8 @@
  },
  "marhensa/sdxl-recommended-res-calc": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13445,8 +13443,8 @@
  },
  "syllebra/bilbox-comfyui": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 8,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13461,8 +13459,8 @@
     "url": "https://github.com/phazei/ComfyUI-HunyuanVideo-Foley/issues/6"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 1,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13470,8 +13468,8 @@
  },
  "Nuked88/ComfyUI-N-Nodes": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 29,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13516,8 +13514,8 @@
  },
  "shenduldh/ComfyUI-Lightning": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 23,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13550,8 +13548,8 @@
  },
  "portu-sim/comfyui_bmab": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 11,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13590,8 +13588,8 @@
  },
  "Azornes/Comfyui-LayerForge": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 2,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13606,8 +13604,8 @@
  },
  "comfy-deploy/comfyui-llm-toolkit": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13615,8 +13613,8 @@
  },
  "CY-CHENYUE/ComfyUI-Gemini-API": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 15,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13637,8 +13635,8 @@
  },
  "ShammiG/ComfyUI-Simple_Readable_Metadata-SG": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 4,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13646,8 +13644,8 @@
  },
  "Munkyfoot/ComfyUI-TextOverlay": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 3,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13655,8 +13653,8 @@
  },
  "shadowcz007/comfyui-liveportrait": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 31,
   "open_issues_capped": false,
   "open_prs": 1,
@@ -13671,8 +13669,8 @@
  },
  "pamparamm/ComfyUI_IPAdapter_plus": {
   "hist": {},
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 0,
   "open_issues_capped": false,
   "open_prs": 0,
@@ -13711,8 +13709,8 @@
     "url": "https://github.com/PozzettiAndrea/ComfyUI-TRELLIS2/issues/121"
    }
   },
-  "hist_since": "2026-10-27T12:13:10Z",
-  "fetched": "2026-10-27T12:13:10.124121+00:00",
+  "hist_since": "2026-10-28T12:55:54Z",
+  "fetched": "2026-10-28T12:55:54.335374+00:00",
   "open_issues_sample": 29,
   "open_issues_capped": false,
   "open_prs": 4,
