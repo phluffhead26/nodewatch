@@ -2020,9 +2020,9 @@
 "active": []
 },
 "mcmonkeyprojects/sd-dynamic-thresholding": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 112,
-"candidates": 4,
+"candidates": 5,
 "active": [
 {
 "repo": "pyloverd/sd-dynamic-thresholding",
@@ -2038,7 +2038,7 @@
 ]
 },
 "alt-key-project/comfyui-dream-video-batches": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 18,
 "candidates": 2,
 "active": [
@@ -2046,17 +2046,17 @@
 "repo": "zhangyi196/comfyui-dream-video-batches",
 "url": "https://github.com/zhangyi196/comfyui-dream-video-batches",
 "branch": "main",
-"ahead": 3,
+"ahead": 4,
 "behind": 0,
-"last_commit": "2026-05-21T05:15:23Z",
+"last_commit": "2026-10-28T14:10:36Z",
 "stars": 0,
-"score": 7.6,
-"last_title": "\u66f4\u65b0text\u6587\u672c\u6279\u91cf\u52a0\u8f7d"
+"score": 18.0,
+"last_title": "for\u7ed3\u675f\u65b0\u589etxt\u529f\u80fd"
 }
 ]
 },
 "LAOGOU-666/Comfyui_LG_Tools": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 10,
 "candidates": 1,
 "active": [
@@ -2074,7 +2074,7 @@
 ]
 },
 "kijai/ComfyUI-CogVideoXWrapper": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 106,
 "candidates": 4,
 "active": [
@@ -2092,9 +2092,9 @@
 ]
 },
 "audioscavenger/save-image-extended-comfyui": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 23,
-"candidates": 5,
+"scanned": "2026-10-29T13:07:01.695935+00:00",
+"forks_listed": 25,
+"candidates": 6,
 "active": [
 {
 "repo": "koloved/save-image-extended-comfyui",
@@ -2104,8 +2104,19 @@
 "behind": 0,
 "last_commit": "2026-06-16T10:28:45Z",
 "stars": 2,
-"score": 17.8,
+"score": 17.3,
 "last_title": "pin brotli>=1.2.0"
+},
+{
+"repo": "mrnfqrbl/save-image-extended-comfyui",
+"url": "https://github.com/mrnfqrbl/save-image-extended-comfyui",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-10-27T18:12:56Z",
+"stars": 0,
+"score": 11.9,
+"last_title": "Restore shared folder counters for existing workflows"
 },
 {
 "repo": "wraith-executioner-year-2/save-image-extended-comfyui",
@@ -2115,7 +2126,7 @@
 "behind": 0,
 "last_commit": "2026-07-31T19:32:26Z",
 "stars": 0,
-"score": 11.6,
+"score": 11.1,
 "last_title": ":memo: Add example screeenshot"
 },
 {
@@ -2126,7 +2137,7 @@
 "behind": 0,
 "last_commit": "2026-06-17T23:36:58Z",
 "stars": 0,
-"score": 7.2,
+"score": 6.6,
 "last_title": "Updated name, version, and other metadata"
 },
 {
@@ -2137,24 +2148,13 @@
 "behind": 0,
 "last_commit": "2026-07-11T21:19:53Z",
 "stars": 0,
-"score": 6.5,
+"score": 5.9,
 "last_title": "feat: write positive/negative_text_opt into image metadata (fixes #45)"
-},
-{
-"repo": "omensauce/save-image-extended-comfyui",
-"url": "https://github.com/omensauce/save-image-extended-comfyui",
-"branch": "main",
-"ahead": 1,
-"behind": 0,
-"last_commit": "2026-05-19T13:55:44Z",
-"stars": 0,
-"score": 3.5,
-"last_title": "Use pre-built pillow-jxl plugin, imagecodecd dependency removed"
 }
 ]
 },
 "huanngzh/ComfyUI-MVAdapter": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 47,
 "candidates": 7,
 "active": [
@@ -2194,60 +2194,49 @@
 ]
 },
 "Miosp/ComfyUI-FBCNN": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 8,
 "candidates": 1,
 "active": []
 },
 "fearnworks/ComfyUI_FearnworksNodes": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 8,
 "candidates": 2,
 "active": []
 },
 "xhiroga/ComfyUI-FramePackWrapper_PlusOne": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 6,
+"scanned": "2026-10-29T13:07:01.695935+00:00",
+"forks_listed": 5,
 "candidates": 1,
 "active": []
 },
 "traugdor/ComfyUI-UltimateSDUpscale-GGUF": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 5,
 "candidates": 0,
 "active": []
 },
 "1038lab/ComfyUI-JoyCaption": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 35,
-"candidates": 12,
+"scanned": "2026-10-29T13:07:01.695935+00:00",
+"forks_listed": 37,
+"candidates": 13,
 "active": [
 {
-"repo": "nicolasgalvez/ComfyUI-JoyCaption",
-"url": "https://github.com/nicolasgalvez/ComfyUI-JoyCaption",
-"branch": "main",
-"ahead": 1,
-"behind": 0,
-"last_commit": "2026-10-16T04:45:31Z",
-"stars": 0,
-"score": 11.8,
-"last_title": "Fix SizeDict TypeError on transformers 5 (upstream PR #57)"
-},
-{
-"repo": "Sudnt/ComfyUI-JoyCaption-XPU",
-"url": "https://github.com/Sudnt/ComfyUI-JoyCaption-XPU",
+"repo": "falken123/ComfyUI-JoyCaption",
+"url": "https://github.com/falken123/ComfyUI-JoyCaption",
 "branch": "main",
 "ahead": 3,
 "behind": 0,
-"last_commit": "2026-06-29T16:35:21Z",
+"last_commit": "2026-10-23T12:33:45Z",
 "stars": 0,
-"score": 9.8,
-"last_title": "Created using Colab"
+"score": 15.7,
+"last_title": "Update JC.py"
 }
 ]
 },
 "vuongminh1907/ComfyUI_ZenID": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 24,
 "candidates": 9,
 "active": [
@@ -2265,13 +2254,13 @@
 ]
 },
 "MinorBoy/ComfyUI_essentials_mb": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "CY-CHENYUE/ComfyUI-Janus-Pro": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 79,
 "candidates": 14,
 "active": [
@@ -2333,7 +2322,7 @@
 ]
 },
 "pamparamm/sd-perturbed-attention": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 27,
 "candidates": 3,
 "active": [
@@ -2345,19 +2334,19 @@
 "behind": 0,
 "last_commit": "2026-05-01T04:31:45Z",
 "stars": 0,
-"score": 28.5,
+"score": 28.0,
 "last_title": "Merge pull request #3 from wai55555/feature/xyz-plot-all"
 }
 ]
 },
 "siliconflow/BizyAir": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 57,
 "candidates": 11,
 "active": []
 },
 "AIrjen/OneButtonPrompt": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 106,
 "candidates": 7,
 "active": [
@@ -2371,6 +2360,17 @@
 "stars": 0,
 "score": 88.0,
 "last_title": "Phase 9/10: Modularize ArtistSelector, WildcardResolver, PresetResolver. Fix double consumption bug, ListManager isolati"
+},
+{
+"repo": "nseq/OneButtonPrompt",
+"url": "https://github.com/nseq/OneButtonPrompt",
+"branch": "main",
+"ahead": 12,
+"behind": 68,
+"last_commit": "2026-09-02T17:13:23Z",
+"stars": 1,
+"score": 33.9,
+"last_title": "Add files via upload"
 },
 {
 "repo": "optatus21/OneButtonPrompt",
@@ -2397,15 +2397,15 @@
 ]
 },
 "LevelPixel/ComfyUI-LevelPixel": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 3,
 "candidates": 1,
 "active": []
 },
 "receyuki/comfyui-prompt-reader-node": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 44,
-"candidates": 7,
+"scanned": "2026-10-29T13:07:01.695935+00:00",
+"forks_listed": 45,
+"candidates": 8,
 "active": [
 {
 "repo": "dioxic/comfyui-prompt-reader-node",
@@ -2426,7 +2426,7 @@
 "behind": 0,
 "last_commit": "2026-08-17T06:36:07Z",
 "stars": 0,
-"score": 8.5,
+"score": 7.9,
 "last_title": "Fix SDPromptReader image path resolution for output folder"
 },
 {
@@ -2454,7 +2454,7 @@
 ]
 },
 "traugdor/ComfyUI-quadMoons-nodes": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": [
@@ -2472,13 +2472,13 @@
 ]
 },
 "r-vage/ComfyUI-RvTools_v2": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 6,
 "candidates": 0,
 "active": []
 },
 "Flow-two/ComfyUI-WanStartEndFramesNative": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 7,
 "candidates": 3,
 "active": [
@@ -2490,14 +2490,14 @@
 "behind": 0,
 "last_commit": "2026-07-02T17:21:18Z",
 "stars": 0,
-"score": 10.0,
+"score": 9.4,
 "last_title": "Update nodes.py"
 }
 ]
 },
 "Enemyx-net/VibeVoice-ComfyUI": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 127,
+"scanned": "2026-10-29T13:07:01.695935+00:00",
+"forks_listed": 128,
 "candidates": 13,
 "active": [
 {
@@ -2508,7 +2508,7 @@
 "behind": 0,
 "last_commit": "2026-08-29T12:45:45Z",
 "stars": 5,
-"score": 30.9,
+"score": 30.4,
 "last_title": "Merge pull request #3 from nikhilprasanth/claude/vibevoice-speech-mask-alignment-9tri2p"
 },
 {
@@ -2530,13 +2530,13 @@
 "behind": 1,
 "last_commit": "2026-09-04T11:02:45Z",
 "stars": 0,
-"score": 11.5,
+"score": 10.9,
 "last_title": "ci: a publishability guard, so nothing private reaches this public repo"
 }
 ]
 },
 "Layer-norm/comfyui-lama-remover": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 24,
 "candidates": 4,
 "active": [
@@ -2565,7 +2565,7 @@
 ]
 },
 "erosDiffusion/ComfyUI-EulerDiscreteScheduler": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 35,
 "candidates": 4,
 "active": [
@@ -2588,13 +2588,13 @@
 "behind": 0,
 "last_commit": "2026-07-08T20:19:19Z",
 "stars": 0,
-"score": 8.3,
+"score": 7.8,
 "last_title": "Fix tooltip for sigma schedule ending step in FlowMatchEulerSchedulerNode"
 }
 ]
 },
 "theUpsider/ComfyUI-Styles_CSV_Loader": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 14,
 "candidates": 3,
 "active": [
@@ -2612,7 +2612,7 @@
 ]
 },
 "madtunebk/ComfyUI-ControlnetAux": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 8,
 "candidates": 2,
 "active": [
@@ -2630,7 +2630,7 @@
 ]
 },
 "11cafe/comfyui-workspace-manager": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 82,
 "candidates": 6,
 "active": [
@@ -2638,12 +2638,12 @@
 "repo": "breiti35/comfyui-workspace-manager",
 "url": "https://github.com/breiti35/comfyui-workspace-manager",
 "branch": "main",
-"ahead": 146,
+"ahead": 161,
 "behind": 0,
-"last_commit": "2026-10-18T16:32:46Z",
+"last_commit": "2026-10-24T18:17:15Z",
 "stars": 0,
-"score": 110.0,
-"last_title": "docs: README erneuert, Screenshots der neuen Oberflaeche"
+"score": 109.8,
+"last_title": "docs: Fahrplan 4/6/7 erledigt, Uebergabe v2.2.0"
 },
 {
 "repo": "damoguyan8844/comfyui-workspace-manager",
@@ -2681,7 +2681,7 @@
 ]
 },
 "nkchocoai/ComfyUI-SaveImageWithMetaData": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 34,
 "candidates": 12,
 "active": [
@@ -2689,12 +2689,12 @@
 "repo": "xxmjskxx/ComfyUI_SaveImageWithMetaDataUniversal",
 "url": "https://github.com/xxmjskxx/ComfyUI_SaveImageWithMetaDataUniversal",
 "branch": "master",
-"ahead": 679,
+"ahead": 684,
 "behind": 0,
-"last_commit": "2026-10-13T00:30:24Z",
+"last_commit": "2026-10-20T01:21:33Z",
 "stars": 29,
-"score": 124.4,
-"last_title": "Merge pull request #149 from mouton-rebelle/fix/qwen-image-2.1-prompts"
+"score": 124.2,
+"last_title": "Merge pull request #156 from xxmjskxx/test/multichunk-safetensors-hashing"
 },
 {
 "repo": "comfy-nodes/ComfyUI-SaveImageWithMetaData",
@@ -2704,7 +2704,7 @@
 "behind": 0,
 "last_commit": "2026-06-10T14:07:42Z",
 "stars": 4,
-"score": 91.7,
+"score": 91.2,
 "last_title": "refactor(cache): update output cache retrieval to use get_local"
 },
 {
@@ -2743,7 +2743,7 @@
 ]
 },
 "Conor-Collins/ComfyUI-CoCoTools_IO": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-29T13:07:01.695935+00:00",
 "forks_listed": 10,
 "candidates": 6,
 "active": [
@@ -2755,7 +2755,7 @@
 "behind": 0,
 "last_commit": "2026-06-05T06:38:23Z",
 "stars": 0,
-"score": 96.4,
+"score": 95.9,
 "last_title": "Merge branch 'Conor-Collins:master' into master"
 }
 ]
