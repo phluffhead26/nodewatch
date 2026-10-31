@@ -3443,7 +3443,7 @@
 ]
 },
 "aistudynow/ComfyUI-QwenVL": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 4,
 "candidates": 1,
 "active": [
@@ -3455,13 +3455,13 @@
 "behind": 0,
 "last_commit": "2026-07-02T15:37:23Z",
 "stars": 0,
-"score": 8.0,
+"score": 7.3,
 "last_title": "Merge branch 'aistudynow:main' into main"
 }
 ]
 },
 "spinagon/ComfyUI-seamless-tiling": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 24,
 "candidates": 4,
 "active": [
@@ -3473,7 +3473,7 @@
 "behind": 0,
 "last_commit": "2026-08-15T22:28:13Z",
 "stars": 0,
-"score": 8.4,
+"score": 7.8,
 "last_title": "Modernize seamless tiling for Dynamic VRAM"
 },
 {
@@ -3484,44 +3484,22 @@
 "behind": 0,
 "last_commit": "2026-04-28T08:08:32Z",
 "stars": 0,
-"score": 2.3,
+"score": 2.0,
 "last_title": "use ai to fix the deepcopy bug"
 }
 ]
 },
 "kijai/ComfyUI-Marigold": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 24,
 "candidates": 2,
 "active": []
 },
 "lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 27,
-"candidates": 11,
+"scanned": "2026-10-31T12:35:23.990897+00:00",
+"forks_listed": 28,
+"candidates": 12,
 "active": [
-{
-"repo": "naxci1/ComfyUI-FlashVSR_Stable",
-"url": "https://github.com/naxci1/ComfyUI-FlashVSR_Stable",
-"branch": "main",
-"ahead": 123,
-"behind": 0,
-"last_commit": "2026-02-13T08:29:51Z",
-"stars": 70,
-"score": 118.4,
-"last_title": "Change HuggingFace model link to v1.1"
-},
-{
-"repo": "Chenlu-Y/FlashVSR_Ultra_Fast",
-"url": "https://github.com/Chenlu-Y/FlashVSR_Ultra_Fast",
-"branch": "main",
-"ahead": 31,
-"behind": 0,
-"last_commit": "2026-02-03T10:16:22Z",
-"stars": 0,
-"score": 62.0,
-"last_title": "260203 add a tool for picture compressed"
-},
 {
 "repo": "comfyorg/ComfyUI-FlashVSR_Ultra_Fast",
 "url": "https://github.com/comfyorg/ComfyUI-FlashVSR_Ultra_Fast",
@@ -3530,13 +3508,13 @@
 "behind": 0,
 "last_commit": "2026-08-21T13:26:02Z",
 "stars": 0,
-"score": 8.7,
+"score": 8.1,
 "last_title": "Only require the weights the selected mode actually loads"
 }
 ]
 },
 "nosiu/comfyui-instantId-faceswap": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 26,
 "candidates": 7,
 "active": [
@@ -3554,7 +3532,7 @@
 ]
 },
 "jojkaart/ComfyUI-sampler-lcm-alternative": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 16,
 "candidates": 1,
 "active": [
@@ -3572,7 +3550,7 @@
 ]
 },
 "upseem/comfyui_sunxAI_facetools": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 3,
 "candidates": 1,
 "active": [
@@ -3584,13 +3562,13 @@
 "behind": 0,
 "last_commit": "2026-10-16T19:08:22Z",
 "stars": 0,
-"score": 109.9,
+"score": 109.2,
 "last_title": "Update README intro statement on consolidating legacy extensions"
 }
 ]
 },
 "pydn/ComfyUI-to-Python-Extension": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 194,
 "candidates": 12,
 "active": [
@@ -3602,7 +3580,7 @@
 "behind": 93,
 "last_commit": "2026-09-15T01:46:03Z",
 "stars": 183,
-"score": 64.7,
+"score": 64.0,
 "last_title": "Fix issue with newer comfyui"
 },
 {
@@ -3613,7 +3591,7 @@
 "behind": 93,
 "last_commit": "2026-07-21T10:34:31Z",
 "stars": 0,
-"score": 37.0,
+"score": 36.3,
 "last_title": "Update daily-e2e.yml"
 },
 {
@@ -3624,13 +3602,13 @@
 "behind": 0,
 "last_commit": "2026-08-23T14:16:26Z",
 "stars": 0,
-"score": 8.8,
+"score": 8.2,
 "last_title": "Fix conversion of ComfyUI v3 (io.ComfyNode) nodes"
 }
 ]
 },
 "kijai/ComfyUI-MimicMotionWrapper": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 39,
 "candidates": 3,
 "active": [
@@ -3648,7 +3626,7 @@
 ]
 },
 "fairy-root/Flux-Prompt-Generator": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 28,
 "candidates": 1,
 "active": [
@@ -3666,13 +3644,13 @@
 ]
 },
 "hgabha/WWAA-CustomNodes": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "if-ai/ComfyUI-IF_LLM": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 19,
 "candidates": 2,
 "active": [
@@ -3684,7 +3662,7 @@
 "behind": 0,
 "last_commit": "2026-06-02T21:54:05Z",
 "stars": 0,
-"score": 82.3,
+"score": 81.7,
 "last_title": "Merge pull request #1 from ldoroshe/refactor/if-llm-architecture"
 },
 {
@@ -3701,7 +3679,7 @@
 ]
 },
 "ty0x2333/ComfyUI-Dev-Utils": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 19,
 "candidates": 5,
 "active": [
@@ -3713,7 +3691,7 @@
 "behind": 0,
 "last_commit": "2026-06-05T17:18:26Z",
 "stars": 0,
-"score": 18.5,
+"score": 17.8,
 "last_title": "Read ExecutionTime console logging setting on startup"
 },
 {
@@ -3741,13 +3719,13 @@
 ]
 },
 "agilly1989/ComfyUI_agilly1989_motorway": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 1,
 "candidates": 0,
 "active": []
 },
 "yvann-ba/ComfyUI_Yvann-Nodes": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 31,
 "candidates": 2,
 "active": [
@@ -3759,13 +3737,13 @@
 "behind": 0,
 "last_commit": "2026-10-02T18:56:43Z",
 "stars": 0,
-"score": 11.1,
+"score": 10.4,
 "last_title": "Merge pull request #1 from yvann-ba/main"
 }
 ]
 },
 "WarpedAnimation/ComfyUI-WarpedToolset": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 3,
 "candidates": 1,
 "active": [
@@ -3783,7 +3761,7 @@
 ]
 },
 "Fannovel16/ComfyUI-Video-Matting": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 20,
 "candidates": 10,
 "active": [
@@ -3823,25 +3801,25 @@
 ]
 },
 "fairy-root/ComfyUI-Show-Text": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 6,
 "candidates": 0,
 "active": []
 },
 "robertvoy/ComfyUI-Flux-Continuum": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 11,
 "candidates": 0,
 "active": []
 },
 "crystian/ComfyUI-Crystools-save": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": []
 },
 "TheMistoAI/ComfyUI-Anyline": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 35,
 "candidates": 2,
 "active": [
@@ -3859,7 +3837,7 @@
 ]
 },
 "billwuhao/ComfyUI_IndexTTS": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 52,
 "candidates": 8,
 "active": [
@@ -3871,7 +3849,7 @@
 "behind": 0,
 "last_commit": "2026-08-01T15:48:29Z",
 "stars": 0,
-"score": 31.7,
+"score": 31.0,
 "last_title": "transformers>=5.0.0"
 },
 {
@@ -3904,25 +3882,25 @@
 "behind": 0,
 "last_commit": "2026-08-09T01:32:26Z",
 "stars": 0,
-"score": 10.1,
+"score": 9.4,
 "last_title": "Add torchcodec to requirements"
 }
 ]
 },
 "akatz-ai/ComfyUI-Depthflow-Nodes": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
-"forks_listed": 21,
-"candidates": 0,
+"scanned": "2026-10-31T12:35:23.990897+00:00",
+"forks_listed": 22,
+"candidates": 1,
 "active": []
 },
 "Extraltodeus/sigmas_tools_and_the_golden_scheduler": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 14,
 "candidates": 1,
 "active": []
 },
 "aigc-apps/EasyAnimate": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 190,
 "candidates": 11,
 "active": [
@@ -3940,25 +3918,25 @@
 ]
 },
 "Mattabyte/ComfyUI-LTXVideo-Registry_Mattabyte": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 2,
 "candidates": 1,
 "active": []
 },
 "tritant/ComfyUI_Custom_Switch": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 3,
 "candidates": 2,
 "active": []
 },
 "LAOGOU-666/ComfyUI-LG_SamplingUtils": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 4,
 "candidates": 0,
 "active": []
 },
 "billwuhao/ComfyUI_ACE-Step": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 22,
 "candidates": 4,
 "active": [
@@ -3976,7 +3954,7 @@
 ]
 },
 "akatz-ai/ComfyUI-Basic-Math": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-10-31T12:35:23.990897+00:00",
 "forks_listed": 4,
 "candidates": 2,
 "active": []
