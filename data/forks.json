@@ -3960,7 +3960,7 @@
 "active": []
 },
 "Visionatrix/ComfyUI-Gemini": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 10,
 "candidates": 7,
 "active": [
@@ -3972,7 +3972,7 @@
 "behind": 0,
 "last_commit": "2026-08-23T01:03:21Z",
 "stars": 0,
-"score": 22.8,
+"score": 22.1,
 "last_title": "Update README to enforce .bat file for API key usage"
 },
 {
@@ -3983,31 +3983,31 @@
 "behind": 0,
 "last_commit": "2026-08-17T14:33:30Z",
 "stars": 0,
-"score": 12.5,
+"score": 11.8,
 "last_title": "updates models"
 }
 ]
 },
 "MushroomFleet/DJZ-Nodes": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 16,
 "candidates": 2,
 "active": []
 },
 "ycyy/ComfyUI-YCYY-LoraInfo": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "glibsonoran/Plush-for-ComfyUI": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 17,
 "candidates": 0,
 "active": []
 },
 "alexcong/ComfyUI_QwenVL": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 24,
 "candidates": 2,
 "active": [
@@ -4025,13 +4025,13 @@
 ]
 },
 "marhensa/sdxl-recommended-res-calc": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": []
 },
 "syllebra/bilbox-comfyui": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 11,
 "candidates": 1,
 "active": [
@@ -4049,13 +4049,13 @@
 ]
 },
 "portu-sim/comfyui_bmab": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 9,
 "candidates": 0,
 "active": []
 },
 "shenduldh/ComfyUI-Lightning": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 6,
 "candidates": 3,
 "active": [
@@ -4067,7 +4067,7 @@
 "behind": 0,
 "last_commit": "2026-05-13T11:28:54Z",
 "stars": 0,
-"score": 7.2,
+"score": 6.4,
 "last_title": "Fix tensor_layout bug during tuning pass"
 },
 {
@@ -4084,7 +4084,7 @@
 ]
 },
 "ShammiG/ComfyUI-Simple_Readable_Metadata-SG": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": [
@@ -4096,13 +4096,13 @@
 "behind": 0,
 "last_commit": "2026-09-16T02:14:11Z",
 "stars": 0,
-"score": 10.2,
+"score": 9.4,
 "last_title": "Extend WebUI extraction patterns"
 }
 ]
 },
 "comfy-deploy/comfyui-llm-toolkit": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 22,
 "candidates": 6,
 "active": [
@@ -4125,7 +4125,7 @@
 "behind": 0,
 "last_commit": "2026-07-26T13:39:24Z",
 "stars": 0,
-"score": 7.3,
+"score": 6.6,
 "last_title": "adding all the things"
 },
 {
@@ -4136,19 +4136,19 @@
 "behind": 0,
 "last_commit": "2026-07-06T15:45:53Z",
 "stars": 0,
-"score": 6.2,
+"score": 5.5,
 "last_title": "Fix/openrouter support (#1)"
 }
 ]
 },
 "pamparamm/ComfyUI_IPAdapter_plus": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 2,
 "candidates": 0,
 "active": []
 },
 "CY-CHENYUE/ComfyUI-Gemini-API": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 29,
 "candidates": 3,
 "active": [
@@ -4177,7 +4177,7 @@
 ]
 },
 "Munkyfoot/ComfyUI-TextOverlay": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 15,
 "candidates": 1,
 "active": [
@@ -4195,7 +4195,7 @@
 ]
 },
 "shadowcz007/comfyui-liveportrait": {
-"scanned": "2026-10-19T15:30:08.263725+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 41,
 "candidates": 3,
 "active": [
@@ -4213,9 +4213,9 @@
 ]
 },
 "yawiii/ComfyUI-Prompt-Assistant": {
-"scanned": "2026-10-23T11:45:53.035035+00:00",
-"forks_listed": 137,
-"candidates": 17,
+"scanned": "2026-11-01T13:30:33.989444+00:00",
+"forks_listed": 138,
+"candidates": 18,
 "active": [
 {
 "repo": "wysl/ComfyUI-Prompt-Assistant",
@@ -4225,8 +4225,19 @@
 "behind": 0,
 "last_commit": "2026-09-13T16:26:18Z",
 "stars": 3,
-"score": 83.8,
+"score": 83.3,
 "last_title": "chore: update Google web translation user agent"
+},
+{
+"repo": "mr-grixa/ComfyUI-Prompt-Assistant",
+"url": "https://github.com/mr-grixa/ComfyUI-Prompt-Assistant",
+"branch": "main",
+"ahead": 12,
+"behind": 0,
+"last_commit": "2026-10-24T00:00:55Z",
+"stars": 0,
+"score": 33.6,
+"last_title": "Merge pull request #7 from mr-grixa/revert-5-arena/03181c93-comfyui-prompt-assistant"
 },
 {
 "repo": "MUJUN-2025/ComfyUI-Prompt-Assistant",
@@ -4235,36 +4246,25 @@
 "ahead": 1,
 "behind": 0,
 "last_commit": "2026-09-19T11:19:39Z",
-"stars": 21,
-"score": 23.5,
+"stars": 23,
+"score": 23.4,
 "last_title": "\u56fe\u50cf\u53cd\u63a8\u8282\u70b9\u652f\u6301\u591a\u56fe\u5408\u5e76\u53cd\u63a8\uff08\u52a8\u6001\u8f93\u5165\u53e3\uff0c\u6700\u591a9\u56fe\uff09"
 },
 {
-"repo": "mr-grixa/ComfyUI-Prompt-Assistant",
-"url": "https://github.com/mr-grixa/ComfyUI-Prompt-Assistant",
+"repo": "idleeyan/ComfyUI-Prompt-Assistant",
+"url": "https://github.com/idleeyan/ComfyUI-Prompt-Assistant",
 "branch": "main",
-"ahead": 6,
+"ahead": 2,
 "behind": 0,
-"last_commit": "2026-10-23T00:14:23Z",
+"last_commit": "2026-10-30T10:13:30Z",
 "stars": 0,
-"score": 22.0,
-"last_title": "Merge pull request #3 from mr-grixa/arena/7f08351d-comfyui-prompt-assistant"
-},
-{
-"repo": "justasuka/ComfyUI-Prompt-Assistant",
-"url": "https://github.com/justasuka/ComfyUI-Prompt-Assistant",
-"branch": "main",
-"ahead": 1,
-"behind": 0,
-"last_commit": "2026-10-08T03:07:05Z",
-"stars": 0,
-"score": 11.2,
-"last_title": "\u65b0\u589eDeepSeek\u9884\u7f6e\u670d\u52a1\u5546\uff0c\u652f\u6301\u63a5\u5165Command Code"
+"score": 13.9,
+"last_title": "\u66f4\u65b0 README\uff1a\u7cbe\u7b80\u8bed\u8a00\u7248\u672c\u5e76\u8bb0\u5f55 Fork \u4fee\u590d"
 }
 ]
 },
 "wywywywy/ComfyUI-pause": {
-"scanned": "2026-10-24T11:06:21.614201+00:00",
+"scanned": "2026-11-01T13:30:33.989444+00:00",
 "forks_listed": 7,
 "candidates": 0,
 "active": []
