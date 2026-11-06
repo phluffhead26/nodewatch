@@ -2714,13 +2714,13 @@
 ]
 },
 "glifxyz/ComfyUI-GlifNodes": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 13,
 "candidates": 1,
 "active": []
 },
 "CY-CHENYUE/ComfyUI-InpaintEasy": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 11,
 "candidates": 2,
 "active": [
@@ -2738,7 +2738,7 @@
 ]
 },
 "kijai/ComfyUI-SCAIL-Pose": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 30,
 "candidates": 4,
 "active": [
@@ -2750,13 +2750,13 @@
 "behind": 0,
 "last_commit": "2026-06-15T04:34:26Z",
 "stars": 0,
-"score": 8.4,
+"score": 8.0,
 "last_title": "fix: remove extra nodes in sample workflow"
 }
 ]
 },
 "huchenlei/ComfyUI-layerdiffuse": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 173,
 "candidates": 12,
 "active": [
@@ -2818,13 +2818,13 @@
 ]
 },
 "ryanontheinside/ComfyUI_RyanOnTheInside": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 56,
 "candidates": 2,
 "active": []
 },
 "Ryuukeisyou/comfyui_face_parsing": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 19,
 "candidates": 3,
 "active": [
@@ -2842,9 +2842,9 @@
 ]
 },
 "comfyanonymous/ComfyUI_TensorRT": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
-"forks_listed": 64,
-"candidates": 17,
+"scanned": "2026-11-06T14:23:05.215091+00:00",
+"forks_listed": 63,
+"candidates": 16,
 "active": [
 {
 "repo": "NubeBuster/ComfyUI_TensorRT",
@@ -2854,7 +2854,7 @@
 "behind": 0,
 "last_commit": "2026-08-05T11:14:06Z",
 "stars": 7,
-"score": 94.2,
+"score": 93.8,
 "last_title": "fix(tensorrt_auto): max_disk_usage: count .refit_cache/ and enforce on every run"
 },
 {
@@ -2887,25 +2887,25 @@
 "behind": 0,
 "last_commit": "2026-06-07T00:21:23Z",
 "stars": 0,
-"score": 3.9,
+"score": 3.6,
 "last_title": "Renew project for PyTorch 2.11 + TensorRT 11 + uv environment setup (#1)"
 }
 ]
 },
 "alisson-anjos/ComfyUI-Ollama-Describer": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 23,
 "candidates": 1,
 "active": []
 },
 "Steudio/ComfyUI_Steudio": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 10,
 "candidates": 5,
 "active": []
 },
 "djbielejeski/a-person-mask-generator": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 53,
 "candidates": 4,
 "active": [
@@ -2917,7 +2917,7 @@
 "behind": 0,
 "last_commit": "2026-10-29T08:14:51Z",
 "stars": 0,
-"score": 11.9,
+"score": 11.6,
 "last_title": "Update a_person_mask_generator_comfyui.py"
 },
 {
@@ -2934,13 +2934,13 @@
 ]
 },
 "chflame163/ComfyUI_IPAdapter_plus_V2": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 5,
 "candidates": 1,
 "active": []
 },
 "akatz-ai/ComfyUI-DepthCrafter-Nodes": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 15,
 "candidates": 4,
 "active": [
@@ -2958,8 +2958,8 @@
 ]
 },
 "zombieyang/sd-ppp": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
-"forks_listed": 125,
+"scanned": "2026-11-06T14:23:05.215091+00:00",
+"forks_listed": 126,
 "candidates": 3,
 "active": [
 {
@@ -2970,8 +2970,19 @@
 "behind": 0,
 "last_commit": "2026-09-14T07:50:05Z",
 "stars": 0,
-"score": 63.4,
+"score": 63.1,
 "last_title": "\u8c03\u6574\u751f\u6210\u7ed3\u679c\u9884\u89c8\u4f4d\u7f6e\u5e76\u5347\u7ea7\u7248\u672c"
+},
+{
+"repo": "Flipped-168/sd-ppp",
+"url": "https://github.com/Flipped-168/sd-ppp",
+"branch": "main",
+"ahead": 15,
+"behind": 0,
+"last_commit": "2026-11-06T08:55:06Z",
+"stars": 0,
+"score": 40.0,
+"last_title": "chore: preserve fork sync workflow"
 },
 {
 "repo": "RanKaze/sd-ppp",
@@ -2983,29 +2994,18 @@
 "stars": 0,
 "score": 38.0,
 "last_title": "update"
-},
-{
-"repo": "Flipped-168/sd-ppp",
-"url": "https://github.com/Flipped-168/sd-ppp",
-"branch": "main",
-"ahead": 8,
-"behind": 0,
-"last_commit": "2026-10-30T08:02:11Z",
-"stars": 0,
-"score": 26.0,
-"last_title": "chore: preserve fork sync workflow"
 }
 ]
 },
 "VraethrDalkr/ComfyUI-TripleKSampler": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 9,
 "candidates": 1,
 "active": []
 },
 "MoonGoblinDev/Civicomfy": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
-"forks_listed": 26,
+"scanned": "2026-11-06T14:23:05.215091+00:00",
+"forks_listed": 27,
 "candidates": 9,
 "active": [
 {
@@ -3016,7 +3016,7 @@
 "behind": 0,
 "last_commit": "2026-10-12T23:08:42Z",
 "stars": 14,
-"score": 120.8,
+"score": 120.4,
 "last_title": "Fix cramped layouts on small screens and tidy toolbar, card and form alignment"
 },
 {
@@ -3026,8 +3026,8 @@
 "ahead": 177,
 "behind": 53,
 "last_commit": "2026-09-25T11:24:04Z",
-"stars": 11,
-"score": 118.8,
+"stars": 10,
+"score": 118.0,
 "last_title": "Update banner"
 },
 {
@@ -3038,7 +3038,7 @@
 "behind": 63,
 "last_commit": "2026-07-11T05:11:50Z",
 "stars": 3,
-"score": 109.8,
+"score": 109.4,
 "last_title": "Update pyproject.toml"
 },
 {
@@ -3049,13 +3049,13 @@
 "behind": 0,
 "last_commit": "2026-07-29T15:04:36Z",
 "stars": 0,
-"score": 6.9,
+"score": 6.5,
 "last_title": "Update URL validation and normalization logic"
 }
 ]
 },
 "daxcay/ComfyUI-JDCN": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 17,
 "candidates": 3,
 "active": [
@@ -3067,7 +3067,7 @@
 "behind": 0,
 "last_commit": "2026-10-20T18:00:22Z",
 "stars": 0,
-"score": 11.5,
+"score": 11.1,
 "last_title": "Fix drop files on Comfy v1.53.10"
 },
 {
@@ -3084,7 +3084,7 @@
 ]
 },
 "huchenlei/ComfyUI-openpose-editor": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 18,
 "candidates": 14,
 "active": [
@@ -3102,13 +3102,13 @@
 ]
 },
 "lrzjason/Comfyui-In-Context-Lora-Utils": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 15,
 "candidates": 0,
 "active": []
 },
 "asagi4/ComfyUI-Adaptive-Guidance": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 9,
 "candidates": 1,
 "active": [
@@ -3126,7 +3126,7 @@
 ]
 },
 "silveroxides/ComfyUI_bitsandbytes_NF4": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 12,
 "candidates": 6,
 "active": [
@@ -3138,13 +3138,13 @@
 "behind": 0,
 "last_commit": "2026-07-25T19:26:31Z",
 "stars": 0,
-"score": 6.7,
+"score": 6.3,
 "last_title": "Fix shape detection for NF4 model"
 }
 ]
 },
 "Limitex/ComfyUI-Diffusers": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 31,
 "candidates": 8,
 "active": [
@@ -3162,13 +3162,13 @@
 ]
 },
 "raindrop313/ComfyUI-WanVideoStartEndFrames": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 22,
 "candidates": 2,
 "active": []
 },
 "cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 52,
 "candidates": 6,
 "active": [
@@ -3219,13 +3219,13 @@
 ]
 },
 "jiandanplus/Comfyui-GLM_Prompt": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 2,
 "candidates": 1,
 "active": []
 },
 "newtextdoc1111/ComfyUI-Autocomplete-Plus": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 32,
 "candidates": 19,
 "active": [
@@ -3236,8 +3236,8 @@
 "ahead": 60,
 "behind": 0,
 "last_commit": "2026-08-31T03:04:31Z",
-"stars": 19,
-"score": 119.6,
+"stars": 22,
+"score": 119.8,
 "last_title": "docs: \u6dfb\u52a0\u4ea7\u54c1\u5b9a\u4e49\u4e0e ComfyUI \u8bbe\u8ba1\u7cfb\u7edf\u89c4\u8303"
 },
 {
@@ -3248,8 +3248,19 @@
 "behind": 0,
 "last_commit": "2026-09-19T09:09:46Z",
 "stars": 0,
-"score": 45.7,
+"score": 45.3,
 "last_title": "feat: Open related tags on double-click by default"
+},
+{
+"repo": "wakaura-asaho/comfyui-autocomplete-plus-wa",
+"url": "https://github.com/wakaura-asaho/comfyui-autocomplete-plus-wa",
+"branch": "main",
+"ahead": 2,
+"behind": 0,
+"last_commit": "2026-11-01T07:03:52Z",
+"stars": 0,
+"score": 13.7,
+"last_title": "Update the node blocklist mechanism."
 },
 {
 "repo": "Samurai019/ComfyUI-Autocomplete-Plus",
@@ -3259,7 +3270,7 @@
 "behind": 0,
 "last_commit": "2026-08-31T13:57:53Z",
 "stars": 0,
-"score": 10.7,
+"score": 10.3,
 "last_title": "feat: add tag weight controls (up/down/reset) to related-tags panel header"
 },
 {
@@ -3270,38 +3281,16 @@
 "behind": 0,
 "last_commit": "2026-08-28T18:09:43Z",
 "stars": 0,
-"score": 10.6,
+"score": 10.2,
 "last_title": "fix: remove deprecated legacy API"
-},
-{
-"repo": "wakaura-asaho/comfyui-autocomplete-plus-wa",
-"url": "https://github.com/wakaura-asaho/comfyui-autocomplete-plus-wa",
-"branch": "main",
-"ahead": 1,
-"behind": 0,
-"last_commit": "2026-09-28T14:42:11Z",
-"stars": 0,
-"score": 10.3,
-"last_title": "New feature: per-node block list."
 }
 ]
 },
 "huchenlei/ComfyUI-IC-Light-Native": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 38,
 "candidates": 2,
 "active": [
-{
-"repo": "Bochu3/ComfyUI-IC-Light-Native",
-"url": "https://github.com/Bochu3/ComfyUI-IC-Light-Native",
-"branch": "main",
-"ahead": 1,
-"behind": 0,
-"last_commit": "2026-06-09T20:21:56Z",
-"stars": 0,
-"score": 4.1,
-"last_title": "Fix VRAM leak by keeping IC-Light diff weights on offload device"
-},
 {
 "repo": "Zilanlann/ComfyUI-IC-Light-Native",
 "url": "https://github.com/Zilanlann/ComfyUI-IC-Light-Native",
@@ -3312,30 +3301,41 @@
 "stars": 0,
 "score": 4.0,
 "last_title": "perf: \u26a1\ufe0fauto release memory usage"
+},
+{
+"repo": "Bochu3/ComfyUI-IC-Light-Native",
+"url": "https://github.com/Bochu3/ComfyUI-IC-Light-Native",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-06-09T20:21:56Z",
+"stars": 0,
+"score": 3.7,
+"last_title": "Fix VRAM leak by keeping IC-Light diff weights on offload device"
 }
 ]
 },
 "nkchocoai/ComfyUI-TextOnSegs": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 4,
 "candidates": 0,
 "active": []
 },
 "TheLustriVA/ComfyUI-Image-Size-Tools": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 4,
 "candidates": 1,
 "active": []
 },
 "regiellis/ComfyUI-EasyColorCorrector": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
+"scanned": "2026-11-06T14:23:05.215091+00:00",
 "forks_listed": 13,
 "candidates": 0,
 "active": []
 },
 "yolain/ComfyUI-Easy-Sam3": {
-"scanned": "2026-10-30T13:02:12.181235+00:00",
-"forks_listed": 25,
+"scanned": "2026-11-06T14:23:05.215091+00:00",
+"forks_listed": 26,
 "candidates": 7,
 "active": [
 {
@@ -3368,7 +3368,7 @@
 "behind": 0,
 "last_commit": "2026-10-13T12:37:22Z",
 "stars": 0,
-"score": 11.1,
+"score": 10.7,
 "last_title": "Add Blackwell (sm_120) compatibility fallbacks"
 },
 {
@@ -3379,7 +3379,7 @@
 "behind": 0,
 "last_commit": "2026-07-06T16:13:21Z",
 "stars": 0,
-"score": 9.6,
+"score": 9.2,
 "last_title": "Add COLMAP mask export for tracked objects"
 },
 {
