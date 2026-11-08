@@ -1,33 +1,33 @@
-# NodeWatch Weekly — Issue #1 (2026-11-07)
+# NodeWatch Weekly — Issue #1 (2026-11-08)
 
-*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,389 registered.*
+*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,405 registered.*
 
 ## The big picture
-- **193** of 300 popular packs are **Active** (commit within the last year); **106** look **stale**, and **102** haven't had a commit in over a year (stale), and **63** active packs are *Quiet* (6–12 months without a commit).
+- **191** of 300 popular packs are **Active** (commit within the last year); **108** look **stale**, and **104** haven't had a commit in over a year (stale), and **60** active packs are *Quiet* (6–12 months without a commit).
 - In the **top 50**, 11 are stale (no commit in 12+ months), including household names:
-  - **ComfyUI_essentials** (#7, 3,133,060 downloads, 1207 ★) — last commit 2025-04-14
-  - **ComfyUI-Crystools** (#10, 2,469,247 downloads, 2025 ★) — last commit 2025-10-26
-  - **ComfyUI Impact Subpack** (#11, 2,362,686 downloads, 395 ★) — last commit 2025-07-22
-  - **ComfyUI_IPAdapter_plus** (#20, 1,617,573 downloads, 6173 ★) — last commit 2025-04-14
-  - **ComfyUI-mxToolkit** (#21, 1,244,530 downloads, 321 ★) — last commit 2025-05-07
-  - **Derfuu_ComfyUI_ModdedNodes** (#36, 785,350 downloads, 455 ★) — last commit 2024-06-22
-  - **ControlAltAI_Nodes** (#39, 703,623 downloads, 212 ★) — last commit 2025-06-05
-  - **ComfyUI-TeaCache** (#42, 621,596 downloads, 1095 ★) — last commit 2025-07-12
+  - **ComfyUI_essentials** (#7, 3,135,919 downloads, 1207 ★) — last commit 2025-04-14
+  - **ComfyUI-Crystools** (#10, 2,472,699 downloads, 2025 ★) — last commit 2025-10-26
+  - **ComfyUI Impact Subpack** (#11, 2,365,310 downloads, 395 ★) — last commit 2025-07-22
+  - **ComfyUI_IPAdapter_plus** (#20, 1,619,368 downloads, 6173 ★) — last commit 2025-04-14
+  - **ComfyUI-mxToolkit** (#21, 1,245,709 downloads, 321 ★) — last commit 2025-05-07
+  - **Derfuu_ComfyUI_ModdedNodes** (#36, 786,186 downloads, 455 ★) — last commit 2024-06-22
+  - **ControlAltAI_Nodes** (#39, 704,406 downloads, 212 ★) — last commit 2025-06-05
+  - **ComfyUI-TeaCache** (#42, 621,752 downloads, 1095 ★) — last commit 2025-07-12
 - Only **12** of 300 declare a `requires-comfyui` range in pyproject.toml — so version compatibility is mostly guesswork for users.
-- **23** packs shipped commits this week; **24** published a new registry release.
+- **21** packs shipped commits this week; **23** published a new registry release.
 
 ## 📈 Error spikes (worth checking recent issues)
-- **ComfyUI-DaSiWa-Nodes** — 4 error-titled issues in last 30 days vs 0.67/month baseline; 2.84 per 100K downloads — worth checking recent issues. Recent reports: [Continuity with REF2VA timeline audio reference fails: shape mismatch in audio r](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/94); [Forge visual mode fails with 2 reference images: MTMDChatHandler(_process_mtmd_p](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/86); [RTX_UpscalerRefiner Runtime Error more RAM required / disk-backed safety limit.](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/81)
+- **ComfyUI-DaSiWa-Nodes** — 4 error-titled issues in last 30 days vs 0.67/month baseline; 2.83 per 100K downloads — worth checking recent issues. Recent reports: [Continuity with REF2VA timeline audio reference fails: shape mismatch in audio r](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/94); [Forge visual mode fails with 2 reference images: MTMDChatHandler(_process_mtmd_p](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/86); [RTX_UpscalerRefiner Runtime Error more RAM required / disk-backed safety limit.](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/81)
 
 ## 🔥 Rising this week
-- **FastVideo** — +165 stars in 19 days
-- **VRGameDevGirl Custom Nodes** — +94 stars in 19 days
-- **ComfyUI-WanVideoWrapper** — +76 stars in 19 days
-- **ComfyUI-KJNodes** — +66 stars in 19 days
-- **rgthree-comfy** — +62 stars in 19 days
-- **ComfyUI-DaSiWa-Nodes** — +60 stars in 19 days
-- **VNCCS - Visual Novel Character Creation Suite** — +57 stars in 19 days
-- **ComfyUI-GGUF** — +55 stars in 19 days
+- **FastVideo** — +168 stars in 20 days
+- **VRGameDevGirl Custom Nodes** — +95 stars in 20 days
+- **ComfyUI-WanVideoWrapper** — +77 stars in 20 days
+- **ComfyUI-KJNodes** — +70 stars in 20 days
+- **rgthree-comfy** — +64 stars in 20 days
+- **VNCCS - Visual Novel Character Creation Suite** — +63 stars in 20 days
+- **ComfyUI-DaSiWa-Nodes** — +62 stars in 20 days
+- **Prompt Assistant** — +58 stars in 20 days
 
 ## 🍴 Active forks of stale packs (suggestions, not endorsements)
 - **ComfyUI-GGUF** → [molbal/ComfyUI-GGUF](https://github.com/molbal/ComfyUI-GGUF): 114 commits ahead, last commit 2026-10-30
@@ -38,16 +38,16 @@
 - **ComfyUI-Autocomplete-Plus** → [Aaalice233/ComfyUI-Autocomplete-Aaalice](https://github.com/Aaalice233/ComfyUI-Autocomplete-Aaalice): 60 commits ahead, last commit 2026-08-31
 
 ## 🚀 Fresh releases this week
+- **ComfyUI-Model-Manager** v2.8.7 (2026-11-08)
+- **ComfyUI-DaSiWa-Nodes** v0.5.40 (2026-11-08)
+- **comfyui_AcademiaSD** v2.6.11 (2026-11-08)
+- **ComfyUI-PlagueKind-Nodes** v1.6.0 (2026-11-08)
+- **ComfyUI-KikoTools** v1.4.0 (2026-11-07)
 - **Deno Custom Nodes** v0.7.127 (2026-11-07)
 - **ComfyUI-ppm** v1.1.25 (2026-11-06)
 - **ComfyUI-Nunchaku QwenImage&Z-Image Turbo LoraStack** v2.6.8 (2026-11-06)
 - **Pixaroma** v1.4.251 (2026-11-06)
 - **TTS Audio Suite** v5.10.8 (2026-11-05)
-- **WAS Node Suite v3** v3.9.6 (2026-11-05)
-- **ComfyUI-DaSiWa-Nodes** v0.5.39 (2026-11-05)
-- **VRGameDevGirl Custom Nodes** v10.0.1 (2026-11-04)
-- **ComfyUI-BFSNodes** v1.118.0 (2026-11-04)
-- **VNCCS - Collection of utility nodes** v0.7.2 (2026-11-04)
 
 ## 🪦 Gone missing
 - **comfyui-reactor-node** — `Gourieff/comfyui-reactor-node` no longer resolves on GitHub (still listed in the registry)

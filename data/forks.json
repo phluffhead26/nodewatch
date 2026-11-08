@@ -3913,7 +3913,7 @@
 "active": []
 },
 "Visionatrix/ComfyUI-Gemini": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 10,
 "candidates": 7,
 "active": [
@@ -3925,42 +3925,42 @@
 "behind": 0,
 "last_commit": "2026-08-23T01:03:21Z",
 "stars": 0,
-"score": 22.1,
+"score": 21.7,
 "last_title": "Update README to enforce .bat file for API key usage"
 },
 {
 "repo": "nixilla/ComfyUI-Gemini",
 "url": "https://github.com/nixilla/ComfyUI-Gemini",
 "branch": "main",
-"ahead": 3,
+"ahead": 5,
 "behind": 0,
-"last_commit": "2026-08-17T14:33:30Z",
+"last_commit": "2026-11-03T11:50:04Z",
 "stars": 0,
-"score": 11.8,
-"last_title": "updates models"
+"score": 19.7,
+"last_title": "[pre-commit.ci] auto fixes from pre-commit.com hooks"
 }
 ]
 },
 "MushroomFleet/DJZ-Nodes": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 16,
 "candidates": 2,
 "active": []
 },
 "ycyy/ComfyUI-YCYY-LoraInfo": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "glibsonoran/Plush-for-ComfyUI": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 17,
 "candidates": 0,
 "active": []
 },
 "alexcong/ComfyUI_QwenVL": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 24,
 "candidates": 2,
 "active": [
@@ -3978,13 +3978,13 @@
 ]
 },
 "marhensa/sdxl-recommended-res-calc": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": []
 },
 "syllebra/bilbox-comfyui": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 11,
 "candidates": 1,
 "active": [
@@ -4002,13 +4002,13 @@
 ]
 },
 "portu-sim/comfyui_bmab": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 9,
 "candidates": 0,
 "active": []
 },
 "shenduldh/ComfyUI-Lightning": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 6,
 "candidates": 3,
 "active": [
@@ -4020,7 +4020,7 @@
 "behind": 0,
 "last_commit": "2026-05-13T11:28:54Z",
 "stars": 0,
-"score": 6.4,
+"score": 6.1,
 "last_title": "Fix tensor_layout bug during tuning pass"
 },
 {
@@ -4037,7 +4037,7 @@
 ]
 },
 "ShammiG/ComfyUI-Simple_Readable_Metadata-SG": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": [
@@ -4049,13 +4049,13 @@
 "behind": 0,
 "last_commit": "2026-09-16T02:14:11Z",
 "stars": 0,
-"score": 9.4,
+"score": 9.1,
 "last_title": "Extend WebUI extraction patterns"
 }
 ]
 },
 "comfy-deploy/comfyui-llm-toolkit": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 22,
 "candidates": 6,
 "active": [
@@ -4078,7 +4078,7 @@
 "behind": 0,
 "last_commit": "2026-07-26T13:39:24Z",
 "stars": 0,
-"score": 6.6,
+"score": 6.2,
 "last_title": "adding all the things"
 },
 {
@@ -4089,13 +4089,13 @@
 "behind": 0,
 "last_commit": "2026-07-06T15:45:53Z",
 "stars": 0,
-"score": 5.5,
+"score": 5.1,
 "last_title": "Fix/openrouter support (#1)"
 }
 ]
 },
 "pamparamm/ComfyUI_IPAdapter_plus": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 2,
 "candidates": 0,
 "active": []
@@ -4130,7 +4130,7 @@
 ]
 },
 "Munkyfoot/ComfyUI-TextOverlay": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 15,
 "candidates": 1,
 "active": [
@@ -4166,7 +4166,7 @@
 ]
 },
 "yawiii/ComfyUI-Prompt-Assistant": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 138,
 "candidates": 18,
 "active": [
@@ -4178,7 +4178,7 @@
 "behind": 0,
 "last_commit": "2026-09-13T16:26:18Z",
 "stars": 3,
-"score": 83.3,
+"score": 82.9,
 "last_title": "chore: update Google web translation user agent"
 },
 {
@@ -4189,19 +4189,19 @@
 "behind": 0,
 "last_commit": "2026-10-24T00:00:55Z",
 "stars": 0,
-"score": 33.6,
+"score": 33.2,
 "last_title": "Merge pull request #7 from mr-grixa/revert-5-arena/03181c93-comfyui-prompt-assistant"
 },
 {
 "repo": "MUJUN-2025/ComfyUI-Prompt-Assistant",
 "url": "https://github.com/MUJUN-2025/ComfyUI-Prompt-Assistant",
 "branch": "main",
-"ahead": 1,
+"ahead": 2,
 "behind": 0,
-"last_commit": "2026-09-19T11:19:39Z",
-"stars": 23,
-"score": 23.4,
-"last_title": "\u56fe\u50cf\u53cd\u63a8\u8282\u70b9\u652f\u6301\u591a\u56fe\u5408\u5e76\u53cd\u63a8\uff08\u52a8\u6001\u8f93\u5165\u53e3\uff0c\u6700\u591a9\u56fe\uff09"
+"last_commit": "2026-11-04T21:09:24Z",
+"stars": 32,
+"score": 29.0,
+"last_title": "\u9002\u914d ComfyUI 0.44 \u65b0\u7248\u524d\u7aef\uff1a\u4fee\u590d\u5f39\u7a97\u65e0\u6cd5\u4ea4\u4e92\u4e0e\u6d6e\u5c42\u900f\u660e"
 },
 {
 "repo": "idleeyan/ComfyUI-Prompt-Assistant",
@@ -4211,13 +4211,13 @@
 "behind": 0,
 "last_commit": "2026-10-30T10:13:30Z",
 "stars": 0,
-"score": 13.9,
+"score": 13.5,
 "last_title": "\u66f4\u65b0 README\uff1a\u7cbe\u7b80\u8bed\u8a00\u7248\u672c\u5e76\u8bb0\u5f55 Fork \u4fee\u590d"
 }
 ]
 },
 "wywywywy/ComfyUI-pause": {
-"scanned": "2026-11-01T13:30:33.989444+00:00",
+"scanned": "2026-11-08T13:30:53.366790+00:00",
 "forks_listed": 7,
 "candidates": 0,
 "active": []
