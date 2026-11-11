@@ -835,6 +835,17 @@
 "topics": [],
 "readme": true
 },
+"comfyui_instantid": {
+"functions": [
+"ControlNet & conditioning",
+"Face & portrait"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "comfyui-jakeupgrade": {
 "functions": [
 "Upscaling",
@@ -853,17 +864,6 @@
 "SD3",
 "Flux",
 "Wan"
-],
-"topics": [],
-"readme": true
-},
-"comfyui_instantid": {
-"functions": [
-"ControlNet & conditioning",
-"Face & portrait"
-],
-"models": [
-"Generic / any"
 ],
 "topics": [],
 "readme": true
@@ -1677,16 +1677,32 @@
 "functions": [
 "Upscaling",
 "Video",
-"LoRA management",
 "Masking & segmentation",
 "Audio",
 "Text, LLM & prompting",
 "Loaders, quantization & speed"
 ],
 "models": [
-"LTX-Video"
+"Generic / any"
 ],
 "topics": [],
+"readme": true
+},
+"ComfyUI-Pixaroma": {
+"functions": [
+"Video",
+"Image editing & inpainting",
+"Audio",
+"Text, LLM & prompting",
+"Workflow utilities & UI",
+"3D"
+],
+"models": [
+"Generic / any"
+],
+"topics": [
+"comfyui-nodes"
+],
 "readme": true
 },
 "comfyui_llm_party": {
@@ -1718,23 +1734,6 @@
 "ocr",
 "mcp",
 "janus-pro"
-],
-"readme": true
-},
-"ComfyUI-Pixaroma": {
-"functions": [
-"Video",
-"Image editing & inpainting",
-"Audio",
-"Text, LLM & prompting",
-"Workflow utilities & UI",
-"3D"
-],
-"models": [
-"Generic / any"
-],
-"topics": [
-"comfyui-nodes"
 ],
 "readme": true
 },
@@ -1922,16 +1921,6 @@
 "topics": [],
 "readme": true
 },
-"janus-pro": {
-"functions": [
-"Workflow utilities & UI"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "WhatDreamsCost-ComfyUI": {
 "functions": [
 "Video",
@@ -1943,6 +1932,16 @@
 ],
 "models": [
 "LTX-Video"
+],
+"topics": [],
+"readme": true
+},
+"janus-pro": {
+"functions": [
+"Workflow utilities & UI"
+],
+"models": [
+"Generic / any"
 ],
 "topics": [],
 "readme": true
@@ -2047,9 +2046,9 @@
 ],
 "readme": true
 },
-"ComfyUI-WanStartEndFramesNative": {
+"erosdiffusion-eulerflowmatchingdiscretescheduler": {
 "functions": [
-"Video"
+"Samplers & schedulers"
 ],
 "models": [
 "Generic / any"
@@ -2057,9 +2056,9 @@
 "topics": [],
 "readme": true
 },
-"erosdiffusion-eulerflowmatchingdiscretescheduler": {
+"ComfyUI-WanStartEndFramesNative": {
 "functions": [
-"Samplers & schedulers"
+"Video"
 ],
 "models": [
 "Generic / any"
@@ -2112,20 +2111,6 @@
 ],
 "readme": true
 },
-"comfyui-lama-remover": {
-"functions": [
-"Masking & segmentation"
-],
-"models": [
-"Generic / any"
-],
-"topics": [
-"comfyui",
-"lama",
-"stable-diffusion"
-],
-"readme": true
-},
 "plaguekind-nodes": {
 "functions": [
 "Video",
@@ -2147,6 +2132,20 @@
 "stable-diffusion",
 "h3",
 "minimax-h3"
+],
+"readme": true
+},
+"comfyui-lama-remover": {
+"functions": [
+"Masking & segmentation"
+],
+"models": [
+"Generic / any"
+],
+"topics": [
+"comfyui",
+"lama",
+"stable-diffusion"
 ],
 "readme": true
 },
@@ -2447,6 +2446,18 @@
 "topics": [],
 "readme": true
 },
+"comfyui-prompt-control": {
+"functions": [
+"LoRA management",
+"Masking & segmentation",
+"Text, LLM & prompting"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "comfyui_vlm_nodes": {
 "functions": [
 "Video",
@@ -2481,18 +2492,6 @@
 ],
 "readme": true
 },
-"comfyui-prompt-control": {
-"functions": [
-"LoRA management",
-"Masking & segmentation",
-"Text, LLM & prompting"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "sd-ppp": {
 "functions": [
 "Image editing & inpainting"
@@ -2514,6 +2513,16 @@
 ],
 "readme": true
 },
+"scale-image-to-total-pixels-advanced": {
+"functions": [
+"Workflow utilities & UI"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "comfyui-ltxvideolora": {
 "functions": [
 "Video",
@@ -2524,16 +2533,6 @@
 ],
 "topics": [],
 "readme": false
-},
-"scale-image-to-total-pixels-advanced": {
-"functions": [
-"Workflow utilities & UI"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
 },
 "tripleksampler": {
 "functions": [
@@ -2649,16 +2648,6 @@
 "topics": [],
 "readme": true
 },
-"comfyui-openpose-editor": {
-"functions": [
-"ControlNet & conditioning"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "comfyui-minimax-h3-turbo": {
 "functions": [
 "Video",
@@ -2667,6 +2656,16 @@
 "Loaders, quantization & speed",
 "Samplers & schedulers",
 "Animation"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
+"comfyui-openpose-editor": {
+"functions": [
+"ControlNet & conditioning"
 ],
 "models": [
 "Generic / any"
@@ -2916,10 +2915,10 @@
 "topics": [],
 "readme": true
 },
-"comfyui-geometrypack": {
+"qwen3-tts-comfyui": {
 "functions": [
-"Workflow utilities & UI",
-"3D"
+"Audio",
+"Loaders, quantization & speed"
 ],
 "models": [
 "Generic / any"
@@ -2927,10 +2926,10 @@
 "topics": [],
 "readme": true
 },
-"qwen3-tts-comfyui": {
+"comfyui-geometrypack": {
 "functions": [
-"Audio",
-"Loaders, quantization & speed"
+"Workflow utilities & UI",
+"3D"
 ],
 "models": [
 "Generic / any"
@@ -3057,17 +3056,6 @@
 "topics": [],
 "readme": true
 },
-"aistudynow-qwenvl": {
-"functions": [
-"Video",
-"Text, LLM & prompting"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "vnccs-utils": {
 "functions": [
 "Masking & segmentation",
@@ -3077,6 +3065,17 @@
 ],
 "models": [
 "Qwen-Image"
+],
+"topics": [],
+"readme": true
+},
+"aistudynow-qwenvl": {
+"functions": [
+"Video",
+"Text, LLM & prompting"
+],
+"models": [
+"Generic / any"
 ],
 "topics": [],
 "readme": true
@@ -3486,17 +3485,6 @@
 "topics": [],
 "readme": true
 },
-"comfyui-show-text": {
-"functions": [
-"Text, LLM & prompting",
-"Workflow utilities & UI"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "comfyui-promptchain": {
 "functions": [
 "Upscaling",
@@ -3525,6 +3513,17 @@
 ],
 "readme": true
 },
+"comfyui-show-text": {
+"functions": [
+"Text, LLM & prompting",
+"Workflow utilities & UI"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "academiasd": {
 "functions": [
 "LoRA management",
@@ -3546,16 +3545,6 @@
 "topics": [],
 "readme": true
 },
-"soundflow": {
-"functions": [
-"Audio"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": false
-},
 "koolook": {
 "functions": [
 "Video",
@@ -3566,6 +3555,16 @@
 ],
 "topics": [],
 "readme": true
+},
+"soundflow": {
+"functions": [
+"Audio"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": false
 },
 "comfyui-anyline": {
 "functions": [
@@ -3845,9 +3844,9 @@
 ],
 "readme": true
 },
-"comfyui-ycyy-lorainfo": {
+"ComfyUI_QwenVL": {
 "functions": [
-"LoRA management"
+"Text, LLM & prompting"
 ],
 "models": [
 "Generic / any"
@@ -3855,9 +3854,9 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI_QwenVL": {
+"comfyui-ycyy-lorainfo": {
 "functions": [
-"Text, LLM & prompting"
+"LoRA management"
 ],
 "models": [
 "Generic / any"
@@ -3948,10 +3947,10 @@
 "topics": [],
 "readme": true
 },
-"bilbox-comfyui": {
+"ComfyUI-Simple_Readable_Metadata-SG": {
 "functions": [
-"Image editing & inpainting",
-"Text, LLM & prompting"
+"Text, LLM & prompting",
+"Workflow utilities & UI"
 ],
 "models": [
 "Generic / any"
@@ -3959,10 +3958,10 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI-Simple_Readable_Metadata-SG": {
+"bilbox-comfyui": {
 "functions": [
-"Text, LLM & prompting",
-"Workflow utilities & UI"
+"Image editing & inpainting",
+"Text, LLM & prompting"
 ],
 "models": [
 "Generic / any"
@@ -4006,16 +4005,6 @@
 "topics": [],
 "readme": true
 },
-"flux-lightning": {
-"functions": [
-"Loaders, quantization & speed"
-],
-"models": [
-"Flux"
-],
-"topics": [],
-"readme": true
-},
 "layerforge": {
 "functions": [
 "Face & portrait",
@@ -4032,6 +4021,16 @@
 "birefnet",
 "canvas"
 ],
+"readme": true
+},
+"flux-lightning": {
+"functions": [
+"Loaders, quantization & speed"
+],
+"models": [
+"Flux"
+],
+"topics": [],
 "readme": true
 },
 "comfyui-textoverlay": {
