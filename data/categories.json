@@ -749,16 +749,6 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI-MelBandRoFormer": {
-"functions": [
-"Workflow utilities & UI"
-],
-"models": [
-"Wan"
-],
-"topics": [],
-"readme": true
-},
 "crt-nodes": {
 "functions": [
 "Upscaling",
@@ -776,6 +766,27 @@
 "topics": [],
 "readme": true
 },
+"ComfyUI-MelBandRoFormer": {
+"functions": [
+"Workflow utilities & UI"
+],
+"models": [
+"Wan"
+],
+"topics": [],
+"readme": true
+},
+"comfyui_nvidia_rtx_nodes": {
+"functions": [
+"Upscaling",
+"Video"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "comfyui_ttp_toolset": {
 "functions": [
 "Upscaling",
@@ -788,17 +799,6 @@
 "models": [
 "SD3",
 "Flux"
-],
-"topics": [],
-"readme": true
-},
-"comfyui_nvidia_rtx_nodes": {
-"functions": [
-"Upscaling",
-"Video"
-],
-"models": [
-"Generic / any"
 ],
 "topics": [],
 "readme": true
@@ -1663,6 +1663,23 @@
 ],
 "readme": true
 },
+"ComfyUI-Pixaroma": {
+"functions": [
+"Video",
+"Image editing & inpainting",
+"Audio",
+"Text, LLM & prompting",
+"Workflow utilities & UI",
+"3D"
+],
+"models": [
+"Generic / any"
+],
+"topics": [
+"comfyui-nodes"
+],
+"readme": true
+},
 "comfyui_lg_tools": {
 "functions": [
 "Workflow utilities & UI"
@@ -1686,23 +1703,6 @@
 "Generic / any"
 ],
 "topics": [],
-"readme": true
-},
-"ComfyUI-Pixaroma": {
-"functions": [
-"Video",
-"Image editing & inpainting",
-"Audio",
-"Text, LLM & prompting",
-"Workflow utilities & UI",
-"3D"
-],
-"models": [
-"Generic / any"
-],
-"topics": [
-"comfyui-nodes"
-],
 "readme": true
 },
 "comfyui_llm_party": {
@@ -1853,11 +1853,11 @@
 "topics": [],
 "readme": true
 },
-"comfyui_zenid": {
+"comfyui-krea2edit": {
 "functions": [
-"Video",
-"ControlNet & conditioning",
-"Face & portrait"
+"Loaders, quantization & speed",
+"Samplers & schedulers",
+"3D"
 ],
 "models": [
 "Generic / any"
@@ -1865,11 +1865,11 @@
 "topics": [],
 "readme": true
 },
-"comfyui-krea2edit": {
+"comfyui_zenid": {
 "functions": [
-"Loaders, quantization & speed",
-"Samplers & schedulers",
-"3D"
+"Video",
+"ControlNet & conditioning",
+"Face & portrait"
 ],
 "models": [
 "Generic / any"
@@ -2395,6 +2395,19 @@
 "topics": [],
 "readme": true
 },
+"comfyui-sam3": {
+"functions": [
+"Video",
+"Masking & segmentation",
+"Text, LLM & prompting",
+"Workflow utilities & UI"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "a-person-mask-generator": {
 "functions": [
 "Face & portrait",
@@ -2409,19 +2422,6 @@
 "masking",
 "stable-diffusion"
 ],
-"readme": true
-},
-"comfyui-sam3": {
-"functions": [
-"Video",
-"Masking & segmentation",
-"Text, LLM & prompting",
-"Workflow utilities & UI"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
 "readme": true
 },
 "comfyui-depthcrafter-nodes": {
@@ -2636,18 +2636,6 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI-DepthAnythingV3": {
-"functions": [
-"ControlNet & conditioning",
-"Workflow utilities & UI",
-"3D"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "comfyui-minimax-h3-turbo": {
 "functions": [
 "Video",
@@ -2663,9 +2651,23 @@
 "topics": [],
 "readme": true
 },
-"comfyui-openpose-editor": {
+"ComfyUI-DepthAnythingV3": {
 "functions": [
-"ControlNet & conditioning"
+"ControlNet & conditioning",
+"Workflow utilities & UI",
+"3D"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
+"comfyui-spectrum-minimax-h3": {
+"functions": [
+"Video",
+"Audio",
+"Samplers & schedulers"
 ],
 "models": [
 "Generic / any"
@@ -2690,11 +2692,9 @@
 "topics": [],
 "readme": true
 },
-"comfyui-spectrum-minimax-h3": {
+"comfyui-openpose-editor": {
 "functions": [
-"Video",
-"Audio",
-"Samplers & schedulers"
+"ControlNet & conditioning"
 ],
 "models": [
 "Generic / any"
@@ -2877,9 +2877,11 @@
 ],
 "readme": true
 },
-"glm_prompt": {
+"ComfyUI-Conditioning-Rebalance": {
 "functions": [
-"Text, LLM & prompting"
+"ControlNet & conditioning",
+"Masking & segmentation",
+"Workflow utilities & UI"
 ],
 "models": [
 "Generic / any"
@@ -2887,11 +2889,9 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI-Conditioning-Rebalance": {
+"glm_prompt": {
 "functions": [
-"ControlNet & conditioning",
-"Masking & segmentation",
-"Workflow utilities & UI"
+"Text, LLM & prompting"
 ],
 "models": [
 "Generic / any"
@@ -2984,11 +2984,9 @@
 "topics": [],
 "readme": true
 },
-"comfyui-easy-sam3": {
+"comfyui-mickmumpitz-nodes": {
 "functions": [
-"Video",
-"Masking & segmentation",
-"Text, LLM & prompting"
+"Workflow utilities & UI"
 ],
 "models": [
 "Generic / any"
@@ -2996,9 +2994,11 @@
 "topics": [],
 "readme": true
 },
-"comfyui-mickmumpitz-nodes": {
+"comfyui-easy-sam3": {
 "functions": [
-"Workflow utilities & UI"
+"Video",
+"Masking & segmentation",
+"Text, LLM & prompting"
 ],
 "models": [
 "Generic / any"
@@ -3044,18 +3044,6 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI-EasyColorCorrector": {
-"functions": [
-"Face & portrait",
-"Masking & segmentation",
-"Image editing & inpainting"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "vnccs-utils": {
 "functions": [
 "Masking & segmentation",
@@ -3065,6 +3053,18 @@
 ],
 "models": [
 "Qwen-Image"
+],
+"topics": [],
+"readme": true
+},
+"ComfyUI-EasyColorCorrector": {
+"functions": [
+"Face & portrait",
+"Masking & segmentation",
+"Image editing & inpainting"
+],
+"models": [
+"Generic / any"
 ],
 "topics": [],
 "readme": true
@@ -3214,6 +3214,18 @@
 "topics": [],
 "readme": true
 },
+"comfyui-vrgamedevgirl": {
+"functions": [
+"Video",
+"Audio",
+"Text, LLM & prompting"
+],
+"models": [
+"LTX-Video"
+],
+"topics": [],
+"readme": true
+},
 "comfyui-to-python-extension": {
 "functions": [
 "Workflow utilities & UI"
@@ -3237,18 +3249,6 @@
 ],
 "models": [
 "Generic / any"
-],
-"topics": [],
-"readme": true
-},
-"comfyui-vrgamedevgirl": {
-"functions": [
-"Video",
-"Audio",
-"Text, LLM & prompting"
-],
-"models": [
-"LTX-Video"
 ],
 "topics": [],
 "readme": true
@@ -3461,23 +3461,10 @@
 "topics": [],
 "readme": true
 },
-"comfyui_soze": {
+"academiasd": {
 "functions": [
-"Video"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
-"comfyui-flux-continuum": {
-"functions": [
-"Upscaling",
-"ControlNet & conditioning",
-"Image editing & inpainting",
-"Samplers & schedulers",
-"Workflow utilities & UI"
+"LoRA management",
+"Text, LLM & prompting"
 ],
 "models": [
 "Flux"
@@ -3513,10 +3500,9 @@
 ],
 "readme": true
 },
-"comfyui-show-text": {
+"comfyui_soze": {
 "functions": [
-"Text, LLM & prompting",
-"Workflow utilities & UI"
+"Video"
 ],
 "models": [
 "Generic / any"
@@ -3524,13 +3510,27 @@
 "topics": [],
 "readme": true
 },
-"academiasd": {
+"comfyui-flux-continuum": {
 "functions": [
-"LoRA management",
-"Text, LLM & prompting"
+"Upscaling",
+"ControlNet & conditioning",
+"Image editing & inpainting",
+"Samplers & schedulers",
+"Workflow utilities & UI"
 ],
 "models": [
 "Flux"
+],
+"topics": [],
+"readme": true
+},
+"comfyui-show-text": {
+"functions": [
+"Text, LLM & prompting",
+"Workflow utilities & UI"
+],
+"models": [
+"Generic / any"
 ],
 "topics": [],
 "readme": true
@@ -3579,16 +3579,6 @@
 ],
 "readme": true
 },
-"indextts-mw": {
-"functions": [
-"Audio"
-],
-"models": [
-"Generic / any"
-],
-"topics": [],
-"readme": true
-},
 "comfyui-agent-panel": {
 "functions": [
 "Text, LLM & prompting",
@@ -3621,6 +3611,16 @@
 ],
 "readme": true
 },
+"indextts-mw": {
+"functions": [
+"Audio"
+],
+"models": [
+"Generic / any"
+],
+"topics": [],
+"readme": true
+},
 "comfyui-depthflow-nodes": {
 "functions": [
 "Video",
@@ -3628,6 +3628,16 @@
 ],
 "models": [
 "Generic / any"
+],
+"topics": [],
+"readme": true
+},
+"ComfyUI_Custom_Switch": {
+"functions": [
+"Workflow utilities & UI"
+],
+"models": [
+"SDXL"
 ],
 "topics": [],
 "readme": true
@@ -3644,16 +3654,6 @@
 "comfy",
 "comfyui"
 ],
-"readme": true
-},
-"ComfyUI_Custom_Switch": {
-"functions": [
-"Workflow utilities & UI"
-],
-"models": [
-"SDXL"
-],
-"topics": [],
 "readme": true
 },
 "easyanimate": {
@@ -4033,9 +4033,11 @@
 "topics": [],
 "readme": true
 },
-"comfyui-textoverlay": {
+"ComfyUI_Simple_Qwen3-VL-gguf": {
 "functions": [
-"Workflow utilities & UI"
+"Video",
+"Text, LLM & prompting",
+"Loaders, quantization & speed"
 ],
 "models": [
 "Generic / any"
@@ -4043,11 +4045,9 @@
 "topics": [],
 "readme": true
 },
-"ComfyUI_Simple_Qwen3-VL-gguf": {
+"comfyui-textoverlay": {
 "functions": [
-"Video",
-"Text, LLM & prompting",
-"Loaders, quantization & speed"
+"Workflow utilities & UI"
 ],
 "models": [
 "Generic / any"
