@@ -1119,13 +1119,13 @@
 "active": []
 },
 "theUpsider/ComfyUI-Logic": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 42,
 "candidates": 2,
 "active": []
 },
 "EllangoK/ComfyUI-post-processing-nodes": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 39,
 "candidates": 6,
 "active": [
@@ -1137,7 +1137,7 @@
 "behind": 0,
 "last_commit": "2026-10-31T12:57:03Z",
 "stars": 0,
-"score": 11.3,
+"score": 10.9,
 "last_title": "fix: escape the backslash in the ASCII art character ramp"
 },
 {
@@ -1148,7 +1148,7 @@
 "behind": 0,
 "last_commit": "2026-10-23T12:14:19Z",
 "stars": 0,
-"score": 10.9,
+"score": 10.5,
 "last_title": "add requirements.txt - cv2/Pillow/numpy/torch declared"
 },
 {
@@ -1159,13 +1159,13 @@
 "behind": 0,
 "last_commit": "2026-09-29T02:46:29Z",
 "stars": 0,
-"score": 9.6,
+"score": 9.2,
 "last_title": "corrected return types (from IMAGE to MASK) of HSVThresholdMask and CannyEdgeMask; added conversion of 0-255 values from"
 }
 ]
 },
 "SeanScripts/ComfyUI-Unload-Model": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 17,
 "candidates": 6,
 "active": [
@@ -1194,9 +1194,9 @@
 ]
 },
 "kijai/ComfyUI-HunyuanVideoWrapper": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 112,
-"candidates": 5,
+"candidates": 6,
 "active": [
 {
 "repo": "Bochu3/ComfyUI-HunyuanVideoWrapper",
@@ -1206,13 +1206,13 @@
 "behind": 0,
 "last_commit": "2026-06-10T17:23:23Z",
 "stars": 0,
-"score": 3.4,
+"score": 3.1,
 "last_title": "Remove _validate_images_text_input_order call for transformers compat"
 }
 ]
 },
 "john-mnz/ComfyUI-Inspyrenet-Rembg": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 43,
 "candidates": 40,
 "active": [
@@ -1268,13 +1268,13 @@
 "behind": 0,
 "last_commit": "2026-10-08T15:07:23Z",
 "stars": 0,
-"score": 10.1,
+"score": 9.7,
 "last_title": "Configure automatic upstream sync every 6 hours"
 }
 ]
 },
 "justUmen/Bjornulf_custom_nodes": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 61,
 "candidates": 11,
 "active": [
@@ -1286,7 +1286,7 @@
 "behind": 0,
 "last_commit": "2026-09-13T19:30:56Z",
 "stars": 0,
-"score": 8.7,
+"score": 8.3,
 "last_title": "Advanced Write Text: make seed a required input"
 },
 {
@@ -1297,16 +1297,27 @@
 "behind": 0,
 "last_commit": "2026-06-11T23:56:49Z",
 "stars": 0,
-"score": 7.5,
+"score": 7.1,
 "last_title": "Replace pydub with pedalboard, soundfile, and sounddevice for Python 3.13 compatibility"
 }
 ]
 },
 "jtydhr88/ComfyUI-Workflow-Encrypt": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 18,
 "candidates": 14,
 "active": [
+{
+"repo": "ravinsinnasami/ComfyUI-Workflow-Encrypt",
+"url": "https://github.com/ravinsinnasami/ComfyUI-Workflow-Encrypt",
+"branch": "master",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-11-14T11:30:49Z",
+"stars": 0,
+"score": 11.7,
+"last_title": "Create copy-upstream-releases.yml"
+},
 {
 "repo": "hushenghao/ComfyUI-Workflow-Encrypt",
 "url": "https://github.com/hushenghao/ComfyUI-Workflow-Encrypt",
@@ -1315,7 +1326,7 @@
 "behind": 0,
 "last_commit": "2026-06-03T03:09:07Z",
 "stars": 0,
-"score": 5.0,
+"score": 4.6,
 "last_title": "\u6dfb\u52a0\u673a\u5668\u7801\u68c0\u6d4b"
 },
 {
@@ -1326,13 +1337,13 @@
 "behind": 0,
 "last_commit": "2026-05-29T01:41:42Z",
 "stars": 0,
-"score": 2.7,
+"score": 2.3,
 "last_title": "Avoid re-exporting global ComfyUI node mappings"
 }
 ]
 },
 "kijai/ComfyUI-IC-Light": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 58,
 "candidates": 2,
 "active": [
@@ -1361,7 +1372,7 @@
 ]
 },
 "kijai/ComfyUI-MMAudio": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 77,
 "candidates": 8,
 "active": [
@@ -1373,7 +1384,7 @@
 "behind": 0,
 "last_commit": "2026-10-30T21:23:29Z",
 "stars": 0,
-"score": 33.3,
+"score": 32.9,
 "last_title": "feat: add video looping (loop/pingpong/none) and video_fps controls to maintain 1.0x playback speed for long audio"
 },
 {
@@ -1395,13 +1406,13 @@
 "behind": 0,
 "last_commit": "2026-07-27T21:44:27Z",
 "stars": 0,
-"score": 12.1,
+"score": 11.7,
 "last_title": "Merge branch 'bump/numpy-2.5.1-ci-clean'"
 }
 ]
 },
 "cubiq/ComfyUI_FaceAnalysis": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 70,
 "candidates": 7,
 "active": [
@@ -1452,7 +1463,7 @@
 ]
 },
 "cubiq/PuLID_ComfyUI": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 66,
 "candidates": 6,
 "active": [
@@ -1464,7 +1475,7 @@
 "behind": 0,
 "last_commit": "2026-06-11T14:16:46Z",
 "stars": 0,
-"score": 27.4,
+"score": 27.1,
 "last_title": "fix: lazy cv2 import \u2014 module loads even without libGL/libgthread"
 },
 {
@@ -1503,13 +1514,13 @@
 ]
 },
 "shinich39/comfyui-get-meta": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 6,
 "candidates": 0,
 "active": []
 },
 "AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 167,
 "candidates": 8,
 "active": [
@@ -1521,7 +1532,7 @@
 "behind": 0,
 "last_commit": "2026-07-19T13:09:28Z",
 "stars": 0,
-"score": 83.6,
+"score": 83.2,
 "last_title": "\u4fee\u590dLayerStyle\u7ffb\u8bd1\uff1a\u952e\u540d\u4eceDisplayName\u683c\u5f0f\u6539\u4e3aPython\u7c7b\u540d\u4ee5\u5339\u914dAIGODLIKE class_type\u67e5\u627e"
 },
 {
@@ -1549,7 +1560,7 @@
 ]
 },
 "lldacing/ComfyUI_Patches_ll": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 10,
 "candidates": 1,
 "active": [
@@ -1567,13 +1578,13 @@
 ]
 },
 "alt-key-project/comfyui-dream-project": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 14,
 "candidates": 1,
 "active": []
 },
 "kijai/ComfyUI-FluxTrainer": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 107,
 "candidates": 21,
 "active": [
@@ -1585,7 +1596,7 @@
 "behind": 0,
 "last_commit": "2026-09-09T12:16:35Z",
 "stars": 0,
-"score": 24.4,
+"score": 24.1,
 "last_title": "Add blocks_to_swap support for Z-Image LoRA training (GPU-validated)"
 },
 {
@@ -1607,7 +1618,7 @@
 "behind": 0,
 "last_commit": "2026-10-14T09:56:59Z",
 "stars": 0,
-"score": 12.4,
+"score": 12.0,
 "last_title": "fixed outputs path"
 },
 {
@@ -1618,13 +1629,13 @@
 "behind": 0,
 "last_commit": "2026-06-29T17:14:54Z",
 "stars": 0,
-"score": 4.5,
+"score": 4.1,
 "last_title": "Updated to Github 0.24.0"
 }
 ]
 },
 "FizzleDorf/ComfyUI_FizzNodes": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 69,
 "candidates": 8,
 "active": [
@@ -1675,7 +1686,7 @@
 ]
 },
 "lldacing/ComfyUI_BiRefNet_ll": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 30,
 "candidates": 5,
 "active": [
@@ -1726,8 +1737,8 @@
 ]
 },
 "edelvarden/comfyui_image_metadata_extension": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
-"forks_listed": 23,
+"scanned": "2026-11-19T15:51:56.291691+00:00",
+"forks_listed": 22,
 "candidates": 9,
 "active": [
 {
@@ -1738,7 +1749,7 @@
 "behind": 0,
 "last_commit": "2026-06-15T12:55:37Z",
 "stars": 1,
-"score": 58.7,
+"score": 58.3,
 "last_title": "Merge pull request #7 from xmarre/codex/prevent-save-memory-wedge"
 },
 {
@@ -1749,7 +1760,7 @@
 "behind": 0,
 "last_commit": "2026-09-12T10:09:06Z",
 "stars": 8,
-"score": 38.1,
+"score": 37.7,
 "last_title": "Please use https://github.com/cyberdeliaAI/comfyui-cyberdelia-metadata/"
 },
 {
@@ -1760,7 +1771,7 @@
 "behind": 0,
 "last_commit": "2026-09-11T08:24:24Z",
 "stars": 0,
-"score": 12.6,
+"score": 12.2,
 "last_title": "feat: \u65b0\u589e\u5386\u53f2\u9884\u89c8\u8282\u70b9\uff0c\u754c\u9762\u4e0e\u6587\u6863\u4e2d\u6587\u5316"
 },
 {
@@ -1771,13 +1782,13 @@
 "behind": 0,
 "last_commit": "2026-07-03T01:07:15Z",
 "stars": 0,
-"score": 8.7,
+"score": 8.3,
 "last_title": "Merge pull request #1 from fflosi/fflosi/local-changes"
 }
 ]
 },
 "kijai/ComfyUI-LivePortraitKJ": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 179,
 "candidates": 20,
 "active": [
@@ -1789,7 +1800,7 @@
 "behind": 0,
 "last_commit": "2026-08-06T01:53:18Z",
 "stars": 0,
-"score": 6.6,
+"score": 6.2,
 "last_title": "Add standalone photo-to-video service, decoupled from ComfyUI"
 },
 {
@@ -1811,13 +1822,13 @@
 "behind": 0,
 "last_commit": "2026-07-12T08:24:00Z",
 "stars": 0,
-"score": 5.2,
+"score": 4.8,
 "last_title": "Update mp_utils.py"
 }
 ]
 },
 "digitaljohn/comfyui-propost": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 20,
 "candidates": 11,
 "active": [
@@ -1829,7 +1840,7 @@
 "behind": 0,
 "last_commit": "2026-08-10T14:03:53Z",
 "stars": 1,
-"score": 9.8,
+"score": 9.4,
 "last_title": "Run all nodes on the GPU (#1)"
 },
 {
@@ -1846,8 +1857,8 @@
 ]
 },
 "nullquant/ComfyUI-BrushNet": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
-"forks_listed": 53,
+"scanned": "2026-11-19T15:51:56.291691+00:00",
+"forks_listed": 52,
 "candidates": 10,
 "active": [
 {
@@ -1897,7 +1908,7 @@
 ]
 },
 "zhangp365/ComfyUI-utils-nodes": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 15,
 "candidates": 1,
 "active": [
@@ -1909,21 +1920,21 @@
 "behind": 0,
 "last_commit": "2026-08-19T01:13:50Z",
 "stars": 0,
-"score": 11.3,
+"score": 10.9,
 "last_title": "Make utils logging Windows-safe"
 }
 ]
 },
 "ChangeTheConstants/SeedVarianceEnhancer": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "MrForExample/ComfyUI-3D-Pack": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
-"forks_listed": 174,
-"candidates": 46,
+"scanned": "2026-11-19T15:51:56.291691+00:00",
+"forks_listed": 173,
+"candidates": 47,
 "active": [
 {
 "repo": "PozzettiAndrea/ComfyUI-3D-Pack-enved",
@@ -1933,7 +1944,7 @@
 "behind": 0,
 "last_commit": "2026-08-16T12:33:19Z",
 "stars": 2,
-"score": 31.9,
+"score": 31.5,
 "last_title": "Follow the rename through the remaining docstrings and comfy-test header"
 },
 {
@@ -1944,19 +1955,19 @@
 "behind": 0,
 "last_commit": "2026-07-07T00:17:39Z",
 "stars": 0,
-"score": 14.9,
+"score": 14.5,
 "last_title": "fix hy3d v2 import"
 }
 ]
 },
 "idrirap/ComfyUI-Lora-Auto-Trigger-Words": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 23,
 "candidates": 2,
 "active": []
 },
 "EvilBT/ComfyUI_SLK_joy_caption_two": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 46,
 "candidates": 8,
 "active": [
@@ -1985,7 +1996,7 @@
 ]
 },
 "wallen0322/ComfyUI-Wan22FMLF": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 28,
 "candidates": 5,
 "active": [
@@ -2025,7 +2036,7 @@
 ]
 },
 "SLAPaper/ComfyUI-Image-Selector": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 18,
 "candidates": 1,
 "active": []
@@ -4292,7 +4303,7 @@
 "active": []
 },
 "kijai/ComfyUI-SUPIR": {
-"scanned": "2026-11-12T15:22:09.249147+00:00",
+"scanned": "2026-11-19T15:51:56.291691+00:00",
 "forks_listed": 128,
 "candidates": 6,
 "active": [
@@ -4304,7 +4315,7 @@
 "behind": 0,
 "last_commit": "2026-06-11T13:02:38Z",
 "stars": 0,
-"score": 5.4,
+"score": 5.1,
 "last_title": "nodes_v2:"
 }
 ]
