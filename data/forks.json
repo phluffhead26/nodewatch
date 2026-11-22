@@ -3494,7 +3494,7 @@
 ]
 },
 "spinagon/ComfyUI-seamless-tiling": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 24,
 "candidates": 4,
 "active": [
@@ -3506,7 +3506,7 @@
 "behind": 0,
 "last_commit": "2026-08-15T22:28:13Z",
 "stars": 0,
-"score": 6.9,
+"score": 6.6,
 "last_title": "Modernize seamless tiling for Dynamic VRAM"
 },
 {
@@ -3523,13 +3523,13 @@
 ]
 },
 "kijai/ComfyUI-Marigold": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 24,
 "candidates": 2,
 "active": []
 },
 "lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 30,
 "candidates": 13,
 "active": [
@@ -3541,13 +3541,13 @@
 "behind": 0,
 "last_commit": "2026-08-21T13:26:02Z",
 "stars": 0,
-"score": 7.2,
+"score": 6.8,
 "last_title": "Only require the weights the selected mode actually loads"
 }
 ]
 },
 "nosiu/comfyui-instantId-faceswap": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 26,
 "candidates": 7,
 "active": [
@@ -3565,8 +3565,8 @@
 ]
 },
 "jojkaart/ComfyUI-sampler-lcm-alternative": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
-"forks_listed": 16,
+"scanned": "2026-11-22T14:39:34.866252+00:00",
+"forks_listed": 15,
 "candidates": 1,
 "active": [
 {
@@ -3583,7 +3583,7 @@
 ]
 },
 "upseem/comfyui_sunxAI_facetools": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 3,
 "candidates": 1,
 "active": [
@@ -3595,13 +3595,13 @@
 "behind": 0,
 "last_commit": "2026-11-14T11:23:17Z",
 "stars": 0,
-"score": 109.9,
+"score": 109.6,
 "last_title": "Update README.md"
 }
 ]
 },
 "pydn/ComfyUI-to-Python-Extension": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 196,
 "candidates": 15,
 "active": [
@@ -3613,7 +3613,7 @@
 "behind": 93,
 "last_commit": "2026-09-15T01:46:03Z",
 "stars": 182,
-"score": 63.2,
+"score": 62.8,
 "last_title": "Fix issue with newer comfyui"
 },
 {
@@ -3624,7 +3624,7 @@
 "behind": 93,
 "last_commit": "2026-07-21T10:34:31Z",
 "stars": 0,
-"score": 35.5,
+"score": 35.1,
 "last_title": "Update daily-e2e.yml"
 },
 {
@@ -3635,13 +3635,13 @@
 "behind": 0,
 "last_commit": "2026-08-23T14:16:26Z",
 "stars": 0,
-"score": 7.4,
+"score": 6.9,
 "last_title": "Fix conversion of ComfyUI v3 (io.ComfyNode) nodes"
 }
 ]
 },
 "kijai/ComfyUI-MimicMotionWrapper": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 39,
 "candidates": 3,
 "active": [
@@ -3659,7 +3659,7 @@
 ]
 },
 "fairy-root/Flux-Prompt-Generator": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 28,
 "candidates": 1,
 "active": [
@@ -3677,13 +3677,13 @@
 ]
 },
 "hgabha/WWAA-CustomNodes": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "if-ai/ComfyUI-IF_LLM": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 20,
 "candidates": 3,
 "active": [
@@ -3695,7 +3695,7 @@
 "behind": 0,
 "last_commit": "2026-06-02T21:54:05Z",
 "stars": 0,
-"score": 80.8,
+"score": 80.4,
 "last_title": "Merge pull request #1 from ldoroshe/refactor/if-llm-architecture"
 },
 {
@@ -3712,7 +3712,7 @@
 ]
 },
 "ty0x2333/ComfyUI-Dev-Utils": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 19,
 "candidates": 5,
 "active": [
@@ -3724,7 +3724,7 @@
 "behind": 0,
 "last_commit": "2026-06-05T17:18:26Z",
 "stars": 0,
-"score": 17.0,
+"score": 16.6,
 "last_title": "Read ExecutionTime console logging setting on startup"
 },
 {
@@ -3752,14 +3752,14 @@
 ]
 },
 "agilly1989/ComfyUI_agilly1989_motorway": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 1,
 "candidates": 0,
 "active": []
 },
 "yvann-ba/ComfyUI_Yvann-Nodes": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
-"forks_listed": 31,
+"scanned": "2026-11-22T14:39:34.866252+00:00",
+"forks_listed": 32,
 "candidates": 2,
 "active": [
 {
@@ -3770,13 +3770,13 @@
 "behind": 0,
 "last_commit": "2026-10-02T18:56:43Z",
 "stars": 0,
-"score": 9.6,
+"score": 9.2,
 "last_title": "Merge pull request #1 from yvann-ba/main"
 }
 ]
 },
 "WarpedAnimation/ComfyUI-WarpedToolset": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 3,
 "candidates": 1,
 "active": [
@@ -3794,7 +3794,7 @@
 ]
 },
 "Fannovel16/ComfyUI-Video-Matting": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 20,
 "candidates": 10,
 "active": [
@@ -3834,25 +3834,25 @@
 ]
 },
 "fairy-root/ComfyUI-Show-Text": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 6,
 "candidates": 0,
 "active": []
 },
 "robertvoy/ComfyUI-Flux-Continuum": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 11,
 "candidates": 0,
 "active": []
 },
 "crystian/ComfyUI-Crystools-save": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": []
 },
 "TheMistoAI/ComfyUI-Anyline": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 35,
 "candidates": 2,
 "active": [
@@ -3870,9 +3870,9 @@
 ]
 },
 "billwuhao/ComfyUI_IndexTTS": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
-"forks_listed": 52,
-"candidates": 8,
+"scanned": "2026-11-22T14:39:34.866252+00:00",
+"forks_listed": 53,
+"candidates": 9,
 "active": [
 {
 "repo": "AsonZhang/ComfyUI_IndexTTS",
@@ -3882,7 +3882,7 @@
 "behind": 0,
 "last_commit": "2026-08-01T15:48:29Z",
 "stars": 0,
-"score": 30.2,
+"score": 29.8,
 "last_title": "transformers>=5.0.0"
 },
 {
@@ -3897,17 +3897,6 @@
 "last_title": "Update jstel.js"
 },
 {
-"repo": "sdwebui-extensions/ComfyUI_IndexTTS",
-"url": "https://github.com/sdwebui-extensions/ComfyUI_IndexTTS",
-"branch": "main",
-"ahead": 7,
-"behind": 1,
-"last_commit": "2026-01-07T07:57:44Z",
-"stars": 0,
-"score": 14.0,
-"last_title": "fix multi gpu"
-},
-{
 "repo": "hben35096/ComfyUI_IndexTTS",
 "url": "https://github.com/hben35096/ComfyUI_IndexTTS",
 "branch": "main",
@@ -3915,27 +3904,27 @@
 "behind": 0,
 "last_commit": "2026-08-09T01:32:26Z",
 "stars": 0,
-"score": 8.6,
+"score": 8.2,
 "last_title": "Add torchcodec to requirements"
 }
 ]
 },
 "akatz-ai/ComfyUI-Depthflow-Nodes": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 22,
 "candidates": 1,
 "active": []
 },
 "Extraltodeus/sigmas_tools_and_the_golden_scheduler": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 14,
 "candidates": 1,
 "active": []
 },
 "aigc-apps/EasyAnimate": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
-"forks_listed": 190,
-"candidates": 11,
+"scanned": "2026-11-22T14:39:34.866252+00:00",
+"forks_listed": 191,
+"candidates": 12,
 "active": [
 {
 "repo": "FurkanGozukara/EasyAnimate",
@@ -3951,25 +3940,25 @@
 ]
 },
 "Mattabyte/ComfyUI-LTXVideo-Registry_Mattabyte": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 2,
 "candidates": 1,
 "active": []
 },
 "tritant/ComfyUI_Custom_Switch": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 3,
 "candidates": 2,
 "active": []
 },
 "LAOGOU-666/ComfyUI-LG_SamplingUtils": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 4,
 "candidates": 0,
 "active": []
 },
 "billwuhao/ComfyUI_ACE-Step": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 22,
 "candidates": 4,
 "active": [
@@ -3987,7 +3976,7 @@
 ]
 },
 "akatz-ai/ComfyUI-Basic-Math": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
+"scanned": "2026-11-22T14:39:34.866252+00:00",
 "forks_listed": 4,
 "candidates": 2,
 "active": []
@@ -4328,8 +4317,8 @@
 ]
 },
 "TinyTerra/ComfyUI_tinyterraNodes": {
-"scanned": "2026-11-15T14:00:24.167814+00:00",
-"forks_listed": 66,
+"scanned": "2026-11-22T14:39:34.866252+00:00",
+"forks_listed": 65,
 "candidates": 2,
 "active": [
 {
@@ -4340,7 +4329,7 @@
 "behind": 2,
 "last_commit": "2026-08-22T13:21:44Z",
 "stars": 0,
-"score": 9.3,
+"score": 8.9,
 "last_title": "fix text overlapping/ overrun issue."
 }
 ]
