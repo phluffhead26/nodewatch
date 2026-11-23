@@ -3982,7 +3982,7 @@
 "active": []
 },
 "Visionatrix/ComfyUI-Gemini": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 10,
 "candidates": 7,
 "active": [
@@ -3994,7 +3994,7 @@
 "behind": 0,
 "last_commit": "2026-08-23T01:03:21Z",
 "stars": 0,
-"score": 21.3,
+"score": 20.9,
 "last_title": "Update README to enforce .bat file for API key usage"
 },
 {
@@ -4005,31 +4005,31 @@
 "behind": 0,
 "last_commit": "2026-11-03T11:50:04Z",
 "stars": 0,
-"score": 19.3,
+"score": 18.9,
 "last_title": "[pre-commit.ci] auto fixes from pre-commit.com hooks"
 }
 ]
 },
 "MushroomFleet/DJZ-Nodes": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 16,
 "candidates": 2,
 "active": []
 },
 "ycyy/ComfyUI-YCYY-LoraInfo": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 3,
 "candidates": 0,
 "active": []
 },
 "glibsonoran/Plush-for-ComfyUI": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 17,
 "candidates": 0,
 "active": []
 },
 "alexcong/ComfyUI_QwenVL": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 24,
 "candidates": 2,
 "active": [
@@ -4047,13 +4047,13 @@
 ]
 },
 "marhensa/sdxl-recommended-res-calc": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": []
 },
 "syllebra/bilbox-comfyui": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 11,
 "candidates": 1,
 "active": [
@@ -4071,15 +4071,15 @@
 ]
 },
 "portu-sim/comfyui_bmab": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 9,
 "candidates": 0,
 "active": []
 },
 "shenduldh/ComfyUI-Lightning": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
-"forks_listed": 6,
-"candidates": 3,
+"scanned": "2026-11-23T18:14:47.737250+00:00",
+"forks_listed": 7,
+"candidates": 4,
 "active": [
 {
 "repo": "ruwwww/ComfyUI-Lightning",
@@ -4106,7 +4106,7 @@
 ]
 },
 "ShammiG/ComfyUI-Simple_Readable_Metadata-SG": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": [
@@ -4118,13 +4118,13 @@
 "behind": 0,
 "last_commit": "2026-09-16T02:14:11Z",
 "stars": 0,
-"score": 8.6,
+"score": 8.2,
 "last_title": "Extend WebUI extraction patterns"
 }
 ]
 },
 "comfy-deploy/comfyui-llm-toolkit": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 22,
 "candidates": 6,
 "active": [
@@ -4147,7 +4147,7 @@
 "behind": 0,
 "last_commit": "2026-07-26T13:39:24Z",
 "stars": 0,
-"score": 5.7,
+"score": 5.3,
 "last_title": "adding all the things"
 },
 {
@@ -4158,13 +4158,13 @@
 "behind": 0,
 "last_commit": "2026-07-06T15:45:53Z",
 "stars": 0,
-"score": 4.6,
+"score": 4.2,
 "last_title": "Fix/openrouter support (#1)"
 }
 ]
 },
 "pamparamm/ComfyUI_IPAdapter_plus": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 2,
 "candidates": 0,
 "active": []
@@ -4199,7 +4199,7 @@
 ]
 },
 "Munkyfoot/ComfyUI-TextOverlay": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 15,
 "candidates": 1,
 "active": [
@@ -4235,9 +4235,9 @@
 ]
 },
 "yawiii/ComfyUI-Prompt-Assistant": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
-"forks_listed": 143,
-"candidates": 21,
+"scanned": "2026-11-23T18:14:47.737250+00:00",
+"forks_listed": 147,
+"candidates": 22,
 "active": [
 {
 "repo": "wysl/ComfyUI-Prompt-Assistant",
@@ -4247,7 +4247,7 @@
 "behind": 0,
 "last_commit": "2026-09-13T16:26:18Z",
 "stars": 3,
-"score": 82.5,
+"score": 82.1,
 "last_title": "chore: update Google web translation user agent"
 },
 {
@@ -4257,25 +4257,25 @@
 "ahead": 3,
 "behind": 0,
 "last_commit": "2026-11-14T17:39:21Z",
-"stars": 36,
-"score": 31.6,
+"stars": 42,
+"score": 31.8,
 "last_title": "\u4fee\u590d\u524d\u7aef 1.58.5 \u79fb\u9664 PrimeVue \u540e\u8f93\u5165\u6846\u5931\u53bb\u80cc\u666f\u4e0e\u8fb9\u6846\u7684\u95ee\u9898"
 },
 {
-"repo": "cy745/ComfyUI-Prompt-Assistant",
-"url": "https://github.com/cy745/ComfyUI-Prompt-Assistant",
+"repo": "z1099530893/ComfyUI-Prompt-Assistant-Repair",
+"url": "https://github.com/z1099530893/ComfyUI-Prompt-Assistant-Repair",
 "branch": "main",
-"ahead": 6,
+"ahead": 7,
 "behind": 0,
-"last_commit": "2026-11-09T17:40:06Z",
-"stars": 0,
-"score": 21.7,
-"last_title": "feat(panel): rebuild the sidebar UI from scratch"
+"last_commit": "2026-11-17T14:38:07Z",
+"stars": 2,
+"score": 28.4,
+"last_title": "fix: \u4fee\u590d\u62d6\u52a8\u5f39\u7a97\u65f6\u7a97\u53e3\u4e0e\u9f20\u6807\u4f4d\u7f6e\u4e0d\u4e00\u81f4"
 }
 ]
 },
 "wywywywy/ComfyUI-pause": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 7,
 "candidates": 0,
 "active": []
@@ -4335,7 +4335,7 @@
 ]
 },
 "PozzettiAndrea/ComfyUI-SAM3": {
-"scanned": "2026-11-16T15:53:47.380562+00:00",
+"scanned": "2026-11-23T18:14:47.737250+00:00",
 "forks_listed": 80,
 "candidates": 12,
 "active": [
@@ -4347,7 +4347,7 @@
 "behind": 0,
 "last_commit": "2026-09-06T22:25:36Z",
 "stars": 0,
-"score": 52.1,
+"score": 51.7,
 "last_title": "Update README.md"
 },
 {
@@ -4358,8 +4358,19 @@
 "behind": 160,
 "last_commit": "2026-08-02T14:42:49Z",
 "stars": 3,
-"score": 28.1,
+"score": 27.7,
 "last_title": "Update repository URL in pyproject.toml"
+},
+{
+"repo": "mjwach/ComfyUI-SAM3",
+"url": "https://github.com/mjwach/ComfyUI-SAM3",
+"branch": "main",
+"ahead": 6,
+"behind": 0,
+"last_commit": "2026-11-18T00:36:51Z",
+"stars": 0,
+"score": 21.7,
+"last_title": "made it possible to feed in Magic Wand Mask block size via a wire"
 },
 {
 "repo": "manzonif/ComfyUI-SAM3",
@@ -4369,19 +4380,8 @@
 "behind": 0,
 "last_commit": "2026-09-03T09:05:29Z",
 "stars": 0,
-"score": 19.9,
+"score": 19.5,
 "last_title": "fix VRAM"
-},
-{
-"repo": "mjwach/ComfyUI-SAM3",
-"url": "https://github.com/mjwach/ComfyUI-SAM3",
-"branch": "main",
-"ahead": 5,
-"behind": 0,
-"last_commit": "2026-10-26T08:10:08Z",
-"stars": 0,
-"score": 18.8,
-"last_title": "added magic wand node for selecting things in videos less smartly than with SAM3, but more controllably"
 }
 ]
 }

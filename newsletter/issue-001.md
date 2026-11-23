@@ -1,34 +1,34 @@
-# NodeWatch Weekly — Issue #1 (2026-11-22)
+# NodeWatch Weekly — Issue #1 (2026-11-23)
 
-*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,609 registered.*
+*The health report for ComfyUI custom nodes. We track the top 300 node packs (by Comfy Registry downloads) out of 6,624 registered.*
 
 ## The big picture
-- **187** of 300 popular packs are **Active** (commit within the last year); **111** look **stale**, and **107** haven't had a commit in over a year (stale), and **58** active packs are *Quiet* (6–12 months without a commit).
-- In the **top 50**, 11 are stale (no commit in 12+ months), including household names:
-  - **ComfyUI_essentials** (#7, 3,171,969 downloads, 1213 ★) — last commit 2025-04-14
-  - **ComfyUI-Crystools** (#10, 2,522,185 downloads, 2038 ★) — last commit 2025-10-26
-  - **ComfyUI Impact Subpack** (#11, 2,398,642 downloads, 398 ★) — last commit 2025-07-22
-  - **ComfyUI_IPAdapter_plus** (#20, 1,642,082 downloads, 6184 ★) — last commit 2025-04-14
-  - **ComfyUI-mxToolkit** (#21, 1,260,969 downloads, 321 ★) — last commit 2025-05-07
-  - **Derfuu_ComfyUI_ModdedNodes** (#36, 795,453 downloads, 456 ★) — last commit 2024-06-22
-  - **ControlAltAI_Nodes** (#39, 714,045 downloads, 211 ★) — last commit 2025-06-05
-  - **ComfyUI-WD14-Tagger** (#42, 628,599 downloads, 1269 ★) — last commit 2025-07-11
+- **187** of 300 popular packs are **Active** (commit within the last year); **111** look **stale**, and **107** haven't had a commit in over a year (stale), and **57** active packs are *Quiet* (6–12 months without a commit).
+- In the **top 50**, 10 are stale (no commit in 12+ months), including household names:
+  - **ComfyUI_essentials** (#7, 3,174,705 downloads, 1216 ★) — last commit 2025-04-14
+  - **ComfyUI-Crystools** (#10, 2,526,092 downloads, 2038 ★) — last commit 2025-10-26
+  - **ComfyUI_IPAdapter_plus** (#20, 1,643,872 downloads, 6190 ★) — last commit 2025-04-14
+  - **ComfyUI-mxToolkit** (#21, 1,262,061 downloads, 321 ★) — last commit 2025-05-07
+  - **Derfuu_ComfyUI_ModdedNodes** (#36, 796,142 downloads, 456 ★) — last commit 2024-06-22
+  - **ControlAltAI_Nodes** (#39, 714,736 downloads, 211 ★) — last commit 2025-06-05
+  - **ComfyUI-WD14-Tagger** (#42, 629,110 downloads, 1269 ★) — last commit 2025-07-11
+  - **ComfyUI-TeaCache** (#43, 623,846 downloads, 1095 ★) — last commit 2025-07-12
 - Only **13** of 300 declare a `requires-comfyui` range in pyproject.toml — so version compatibility is mostly guesswork for users.
-- **30** packs shipped commits this week; **28** published a new registry release.
+- **30** packs shipped commits this week; **27** published a new registry release.
 
 ## 📈 Error spikes (worth checking recent issues)
-- **ComfyUI-DaSiWa-Nodes** — 3 error-titled issues in last 30 days vs 1.17/month baseline; 2.01 per 100K downloads — worth checking recent issues; latest registry version deprecated. Recent reports: [Hi-Res Regenerate crashes in `refinement_memory_budget()` when loaded-model list](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/99); [MinimaxH3 Continuity - segment decode error](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/98); [Continuity with REF2VA timeline audio reference fails: shape mismatch in audio r](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/94)
-- **AusBoss** — 7 error-titled issues in last 30 days vs 0.17/month baseline; 17.75 per 100K downloads — worth checking recent issues. Recent reports: [ComfyUI release: the pack's nightly check fails](https://github.com/ausboss/ComfyUI-AusBoss/issues/391); [Import fails on Python 3.10 (`No module named 'tomllib'`)](https://github.com/ausboss/ComfyUI-AusBoss/issues/387); [Krea2 Inpaint Masked Workflow tone match not working](https://github.com/ausboss/ComfyUI-AusBoss/issues/361)
+- **ComfyUI-DaSiWa-Nodes** — 3 error-titled issues in last 30 days vs 1.17/month baseline; 2.0 per 100K downloads — worth checking recent issues; latest registry version deprecated. Recent reports: [Hi-Res Regenerate crashes in `refinement_memory_budget()` when loaded-model list](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/99); [MinimaxH3 Continuity - segment decode error](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/98); [Continuity with REF2VA timeline audio reference fails: shape mismatch in audio r](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes/issues/94)
+- **AusBoss** — 5 error-titled issues in last 30 days vs 0.5/month baseline; 12.35 per 100K downloads — worth checking recent issues. Recent reports: [ComfyUI release: the pack's nightly check fails](https://github.com/ausboss/ComfyUI-AusBoss/issues/391); [Import fails on Python 3.10 (`No module named 'tomllib'`)](https://github.com/ausboss/ComfyUI-AusBoss/issues/387); [Krea2 Inpaint Masked Workflow tone match not working](https://github.com/ausboss/ComfyUI-AusBoss/issues/361)
 
 ## 🔥 Rising this week
-- **FastVideo** — +145 stars in 30 days
-- **ComfyUI-GGUF** — +92 stars in 30 days
-- **rgthree-comfy** — +89 stars in 30 days
+- **FastVideo** — +149 stars in 30 days
+- **ComfyUI-GGUF** — +91 stars in 30 days
 - **Prompt Assistant** — +89 stars in 30 days
-- **ComfyUI-WanVideoWrapper** — +83 stars in 30 days
-- **ComfyUI-KJNodes** — +82 stars in 30 days
-- **VRGameDevGirl Custom Nodes** — +80 stars in 30 days
-- **VNCCS - Visual Novel Character Creation Suite** — +77 stars in 30 days
+- **ComfyUI-WanVideoWrapper** — +84 stars in 30 days
+- **rgthree-comfy** — +82 stars in 30 days
+- **VRGameDevGirl Custom Nodes** — +82 stars in 30 days
+- **ComfyUI-KJNodes** — +77 stars in 30 days
+- **VNCCS - Visual Novel Character Creation Suite** — +75 stars in 30 days
 
 ## 🍴 Active forks of stale packs (suggestions, not endorsements)
 - **ComfyUI-GGUF** → [molbal/ComfyUI-GGUF](https://github.com/molbal/ComfyUI-GGUF): 126 commits ahead, last commit 2026-11-16
@@ -39,6 +39,7 @@
 - **ComfyUI-Autocomplete-Plus** → [Aaalice233/ComfyUI-Autocomplete-Aaalice](https://github.com/Aaalice233/ComfyUI-Autocomplete-Aaalice): 60 commits ahead, last commit 2026-08-31
 
 ## 🚀 Fresh releases this week
+- **ComfyUI Impact Subpack** v1.3.6 (2026-11-23)
 - **ComfyUI-Nunchaku QwenImage&Z-Image Turbo LoraStack** v2.7.2 (2026-11-21)
 - **ComfyUI-VRAM-Manager** v2.5.4 (2026-11-21)
 - **ComfyUI Impact Pack** v9.3.0 (2026-11-21)
@@ -48,7 +49,6 @@
 - **ComfyUI-KikoTools** v1.7.0 (2026-11-20)
 - **ComfyUI_Custom_Nodes_AlekPet** v1.3.0 (2026-11-20)
 - **Pixaroma** v1.4.263 (2026-11-20)
-- **WAS Node Suite v3** v3.14.1 (2026-11-19)
 
 ## 🪦 Gone missing
 - **comfyui-reactor-node** — `Gourieff/comfyui-reactor-node` no longer resolves on GitHub (still listed in the registry)
