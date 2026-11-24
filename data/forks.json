@@ -29,8 +29,8 @@
 ]
 },
 "pythongosssss/ComfyUI-Custom-Scripts": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 149,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 148,
 "candidates": 22,
 "active": [
 {
@@ -41,14 +41,14 @@
 "behind": 0,
 "last_commit": "2026-09-18T06:33:17Z",
 "stars": 0,
-"score": 8.7,
+"score": 8.3,
 "last_title": "Fix autocomplete not triggering in Vue nodes (node 2.0)"
 }
 ]
 },
 "cubiq/ComfyUI_essentials": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 185,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 183,
 "candidates": 29,
 "active": [
 {
@@ -58,8 +58,8 @@
 "ahead": 14,
 "behind": 0,
 "last_commit": "2025-11-28T06:04:49Z",
-"stars": 12,
-"score": 39.1,
+"stars": 13,
+"score": 39.4,
 "last_title": "docs(readme): \u5c06\u8282\u70b9\u5206\u7c7b\u6298\u53e0\u663e\u793a"
 },
 {
@@ -98,8 +98,8 @@
 ]
 },
 "city96/ComfyUI-GGUF": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 171,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 172,
 "candidates": 59,
 "active": [
 {
@@ -110,7 +110,7 @@
 "behind": 0,
 "last_commit": "2026-11-16T09:41:47Z",
 "stars": 110,
-"score": 130.3,
+"score": 129.9,
 "last_title": "Merge pull request #40 from hartmark/rocm-hip-w4a8-backend"
 },
 {
@@ -120,8 +120,8 @@
 "ahead": 167,
 "behind": 0,
 "last_commit": "2026-10-22T19:33:40Z",
-"stars": 33,
-"score": 123.9,
+"stars": 35,
+"score": 123.7,
 "last_title": "2.21.0: port OmniVoice loader and short/long TTS nodes"
 },
 {
@@ -132,7 +132,7 @@
 "behind": 0,
 "last_commit": "2026-08-08T22:29:58Z",
 "stars": 11,
-"score": 107.2,
+"score": 106.8,
 "last_title": "Fix MiniMax H3 GGUF loading"
 },
 {
@@ -142,8 +142,8 @@
 "ahead": 8,
 "behind": 0,
 "last_commit": "2026-11-12T17:05:27Z",
-"stars": 253,
-"score": 49.7,
+"stars": 260,
+"score": 49.4,
 "last_title": "feat: add Qwen3.5 GGUF text encoder support"
 },
 {
@@ -153,15 +153,15 @@
 "ahead": 14,
 "behind": 0,
 "last_commit": "2026-10-08T13:58:13Z",
-"stars": 22,
+"stars": 24,
 "score": 49.3,
 "last_title": "Add ComfyUI 0.39 Linear input_act compatibility"
 }
 ]
 },
 "crystian/ComfyUI-Crystools": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 159,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 160,
 "candidates": 37,
 "active": [
 {
@@ -172,7 +172,7 @@
 "behind": 0,
 "last_commit": "2026-08-17T06:50:28Z",
 "stars": 3,
-"score": 80.9,
+"score": 80.5,
 "last_title": "Update actual images"
 },
 {
@@ -183,7 +183,7 @@
 "behind": 0,
 "last_commit": "2026-09-04T17:06:36Z",
 "stars": 2,
-"score": 44.7,
+"score": 44.3,
 "last_title": "1.28.0"
 },
 {
@@ -194,7 +194,7 @@
 "behind": 0,
 "last_commit": "2026-08-22T08:23:50Z",
 "stars": 3,
-"score": 21.2,
+"score": 20.8,
 "last_title": "Fix GPU monitoring recovery and metadata warning"
 },
 {
@@ -205,7 +205,7 @@
 "behind": 0,
 "last_commit": "2026-10-29T14:55:10Z",
 "stars": 0,
-"score": 20.9,
+"score": 20.6,
 "last_title": "Depend on nvidia-ml-py instead of the deprecated pynvml package"
 },
 {
@@ -273,9 +273,9 @@
 ]
 },
 "Fannovel16/ComfyUI-Frame-Interpolation": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 141,
-"candidates": 17,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 142,
+"candidates": 19,
 "active": [
 {
 "repo": "poltsy/ComfyUI-Frame-Interpolation",
@@ -285,7 +285,7 @@
 "behind": 0,
 "last_commit": "2026-11-12T14:18:30Z",
 "stars": 0,
-"score": 29.7,
+"score": 29.3,
 "last_title": "add urls and stuff, remove the old models that have vanished off the planet"
 },
 {
@@ -296,7 +296,7 @@
 "behind": 0,
 "last_commit": "2026-11-11T13:56:52Z",
 "stars": 0,
-"score": 15.7,
+"score": 15.3,
 "last_title": "feat: seamless RAM-safe RIFEInterpolation for existing H3 workflows"
 },
 {
@@ -307,7 +307,7 @@
 "behind": 0,
 "last_commit": "2026-11-06T02:21:24Z",
 "stars": 0,
-"score": 11.4,
+"score": 11.0,
 "last_title": "install.py: detect CUDA from torch.version.cuda, support CUDA 13, fail loudly"
 },
 {
@@ -318,13 +318,13 @@
 "behind": 0,
 "last_commit": "2026-10-30T18:51:10Z",
 "stars": 0,
-"score": 11.1,
+"score": 10.7,
 "last_title": "Remove unreachable code"
 }
 ]
 },
 "cubiq/ComfyUI_IPAdapter_plus": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 185,
 "candidates": 12,
 "active": [
@@ -347,13 +347,13 @@
 "behind": 0,
 "last_commit": "2026-10-27T20:22:19Z",
 "stars": 0,
-"score": 18.9,
+"score": 18.5,
 "last_title": "Add median reference embedding combination"
 }
 ]
 },
 "Smirnov75/ComfyUI-mxToolkit": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 32,
 "candidates": 7,
 "active": [
@@ -376,7 +376,7 @@
 "behind": 0,
 "last_commit": "2026-08-04T14:19:47Z",
 "stars": 0,
-"score": 6.2,
+"score": 5.8,
 "last_title": "Add locale files"
 },
 {
@@ -404,9 +404,9 @@
 ]
 },
 "numz/ComfyUI-SeedVR2_VideoUpscaler": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 130,
-"candidates": 53,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 133,
+"candidates": 54,
 "active": [
 {
 "repo": "ussoewwin/ComfyUI-SeedVR2-VideoUpscaler-with-TensorRT",
@@ -416,7 +416,7 @@
 "behind": 0,
 "last_commit": "2026-10-28T11:08:16Z",
 "stars": 21,
-"score": 122.3,
+"score": 121.9,
 "last_title": "Update README.md"
 },
 {
@@ -427,19 +427,19 @@
 "behind": 0,
 "last_commit": "2026-06-21T22:14:21Z",
 "stars": 5,
-"score": 87.5,
+"score": 87.1,
 "last_title": "Merge pull request #10 from xmarre/codex/apply-patch-for-bf16-support-improvements"
 },
 {
 "repo": "FurkanGozukara/SeedVR2",
 "url": "https://github.com/FurkanGozukara/SeedVR2",
 "branch": "main",
-"ahead": 11,
+"ahead": 12,
 "behind": 0,
-"last_commit": "2026-11-01T21:16:29Z",
+"last_commit": "2026-11-23T04:15:38Z",
 "stars": 3,
-"score": 37.2,
-"last_title": "V9.4: W4A8 ConvRot checkpoints, 2x faster INT8 ConvRot, lighter DiT and VAE"
+"score": 39.9,
+"last_title": "V10.5: encode with the app's FFmpeg video arguments (NVENC)"
 },
 {
 "repo": "ethanfel/ComfyUI-SeedVR2_VideoPathUpscaler",
@@ -449,7 +449,7 @@
 "behind": 0,
 "last_commit": "2026-08-22T18:52:48Z",
 "stars": 2,
-"score": 24.0,
+"score": 23.6,
 "last_title": "Enable registry publishing for renamed repository"
 },
 {
@@ -460,13 +460,13 @@
 "behind": 0,
 "last_commit": "2026-06-08T10:54:51Z",
 "stars": 4,
-"score": 18.0,
+"score": 17.6,
 "last_title": "Add prebuilt omni_xpu_kernel wheels"
 }
 ]
 },
 "jags111/efficiency-nodes-comfyui": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 163,
 "candidates": 14,
 "active": [
@@ -478,7 +478,7 @@
 "behind": 0,
 "last_commit": "2026-10-22T09:11:06Z",
 "stars": 0,
-"score": 74.6,
+"score": 74.2,
 "last_title": "add hires fix info when image save"
 },
 {
@@ -489,7 +489,7 @@
 "behind": 0,
 "last_commit": "2026-08-12T10:25:40Z",
 "stars": 1,
-"score": 9.6,
+"score": 9.2,
 "last_title": "Add modern diffusion-model LoRA XY workflow"
 }
 ]
@@ -546,25 +546,13 @@
 ]
 },
 "sipherxyz/comfyui-art-venture": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 75,
-"candidates": 5,
-"active": [
-{
-"repo": "toxicwind/comfyui-art-venture",
-"url": "https://github.com/toxicwind/comfyui-art-venture",
-"branch": "main",
-"ahead": 2,
-"behind": 123,
-"last_commit": "2026-08-18T01:20:21Z",
-"stars": 1,
-"score": 11.9,
-"last_title": "sync 2026-08-18-01:20"
-}
-]
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 74,
+"candidates": 4,
+"active": []
 },
 "Derfuu/Derfuu_ComfyUI_ModdedNodes": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 60,
 "candidates": 9,
 "active": [
@@ -593,19 +581,19 @@
 ]
 },
 "aria1th/ComfyUI-LogicUtils": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 23,
 "candidates": 3,
 "active": []
 },
 "gseth/ControlAltAI-Nodes": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 19,
 "candidates": 4,
 "active": []
 },
 "welltop-cn/ComfyUI-TeaCache": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 64,
 "candidates": 20,
 "active": [
@@ -617,7 +605,7 @@
 "behind": 0,
 "last_commit": "2026-09-20T15:09:25Z",
 "stars": 0,
-"score": 106.8,
+"score": 106.4,
 "last_title": "presets: rebuild anima_presets.json with the current pipeline"
 },
 {
@@ -645,8 +633,8 @@
 ]
 },
 "pythongosssss/ComfyUI-WD14-Tagger": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 115,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 114,
 "candidates": 19,
 "active": [
 {
@@ -656,7 +644,7 @@
 "ahead": 58,
 "behind": 0,
 "last_commit": "2026-10-07T15:31:00Z",
-"stars": 27,
+"stars": 29,
 "score": 122.1,
 "last_title": "Update README with usage guide, model notes and troubleshooting"
 },
@@ -668,7 +656,7 @@
 "behind": 0,
 "last_commit": "2026-08-07T12:53:21Z",
 "stars": 0,
-"score": 18.3,
+"score": 17.9,
 "last_title": "Rename the cache helpers off a name the web route already owns"
 },
 {
@@ -679,7 +667,7 @@
 "behind": 0,
 "last_commit": "2026-08-13T03:52:16Z",
 "stars": 0,
-"score": 12.7,
+"score": 12.3,
 "last_title": "\u30bf\u30b0\u306e\u512a\u5148\u9806\u4f4d\u3092\u5909\u3048\u308b\u3088\u3046\u306b\u4fee\u6b63"
 },
 {
@@ -701,13 +689,13 @@
 "behind": 0,
 "last_commit": "2026-06-12T07:00:29Z",
 "stars": 0,
-"score": 3.2,
+"score": 2.8,
 "last_title": "docs(agent-routing): add root-level AGENTS.md"
 }
 ]
 },
 "LAOGOU-666/Comfyui-Memory_Cleanup": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 22,
 "candidates": 6,
 "active": [
@@ -719,7 +707,7 @@
 "behind": 0,
 "last_commit": "2026-08-03T03:10:24Z",
 "stars": 0,
-"score": 10.1,
+"score": 9.7,
 "last_title": "Merge branch 'main' of https://github.com/momosh106415-art/Comfyui-Memory_Cleanup"
 },
 {
@@ -736,9 +724,9 @@
 ]
 },
 "stavsap/comfyui-ollama": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 94,
-"candidates": 17,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 95,
+"candidates": 18,
 "active": [
 {
 "repo": "Chargeuk/comfyui-ollama",
@@ -748,8 +736,19 @@
 "behind": 0,
 "last_commit": "2026-09-13T17:35:51Z",
 "stars": 0,
-"score": 50.4,
+"score": 50.0,
 "last_title": "Merge upstream main with VTS provider extensions"
+},
+{
+"repo": "secheverrianogal-beep/comfyui-ollama",
+"url": "https://github.com/secheverrianogal-beep/comfyui-ollama",
+"branch": "main",
+"ahead": 5,
+"behind": 0,
+"last_commit": "2026-11-23T12:04:53Z",
+"stars": 0,
+"score": 19.9,
+"last_title": "fix(deps): bump minimum anyio and certifi (SER-372)"
 },
 {
 "repo": "Clusters/comfyui-llama",
@@ -759,7 +758,7 @@
 "behind": 0,
 "last_commit": "2026-10-10T13:27:57Z",
 "stars": 2,
-"score": 18.6,
+"score": 18.3,
 "last_title": "fix: use relative URLs so the extension works when served under a subpath"
 },
 {
@@ -770,7 +769,7 @@
 "behind": 0,
 "last_commit": "2026-06-17T15:17:40Z",
 "stars": 2,
-"score": 10.3,
+"score": 9.9,
 "last_title": "Update ollama dependency in requirements.txt"
 },
 {
@@ -781,24 +780,13 @@
 "behind": 0,
 "last_commit": "2026-10-18T07:47:46Z",
 "stars": 0,
-"score": 10.3,
-"last_title": "Fix thinking-model leaks into result and missing context on cloud models"
-},
-{
-"repo": "ericsmallw/comfyui-ollama",
-"url": "https://github.com/ericsmallw/comfyui-ollama",
-"branch": "main",
-"ahead": 1,
-"behind": 0,
-"last_commit": "2026-10-18T07:47:46Z",
-"stars": 0,
-"score": 10.3,
+"score": 9.9,
 "last_title": "Fix thinking-model leaks into result and missing context on cloud models"
 }
 ]
 },
 "PowerHouseMan/ComfyUI-AdvancedLivePortrait": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 119,
 "candidates": 38,
 "active": [
@@ -832,7 +820,7 @@
 "behind": 0,
 "last_commit": "2026-10-19T03:12:45Z",
 "stars": 3,
-"score": 26.4,
+"score": 26.0,
 "last_title": "Remove duplicate content in README.md"
 },
 {
@@ -849,7 +837,7 @@
 ]
 },
 "kijai/ComfyUI-segment-anything-2": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 87,
 "candidates": 13,
 "active": [
@@ -872,7 +860,7 @@
 "behind": 0,
 "last_commit": "2026-08-27T15:27:09Z",
 "stars": 0,
-"score": 7.4,
+"score": 7.1,
 "last_title": "correct downloade to downloaded"
 },
 {
@@ -889,7 +877,7 @@
 ]
 },
 "kijai/ComfyUI-MelBandRoFormer": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 28,
 "candidates": 7,
 "active": [
@@ -901,13 +889,13 @@
 "behind": 0,
 "last_commit": "2026-09-16T17:07:09Z",
 "stars": 0,
-"score": 70.6,
+"score": 70.2,
 "last_title": "Add Demucs htdemucs_ft drum and four-stem separation"
 }
 ]
 },
 "lldacing/ComfyUI_PuLID_Flux_ll": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 53,
 "candidates": 16,
 "active": [
@@ -930,7 +918,7 @@
 "behind": 0,
 "last_commit": "2026-08-25T03:26:40Z",
 "stars": 0,
-"score": 7.3,
+"score": 6.9,
 "last_title": "Fix TypeError: pulid_forward_orig() unexpected keyword 'timestep_zero_index'"
 },
 {
@@ -941,7 +929,7 @@
 "behind": 0,
 "last_commit": "2026-06-23T00:04:58Z",
 "stars": 1,
-"score": 6.8,
+"score": 6.4,
 "last_title": "fix: ComfyUI 0.23.0 compatibility \u2014 updated `pulid_forward_orig` in `PulidFluxHook.py` to accept `timestep_zero_index` a"
 },
 {
@@ -952,7 +940,7 @@
 "behind": 0,
 "last_commit": "2026-08-02T17:55:49Z",
 "stars": 0,
-"score": 6.1,
+"score": 5.7,
 "last_title": "Fix Flux timestep_zero_index compatibility"
 },
 {
@@ -969,10 +957,21 @@
 ]
 },
 "orssorbit/ComfyUI-wanBlockswap": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 17,
 "candidates": 8,
 "active": [
+{
+"repo": "crmbz0r/ComfyUI_Wan22Blockswap",
+"url": "https://github.com/crmbz0r/ComfyUI_Wan22Blockswap",
+"branch": "main",
+"ahead": 61,
+"behind": 0,
+"last_commit": "2026-04-08T06:28:04Z",
+"stars": 4,
+"score": 107.0,
+"last_title": "Update README.md"
+},
 {
 "repo": "sdwebui-extensions/ComfyUI-wanBlockswap",
 "url": "https://github.com/sdwebui-extensions/ComfyUI-wanBlockswap",
@@ -987,8 +986,8 @@
 ]
 },
 "cubiq/ComfyUI_InstantID": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 136,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 135,
 "candidates": 9,
 "active": [
 {
@@ -1038,13 +1037,13 @@
 ]
 },
 "christian-byrne/audio-separation-nodes-comfyui": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 65,
-"candidates": 13,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 66,
+"candidates": 15,
 "active": []
 },
 "lrzjason/Comfyui-QwenEditUtils": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 36,
 "candidates": 5,
 "active": [
@@ -1073,8 +1072,8 @@
 ]
 },
 "bash-j/mikey_nodes": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 30,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 29,
 "candidates": 7,
 "active": [
 {
@@ -1113,9 +1112,9 @@
 ]
 },
 "kijai/ComfyUI-DepthAnythingV2": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
-"forks_listed": 51,
-"candidates": 5,
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 52,
+"candidates": 6,
 "active": []
 },
 "theUpsider/ComfyUI-Logic": {
@@ -4299,7 +4298,7 @@
 ]
 },
 "kijai/ComfyUI-Florence2": {
-"scanned": "2026-11-17T16:07:40.530506+00:00",
+"scanned": "2026-11-24T17:51:01.451140+00:00",
 "forks_listed": 140,
 "candidates": 6,
 "active": [
@@ -4311,7 +4310,7 @@
 "behind": 0,
 "last_commit": "2026-06-05T01:05:28Z",
 "stars": 0,
-"score": 28.8,
+"score": 28.4,
 "last_title": "merge main"
 }
 ]
@@ -4382,6 +4381,57 @@
 "stars": 0,
 "score": 19.5,
 "last_title": "fix VRAM"
+}
+]
+},
+"kijai/ComfyUI-WanAnimatePreprocess": {
+"scanned": "2026-11-24T17:51:01.451140+00:00",
+"forks_listed": 69,
+"candidates": 10,
+"active": [
+{
+"repo": "0xBeycan/ComfyUI-WanAnimatePreprocess",
+"url": "https://github.com/0xBeycan/ComfyUI-WanAnimatePreprocess",
+"branch": "main",
+"ahead": 4,
+"behind": 0,
+"last_commit": "2026-09-21T04:09:45Z",
+"stars": 1,
+"score": 17.4,
+"last_title": "Update model links: yolov10x from onnx-community, ViTPose from Kijai/vitpose_comfy"
+},
+{
+"repo": "ykk648/ComfyUI-WanAnimatePreprocess",
+"url": "https://github.com/ykk648/ComfyUI-WanAnimatePreprocess",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-06-28T09:14:36Z",
+"stars": 1,
+"score": 6.7,
+"last_title": "Add directional face bbox padding"
+},
+{
+"repo": "h012193213/ComfyUI-WanAnimatePreprocess",
+"url": "https://github.com/h012193213/ComfyUI-WanAnimatePreprocess",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-07-25T12:34:33Z",
+"stars": 0,
+"score": 5.2,
+"last_title": "Add install.py to pick onnxruntime-gpu for CUDA major"
+},
+{
+"repo": "Chrisphy/ComfyUI-WanAnimatePreprocess",
+"url": "https://github.com/Chrisphy/ComfyUI-WanAnimatePreprocess",
+"branch": "main",
+"ahead": 1,
+"behind": 0,
+"last_commit": "2026-07-05T13:18:37Z",
+"stars": 0,
+"score": 4.1,
+"last_title": "Use CPU onnxruntime instead of onnxruntime-gpu"
 }
 ]
 }
