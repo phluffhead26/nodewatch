@@ -4434,5 +4434,11 @@
 "last_title": "Use CPU onnxruntime instead of onnxruntime-gpu"
 }
 ]
+},
+"phazei/ComfyUI-HunyuanVideo-Foley": {
+"scanned": "2026-11-25T17:19:27.137580+00:00",
+"forks_listed": 6,
+"candidates": 0,
+"active": []
 }
 }
