@@ -2041,8 +2041,8 @@
 "active": []
 },
 "mcmonkeyprojects/sd-dynamic-thresholding": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 112,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 111,
 "candidates": 5,
 "active": [
 {
@@ -2059,7 +2059,7 @@
 ]
 },
 "alt-key-project/comfyui-dream-video-batches": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 18,
 "candidates": 2,
 "active": [
@@ -2071,13 +2071,13 @@
 "behind": 0,
 "last_commit": "2026-10-28T14:10:36Z",
 "stars": 0,
-"score": 16.7,
+"score": 16.3,
 "last_title": "for\u7ed3\u675f\u65b0\u589etxt\u529f\u80fd"
 }
 ]
 },
 "LAOGOU-666/Comfyui_LG_Tools": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 10,
 "candidates": 1,
 "active": [
@@ -2095,7 +2095,7 @@
 ]
 },
 "kijai/ComfyUI-CogVideoXWrapper": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 105,
 "candidates": 4,
 "active": [
@@ -2113,7 +2113,7 @@
 ]
 },
 "audioscavenger/save-image-extended-comfyui": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 25,
 "candidates": 6,
 "active": [
@@ -2125,7 +2125,7 @@
 "behind": 0,
 "last_commit": "2026-06-16T10:28:45Z",
 "stars": 2,
-"score": 16.0,
+"score": 15.6,
 "last_title": "pin brotli>=1.2.0"
 },
 {
@@ -2136,7 +2136,7 @@
 "behind": 0,
 "last_commit": "2026-10-27T18:12:56Z",
 "stars": 0,
-"score": 10.7,
+"score": 10.3,
 "last_title": "Restore shared folder counters for existing workflows"
 },
 {
@@ -2147,7 +2147,7 @@
 "behind": 0,
 "last_commit": "2026-07-31T19:32:26Z",
 "stars": 0,
-"score": 9.8,
+"score": 9.4,
 "last_title": ":memo: Add example screeenshot"
 },
 {
@@ -2158,7 +2158,7 @@
 "behind": 0,
 "last_commit": "2026-06-17T23:36:58Z",
 "stars": 0,
-"score": 5.4,
+"score": 5.0,
 "last_title": "Updated name, version, and other metadata"
 },
 {
@@ -2169,13 +2169,13 @@
 "behind": 0,
 "last_commit": "2026-07-11T21:19:53Z",
 "stars": 0,
-"score": 4.7,
+"score": 4.3,
 "last_title": "feat: write positive/negative_text_opt into image metadata (fixes #45)"
 }
 ]
 },
 "huanngzh/ComfyUI-MVAdapter": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 48,
 "candidates": 7,
 "active": [
@@ -2215,34 +2215,45 @@
 ]
 },
 "Miosp/ComfyUI-FBCNN": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 8,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 7,
 "candidates": 1,
 "active": []
 },
 "fearnworks/ComfyUI_FearnworksNodes": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 8,
 "candidates": 2,
 "active": []
 },
 "xhiroga/ComfyUI-FramePackWrapper_PlusOne": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 5,
 "candidates": 1,
 "active": []
 },
 "traugdor/ComfyUI-UltimateSDUpscale-GGUF": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 5,
 "candidates": 0,
 "active": []
 },
 "1038lab/ComfyUI-JoyCaption": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 38,
-"candidates": 14,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 39,
+"candidates": 15,
 "active": [
+{
+"repo": "themex138/ComfyUI-JoyCaption",
+"url": "https://github.com/themex138/ComfyUI-JoyCaption",
+"branch": "main",
+"ahead": 3,
+"behind": 0,
+"last_commit": "2026-11-27T10:54:26Z",
+"stars": 0,
+"score": 16.0,
+"last_title": "Fix GGUF cache ownership and fail on captioning errors"
+},
 {
 "repo": "falken123/ComfyUI-JoyCaption",
 "url": "https://github.com/falken123/ComfyUI-JoyCaption",
@@ -2251,7 +2262,7 @@
 "behind": 0,
 "last_commit": "2026-10-23T12:33:45Z",
 "stars": 0,
-"score": 14.4,
+"score": 14.1,
 "last_title": "Update JC.py"
 },
 {
@@ -2262,13 +2273,13 @@
 "behind": 0,
 "last_commit": "2026-10-30T13:27:41Z",
 "stars": 0,
-"score": 12.8,
+"score": 12.4,
 "last_title": "Merge pull request #1 from Ronnasayd/fix/issue-61-sizedict"
 }
 ]
 },
 "vuongminh1907/ComfyUI_ZenID": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 24,
 "candidates": 9,
 "active": [
@@ -2286,13 +2297,13 @@
 ]
 },
 "MinorBoy/ComfyUI_essentials_mb": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 3,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 4,
 "candidates": 0,
 "active": []
 },
 "CY-CHENYUE/ComfyUI-Janus-Pro": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 79,
 "candidates": 14,
 "active": [
@@ -2354,7 +2365,7 @@
 ]
 },
 "pamparamm/sd-perturbed-attention": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 27,
 "candidates": 3,
 "active": [
@@ -2372,13 +2383,13 @@
 ]
 },
 "siliconflow/BizyAir": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 57,
 "candidates": 11,
 "active": []
 },
 "AIrjen/OneButtonPrompt": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 106,
 "candidates": 7,
 "active": [
@@ -2390,7 +2401,7 @@
 "behind": 68,
 "last_commit": "2026-09-02T17:13:23Z",
 "stars": 1,
-"score": 32.7,
+"score": 32.3,
 "last_title": "Add files via upload"
 },
 {
@@ -2418,14 +2429,14 @@
 ]
 },
 "LevelPixel/ComfyUI-LevelPixel": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 3,
 "candidates": 1,
 "active": []
 },
 "receyuki/comfyui-prompt-reader-node": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 44,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 43,
 "candidates": 8,
 "active": [
 {
@@ -2447,7 +2458,7 @@
 "behind": 0,
 "last_commit": "2026-08-17T06:36:07Z",
 "stars": 0,
-"score": 6.7,
+"score": 6.3,
 "last_title": "Fix SDPromptReader image path resolution for output folder"
 },
 {
@@ -2475,7 +2486,7 @@
 ]
 },
 "traugdor/ComfyUI-quadMoons-nodes": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 6,
 "candidates": 1,
 "active": [
@@ -2493,13 +2504,13 @@
 ]
 },
 "r-vage/ComfyUI-RvTools_v2": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 6,
 "candidates": 0,
 "active": []
 },
 "Flow-two/ComfyUI-WanStartEndFramesNative": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 7,
 "candidates": 3,
 "active": [
@@ -2511,13 +2522,13 @@
 "behind": 0,
 "last_commit": "2026-07-02T17:21:18Z",
 "stars": 0,
-"score": 8.2,
+"score": 7.8,
 "last_title": "Update nodes.py"
 }
 ]
 },
 "Enemyx-net/VibeVoice-ComfyUI": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 128,
 "candidates": 13,
 "active": [
@@ -2529,7 +2540,7 @@
 "behind": 0,
 "last_commit": "2026-08-29T12:45:45Z",
 "stars": 5,
-"score": 29.1,
+"score": 28.8,
 "last_title": "Merge pull request #3 from nikhilprasanth/claude/vibevoice-speech-mask-alignment-9tri2p"
 },
 {
@@ -2551,7 +2562,7 @@
 "behind": 0,
 "last_commit": "2026-11-07T02:17:40Z",
 "stars": 0,
-"score": 15.3,
+"score": 14.9,
 "last_title": "chore(sync): lossless upstream merge from Enemyx-net/VibeVoice-ComfyUI:main"
 },
 {
@@ -2562,13 +2573,13 @@
 "behind": 1,
 "last_commit": "2026-09-04T11:02:45Z",
 "stars": 0,
-"score": 9.7,
+"score": 9.3,
 "last_title": "ci: a publishability guard, so nothing private reaches this public repo"
 }
 ]
 },
 "Layer-norm/comfyui-lama-remover": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 24,
 "candidates": 4,
 "active": [
@@ -2597,7 +2608,7 @@
 ]
 },
 "erosDiffusion/ComfyUI-EulerDiscreteScheduler": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 34,
 "candidates": 4,
 "active": [
@@ -2620,13 +2631,13 @@
 "behind": 0,
 "last_commit": "2026-07-08T20:19:19Z",
 "stars": 0,
-"score": 6.6,
+"score": 6.2,
 "last_title": "Fix tooltip for sigma schedule ending step in FlowMatchEulerSchedulerNode"
 }
 ]
 },
 "theUpsider/ComfyUI-Styles_CSV_Loader": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 14,
 "candidates": 3,
 "active": [
@@ -2644,7 +2655,7 @@
 ]
 },
 "madtunebk/ComfyUI-ControlnetAux": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 8,
 "candidates": 2,
 "active": [
@@ -2662,8 +2673,8 @@
 ]
 },
 "11cafe/comfyui-workspace-manager": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 83,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 82,
 "candidates": 6,
 "active": [
 {
@@ -2674,7 +2685,7 @@
 "behind": 0,
 "last_commit": "2026-10-24T18:17:15Z",
 "stars": 0,
-"score": 108.6,
+"score": 108.2,
 "last_title": "docs: Fahrplan 4/6/7 erledigt, Uebergabe v2.2.0"
 },
 {
@@ -2713,8 +2724,8 @@
 ]
 },
 "nkchocoai/ComfyUI-SaveImageWithMetaData": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
-"forks_listed": 34,
+"scanned": "2026-11-27T16:45:29.558536+00:00",
+"forks_listed": 33,
 "candidates": 12,
 "active": [
 {
@@ -2725,7 +2736,7 @@
 "behind": 0,
 "last_commit": "2026-10-20T01:21:33Z",
 "stars": 29,
-"score": 123.0,
+"score": 122.6,
 "last_title": "Merge pull request #156 from xxmjskxx/test/multichunk-safetensors-hashing"
 },
 {
@@ -2736,7 +2747,7 @@
 "behind": 0,
 "last_commit": "2026-06-10T14:07:42Z",
 "stars": 4,
-"score": 89.9,
+"score": 89.5,
 "last_title": "refactor(cache): update output cache retrieval to use get_local"
 },
 {
@@ -2775,7 +2786,7 @@
 ]
 },
 "Conor-Collins/ComfyUI-CoCoTools_IO": {
-"scanned": "2026-11-20T15:34:03.351326+00:00",
+"scanned": "2026-11-27T16:45:29.558536+00:00",
 "forks_listed": 10,
 "candidates": 6,
 "active": [
@@ -2787,7 +2798,7 @@
 "behind": 0,
 "last_commit": "2026-06-05T06:38:23Z",
 "stars": 0,
-"score": 94.7,
+"score": 94.3,
 "last_title": "Merge branch 'Conor-Collins:master' into master"
 }
 ]
